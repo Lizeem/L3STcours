@@ -107,5 +107,73 @@ Elles vont être indépendantes de la températures mais dépendant en fonction 
 
 (diapo 7.1)
 
+Importance de l'efficacité d'une colonne chromatographique : plus la vauler de N est grand, plus le pic sera fin. Cette diffusion est dû là la dispersion des solutés. Cette diffusion est "mesurée" par l'efficacité de la colonne chromatographique.
+
+## Grandeurs cinétiques
+
+Plus le nombre d'équilibre est grand, plus le système sera efficace.
+
+La théorie des plateaux établit que, après un certain parcours dans la colonne, les pics d'élution peuvent être assimilés à des courbes de Gauss.
+
+(diapo 8.2)
+
+Nth est un nombre entier et n'a pas d'unité. Elle va être dépendante de la vitesse de la phase mobile.
+
+## Résolution
+
+La résolution est deux fois la différence du temps de rétention sur la somme des largeur de pic à la base. Il existe une valeur seuil qui montre que c'est correcte : 1,5. Valeur minimale de résolution à avoir.
+
+(diapo 9.2)
+
+Pour augmenter R on augmente la distance entre les deux pics, **la sélectivité** et il faut diminuer les largeurs de pics, augmenter **l'efficacité** du système.
+
+Il faut d'abord optimiser alpha en l'augmentant puis N en l'augmentant (pic plus fin) et enfin k mais il augmente la durée globale de l'analyse.
+
+k = 0, pas de rétention donc le soluté n'est pas du tout fixé sur le système.
+
+mélange simple : moins de 5 composés et mélange complexe entre 2 et 10 composés
+
+(diapo 11.1)
+
+# Chromatographie liquide haute performance HPLC
+
+(diapo 12.1)
+
+(diapo 12.2)
+
+* PM : mélange de solvant, le solvant de base est l'eau
+* boucle d'injection 
+* colonne
+* détecteur : détection UV
+* traitement et acquisition du signal 
+
+On va séparer les espèces d'un mélange partage entre une phase mobile est une phase stationnaire (écrire diapo 13.2). Le soluté doit être soluble.
+
+## Chromatographie de partage
+
+On va utiliser des phases stationnaire à base de silice. (écrire diapo 14.1)
+
+On va utilisé la chromatographie de partage à polarité de phases inverses : le solvant de base est l'eau avec un solvant organique et la phase stationnaire et la silice dans lequel ont à formé  un modèle organique. La phase stationnaire sera moins polaire que la phase mobile.
+
+La silice est très polaire donc absorbante. La surface sont des silanols (groupement réactif) qui sont polaires afin d'avoir les interactions. Sur ces groupements en phase inverse on mettra des longues chaines hydrocarboné octadecyle. On utilise pas seulement la silice car l'eau s'accroche à celle -ci. On utilisera une colonne C18.
+
+## Les grandeurs thermodynamiques
+
+Les facteurs essentiels modifiant la sélectivité alpha sont : 
+
+* la phase stationnaire
+	* nature du greffon
+    * nature de la silice
+
+* la phase mobile : force éluante
+	* nature du solvant organique
+    * composition eau - solvant dynamique (il faut qu'il soit missible avec l'eau)
+
+* (la température) : colonne à température ambiente, on ne peut pas la modifier.
+
+Composition de la phase mobile
+
+(diapo 16.1)
+
 
 
