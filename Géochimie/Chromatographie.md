@@ -174,6 +174,3 @@ Les facteurs essentiels modifiant la sélectivité alpha sont :
 Composition de la phase mobile
 
 (diapo 16.1)
-
-
-
