@@ -20,7 +20,7 @@ Partage des constituants (solutés) des mélanges entre deux phases :
 * phase stationnaire (PS) : elle ne bouge pas
 * phase mobile (PM) : elle bouge
 
-(voir diapo page 2.2)
+![Principe](Images/22.jpg)
 
 A partir du détecteur nous aurons un chromatograme avec un pique par molécule.
 
@@ -36,13 +36,13 @@ Interaction entre solutés et phase stationnaire :
 * adsorption
 * partage
 
-(voir diapo 3.2)
+![Classification des méthodes chromatographiques](Images/32.jpg)
 
 Chromatographie d'exclusion : phase polimère, séparation en fonction de la taille des molécules
 
 Chromatographie ionique : phase stationnaire chargée, séparation entre les interactions ioniques
 
-(voir diapo 4.2)
+![Phénomènes chromatographiques](Images/42.jpg)
 
 Chromatographie liquide et chromatographie gazeuse
 
@@ -61,7 +61,7 @@ Aire du pic pour remonter à la concentration du soluté.
 
 Grandeurs fondamentales : on va utiliser des mélanges de solvant. 
 
-(voir diapo 5.1)
+![Coefficient de partage](Images/51.jpg)
 
 ## Grandeurs thermodynamiques :
 
@@ -91,7 +91,7 @@ k  est dépendant :
 
 **La sélectivité** est temps entre 2 pics consécutives : distance entre les 2 pics : montre une différence d'interaction. Si un seul pic : co-élution des deux composés
 
-(diapo 6.2)
+![La sélectivité](Images/62.jpg)
 
 alpha dépend :
 
@@ -105,7 +105,7 @@ Phénomènes de dispersion en chromatographie, les molécules ne vont pas arrive
 
 Elles vont être indépendantes de la températures mais dépendant en fonction de la phase mobile.
 
-(diapo 7.1)
+![Phénomènes de diffusion en chromatographie](Images/71.jpg)
 
 Importance de l'efficacité d'une colonne chromatographique : plus la vauler de N est grand, plus le pic sera fin. Cette diffusion est dû là la dispersion des solutés. Cette diffusion est "mesurée" par l'efficacité de la colonne chromatographique.
 
@@ -115,7 +115,7 @@ Plus le nombre d'équilibre est grand, plus le système sera efficace.
 
 La théorie des plateaux établit que, après un certain parcours dans la colonne, les pics d'élution peuvent être assimilés à des courbes de Gauss.
 
-(diapo 8.2)
+![Efficacité d'une colonne chromatographique](Images/82.jpg)
 
 Nth est un nombre entier et n'a pas d'unité. Elle va être dépendante de la vitesse de la phase mobile.
 
@@ -123,7 +123,7 @@ Nth est un nombre entier et n'a pas d'unité. Elle va être dépendante de la vi
 
 La résolution est deux fois la différence du temps de rétention sur la somme des largeur de pic à la base. Il existe une valeur seuil qui montre que c'est correcte : 1,5. Valeur minimale de résolution à avoir.
 
-(diapo 9.2)
+![Résolution](Images/92.jpg)
 
 Pour augmenter R on augmente la distance entre les deux pics, **la sélectivité** et il faut diminuer les largeurs de pics, augmenter **l'efficacité** du système.
 
@@ -133,13 +133,13 @@ k = 0, pas de rétention donc le soluté n'est pas du tout fixé sur le système
 
 mélange simple : moins de 5 composés et mélange complexe entre 2 et 10 composés
 
-(diapo 11.1)
+![Exemple](Images/111.jpg)
 
 # Chromatographie liquide haute performance HPLC
 
-(diapo 12.1)
+![Système HPLC](Images/121.jpg)
 
-(diapo 12.2)
+![Exemple](Images/122.jpg)
 
 * PM : mélange de solvant, le solvant de base est l'eau
 * boucle d'injection 
@@ -147,11 +147,13 @@ mélange simple : moins de 5 composés et mélange complexe entre 2 et 10 compos
 * détecteur : détection UV
 * traitement et acquisition du signal 
 
-On va séparer les espèces d'un mélange partage entre une phase mobile est une phase stationnaire (écrire diapo 13.2). Le soluté doit être soluble.
+On va séparer les espèces d'un mélange partage entre une phase mobile est une phase stationnaire. Chaque soluté injecté sur la colonne est soumis à deux effets antagonistes : un effet d'entraînement par la phase mobile dans laquelle il est soluble et un effet de rétention par la phase stationnaire avec l'aquelle il interagit. Le soluté doit être soluble.
+
+![Définition du système HPLC](Images/132.jpg)
 
 ## Chromatographie de partage
 
-On va utiliser des phases stationnaire à base de silice. (écrire diapo 14.1)
+La séparation des différences de solubilité des solutés dans la phase mobile et des différentes interactions des solutés avec les groupements organiques greffées sur la phase stationnaire à base de silice.
 
 On va utilisé la chromatographie de partage à polarité de phases inverses : le solvant de base est l'eau avec un solvant organique et la phase stationnaire et la silice dans lequel ont à formé  un modèle organique. La phase stationnaire sera moins polaire que la phase mobile.
 
@@ -173,4 +175,4 @@ Les facteurs essentiels modifiant la sélectivité alpha sont :
 
 Composition de la phase mobile
 
-(diapo 16.1)
+![Composition du solvant](Images/161.jpg)
