@@ -253,3 +253,13 @@ L'effet du vent sur l'état de la mer dépend :
 
 La hauteur d'une vague dépend donc de la durée d'exposition au vent et de sa zone effective d'action, ou plutôt la surface sur laquelle il souffle.
 
+L'énergie d'une houle, c'est son énergie cinétique (représentée par la vitesse), avec son énergie potentielle. (L'énergie potentielle est une énergie qui a le potentiel de se transformer en une autre forme d'énergie).
+
+E houle = E cinétique + E potentiel
+
+Célérité = fréquence angulaire / nombre d'onde
+
+truc chelou : élevation d'un point x dans l'espace et un temps bien déterminer à savoir
+
+équation de dispersion à savoir
+
