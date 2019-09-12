@@ -190,6 +190,66 @@ Le **typhon** : un typhon s’appelle ainsi lorsque il se situe dans le nord-oue
 
 # Processus physique au large
 
-# Processus physique côtiers peu profonds
+## Caractéristiques
 
-# De l'hydrodynamique à la morphodynamique
+Déformation périodique d'un interface. En océanographie, les ondes se matérialisent par un déformation de la surface de la mer (l'interface entre l'atmosphère et l'océan). 
+
+(voir diapo pour le graphique)
+
+H = 2A
+h = profondeur
+L ou delta = longueur d'onde
+T = période
+g = 9.81
+
+Les ondes sont classifiées en fonction du rapport entre la longueur d'onde et la profondeur à laquelle elle se propage
+
+* ondes courtes 
+* onde longues
+
+### Types
+
+En eau profonde c'est à dire lorsque la longueur d'onde est faible
+
+C = célérité = L/T = (g.h)^1/2
+
+En eau profonde, c'est à dire lorsque la longue d'onde est très grande par rapport à la profondeur d'eau (au moins 20 fois plus grande). Les particules d'eau se propagent en ellipse.
+
+#### Tsunami
+
+Lors de la formation d'un tsunami au large, la profondeur de l'eau est de l'ordre de 4000 m. La longueur d'onde d'un tsunami est en général supérieur à 100 Km.
+
+Au large, les tsunamis se propagent très rapidement. En effet, ceux sont des ondes longues et leur vitesse est proportionnelle à la profondeur de l'océan.
+
+Au large, la profondeur de l'océan est 4000 m et les tsunamis se propagent avec un vitesse bien derterminé (50-900 Km/h)
+
+A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vagues augmente de façon considérable. En se rappochant des côtes, la longueur d'onde diminue car la profondeur diminue. 
+
+De plus, g a toujours la même valeur donc la vitesse de propagation du tsunami dépend de la profondeur.
+
+En eau profonde, un tsunami atteint généralement quelques dizaine de centimètre de hauteur en surface, mais la hauteur de ces vagues augmentent rapidement en eau peu profonde.
+
+#### Marées
+
+La marée est le mouvement périodique de montée et descente du niveau de la mer. Arrivée en estuaire il y a une déformation des ondes de marées.
+
+courant de flot : courant de l'océan vers les côtes
+
+courant de jusant : courant des côtes vers l'océan
+
+#### Houle
+
+La longueur d'onde de la houle est de l'ordre d'une centaine de mètre. Au large, la profondeur de l'océan est supérieur à 4000 m.
+
+
+Le "fetch" est un plan d'eau sur lequel souffle le vent sans rencontrer d'obstacle.
+
+Le clapot de mer correspond à l'état de mer caractérisé par 
+
+L'effet du vent sur l'état de la mer dépend :
+
+1. de la distance sur laquelle le vent souffle sans rencontrer d'obstacle
+2. du temps pendant lequel le vent souffle de façon continue à une force donnée
+
+La hauteur d'une vague dépend donc de la durée d'exposition au vent et de sa zone effective d'action, ou plutôt la surface sur laquelle il souffle.
+
