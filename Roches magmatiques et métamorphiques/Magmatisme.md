@@ -42,7 +42,7 @@ Le magma est un mélange de solide, de liquide et de gaz.
 ![Minéralogie de l'andésite](Images/andésite.PNG)
 ![Minéralogie du granite](Images/granite.PNG)
 
-### Critères sur la texture
+### Critère sur la texture
 
 * **texture vitreuse ou hyaline** : aucun cristal. Il s'agit d'un verre, matériau amorphe. Les sphérolites sont des minéraux fibreux organisés radialement, signe d'un refroidissement brutal.
 
@@ -52,11 +52,16 @@ Le magma est un mélange de solide, de liquide et de gaz.
 
 * **texture porphyrique** : cristaux de grande taille, visibles à l'oeil nu, pris dans une matrice. Si les cristaux sont centimétriques à plurocentimétriques, on parle de phénocristaux. Ils sont hérités d'une période de cristallisation en profondeur.
 
-(diapo 13)
+Les conditions de cristallisation vont impacter la vitesse de refroidissement.
 
+![Texture des roches en fonction de la vitesse de refroidissement](Images/vitessederefroidissement.PNG)
 
+![Température pression](Images/tp.PNG)
 
+### Critère sur la forme des cristaux
 
+Les cristaux de plagioclases sont les premiers à apparaître, ils sont automorphes ou sub- automorphes. Les pyroxènes cristallisent en second dans l’espace interstitiel, ils sont xénomorphes.Les cristaux de pyroxènes sont les premiers à apparaître, ils sont automorphes ou sub-automorphes. Les plagioclases cristallisent en second dans l’espace interstitiel, ils sont xénomorphes.
 
+## Classifications
 
-
+(diapo 16)
