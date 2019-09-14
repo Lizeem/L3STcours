@@ -1,5 +1,3 @@
-I - Description et classification des roches magmatiques- Critères de description- Quelques classifications des roches magmatiques- Classification des basaltes- Classification des granites et granitoïdesII - Fusion partielle et protolithes- Protolithes mantelliques- Protolithes crustauxIII - Évolution et différenciation des magmas- Magmas basaltiques- Magmas granitiquesIV - Mise en place- Roches volcaniques- Roches plutoniquesV – Magmatisme et géodynamique
-
 # Les roches magmatiques
 
 Les roches magmatiques sont des roches issues de la cristallisation d'un magma. Il en existe deux types :

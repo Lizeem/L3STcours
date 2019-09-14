@@ -62,7 +62,7 @@ Le Titre Alcalimétrique (T.A) mesure la teneur de l'eau en alcalis libres et en
 
 Le  Titre  Alcalimétrique  Complet  (T.A.C)  correspond  à  la  teneur  de  l'eau  en  alcalis libres, carbonates et bicarbonates.
 
-(schéma tp)
+![Le titrage de l'eau](Images/titrage.jpg)
 
 TAC = dureté carbonaté et TH = dureté total (Calcuim + Magnésium).
 
@@ -72,6 +72,6 @@ pH 7-9 : zones naturelles -> hCOL<sub>3</sub> <sup>-</sup>
 
 ## Le cycle du carbone
 
-(schéma tp)
+![Essai au marbre](Images/essaiaumarbre.jpg)
 
 Eau calcaire : eau incrustante
