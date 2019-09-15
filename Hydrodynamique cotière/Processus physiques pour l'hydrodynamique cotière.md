@@ -211,7 +211,7 @@ Les ondes sont classifiées en fonction du rapport entre la longueur d'onde et l
 
 En eau profonde c'est à dire lorsque la longueur d'onde est faible
 
-C = célérité = L/T = (g.h)^1/2
+C = célérité = L/T = (g.h)<sup>1/2</sup> 
 
 En eau profonde, c'est à dire lorsque la longue d'onde est très grande par rapport à la profondeur d'eau (au moins 20 fois plus grande). Les particules d'eau se propagent en ellipse.
 
