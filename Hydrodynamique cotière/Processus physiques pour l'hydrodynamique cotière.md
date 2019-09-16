@@ -211,7 +211,11 @@ Les ondes sont classifiées en fonction du rapport entre la longueur d'onde et l
 
 En eau profonde, c'est-à-dire lorsque la longueur d'onde de l'onde est faible par rapport à la profondeur de l'océan (au moins 2 fois plus faible), les particules d'eau se déplacent sur un cercle.
 
+<<<<<<< HEAD
 La houle est produite au large (profondeur supérieure à 4000m) La houle est une onde de longueur d'une centaine de mètres, elle est largement inférieur à la moitié de la profondeur, donc est considérée comme une onde courte.
+=======
+C = célérité = L/T = (g.h)<sup>1/2</sup> 
+>>>>>>> d384e8a5b5b973ef31669f56d40bf9ca1ea7c554
 
 Les vagues ayant la longueur d'onde la plus grande se propagent le plus vite (pour T=cte)
 
