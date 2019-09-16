@@ -194,7 +194,7 @@ Le **typhon** : un typhon s’appelle ainsi lorsque il se situe dans le nord-oue
 
 Déformation périodique d'un interface. En océanographie, les ondes se matérialisent par un déformation de la surface de la mer (l'interface entre l'atmosphère et l'océan). 
 
-(voir diapo pour le graphique)
+![Les caractéristiques du mouvement](Images/caractéristiquemouvement.PNG)
 
 H = 2A
 h = profondeur
@@ -209,15 +209,41 @@ Les ondes sont classifiées en fonction du rapport entre la longueur d'onde et l
 
 ### Types
 
-En eau profonde c'est à dire lorsque la longueur d'onde est faible
+En eau profonde, c'est-à-dire lorsque la longueur d'onde de l'onde est faible par rapport à la profondeur de l'océan (au moins 2 fois plus faible), les particules d'eau se déplacent sur un cercle.
 
-C = célérité = L/T = (g.h)^1/2
+La houle est produite au large (profondeur supérieure à 4000m) La houle est une onde de longueur d'une centaine de mètres, elle est largement inférieur à la moitié de la profondeur, donc est considérée comme une onde courte.
 
-En eau profonde, c'est à dire lorsque la longue d'onde est très grande par rapport à la profondeur d'eau (au moins 20 fois plus grande). Les particules d'eau se propagent en ellipse.
+Les vagues ayant la longueur d'onde la plus grande se propagent le plus vite (pour T=cte)
+
+La vitesse de propagation des ondes courtes en eau profonde est donnée par l'expression :
+
+λ << h/2
+
+![mouvement des ondes courtes](Images/ondescourtes.PNG)
+
+C = célérité = L/T = (g.h)<sup>1/2</sup>
+
+
+En eau profonde, c'est à dire lorsque la longue d'onde est très grande par rapport à la profondeur d'eau (au moins 20 fois plus grande). Les particules d'eau déplacent en ellipse.
+
+Les ondes longues sont localisées près des côtes, en eau peu profonde. Les particules d'eau se déplacent en suivant la forme d'une ellipse, contraint par la faible profondeur. Dans ce cas, l'onde est appelée onde longue.
+
+La vitesse de propagation des ondes en eau peu profonde est donnée par l'expression:
+
+λ >> h/20
+
+![Mouvements des ondes longues](Images/ondeslongues.PNG)
 
 #### Tsunami
 
 Lors de la formation d'un tsunami au large, la profondeur de l'eau est de l'ordre de 4000 m. La longueur d'onde d'un tsunami est en général supérieur à 100 Km.
+
+C'est pourquoi, un tsunami au large peut passer sous les bateaux sans être ressenti car la
+distance séparant deux crêtes successives étant de l'ordre de 100 km et la hauteur des vagues étant de l'ordre de quelques centimètres.
+
+De plus, la longueur d'onde d'un tsunami est bien au moins vingt fois supérieure à la profondeur de l'océan.
+
+Nous pouvons donc dire que les tsunamis sont des ondes longues.
 
 Au large, les tsunamis se propagent très rapidement. En effet, ceux sont des ondes longues et leur vitesse est proportionnelle à la profondeur de l'océan.
 
@@ -227,11 +253,35 @@ A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vag
 
 De plus, g a toujours la même valeur donc la vitesse de propagation du tsunami dépend de la profondeur.
 
-En eau profonde, un tsunami atteint généralement quelques dizaine de centimètre de hauteur en surface, mais la hauteur de ces vagues augmentent rapidement en eau peu profonde.
+A l'approche des côtes, la profondeur h diminue et par conséquent la vitesse de propagation c du
+tsunami diminue également.
+
+La quantité globale d'énergie dépend de la vitesse du tsunami et de l'amplitude A des vagues. Or nous
+savons que la vitesse c diminue, pour conserver l'énergie globale, l'amplitude des vagues doit
+augmenter : c'est la proportionnalité inverse.
+
+Quand le tsunami arrive près des côtes où la profondeur peut être de 10 m, la vitesse de propagation
+diminue fortement elle est alors de l'ordre de 40 km/h.
+
+Ce fort ralentissement conduit à une augmentation de la hauteur des vagues, accroissement qui peut
+atteindre plusieurs mètres
+
+En eau profonde, un tsunami atteint généralement quelques dizaine de centimètre de hauteur en surface, mais la hauteur de ces vagues augmentent rapidement en eau peu profonde. L'énergie de la vague va de la surface au fond de la mer, même dans les eaux les plus profondes. 
+
+Quand le tsunami attaque le bord de mer, l'énergie de la vague est comprimée sur une distance beaucoup plus courte et sur une profondeur beaucoup plus faible, ce qui engendre des vagues meurtrières et destructives. Ce sont donc les configurations de la côte et du littoral qui déterminent la hauteur et l'impact du tsunami. Les
+récifs, les baies, les embouchures de rivières, les reliefs sous-marins et les pentes de la plage
+sont autant de paramètres qui modifient le tsunami à l'approche de la côte. La direction de
+provenance du tsunami a également une influence. 
+
+Lorsque le tsunami atteint la côte et pénètre dans les terres, le niveau de l'eau peut dépasser plusieurs mètres. Dans les cas extrêmes, le niveau de l'eau a atteint plus de 15 mètres pour des tsunamis en champ lointain et plus de 30 mètres pour des tsunamis générés en champ proche, près de l'épicentre du séisme. La première vague n'est pas toujours la plus élevée. Les zones inondées peuvent s'étendre jusqu'à 300 mètres à l'intérieur des terres, recouvrant de vastes terrains d'eau et de débris.
+
+![Tsunami](Images/tsunami.PNG)
 
 #### Marées
 
 La marée est le mouvement périodique de montée et descente du niveau de la mer. Arrivée en estuaire il y a une déformation des ondes de marées.
+
+![Coefficient de marée](Images/marée.PNG)
 
 courant de flot : courant de l'océan vers les côtes
 
@@ -241,25 +291,111 @@ courant de jusant : courant des côtes vers l'océan
 
 La longueur d'onde de la houle est de l'ordre d'une centaine de mètre. Au large, la profondeur de l'océan est supérieur à 4000 m.
 
+![Ondes courtes de la Houle](Images/houle.PNG)
+
+une onde mécanique qui se propage à l’interface entre la surface de l’eau et l’air. Le vent est le facteur principal de l’apparition des vagues.
+
+Un écoulement de type turbulent se forme dans les très basses couches atmosphériques.
+Ceci provoque LOCALEMENT des frottements et des ondulations au niveau de la surface des
+océans qui sont d’autant plus importantes que le vent est fort.
+
+ondulation -> vague -> houle
+
+La houle peut être observée en absence de vent car la houle vient du large et correspond en
+quelque sorte à une "vague fossile" formée il y a plusieurs jours.
+
+L'énergie houlomotrice (l’énergie de la houle) est une source d'énergie d'origine
+cinétique et potentielle, liée au déplacement de la surface de la mer sous l'action
+de la houle. Le principal facteur est le vent.
+
+Créé en se déplaçant d'un anticyclone (zone de haute pression atmosphérique) vers une dépression, il
+s'écoule de façon turbulente à la surface des océans et induit l'apparition d'ondulations plus ou moins
+fortes en fonction de sa force
+
+
+![Formation de la houle](Images/formationdelahoule.PNG)
 
 Le "fetch" est un plan d'eau sur lequel souffle le vent sans rencontrer d'obstacle.
 
-Le clapot de mer correspond à l'état de mer caractérisé par 
+Du fait du sens dominant du vent, son action sur le fetch va ordonner l’ondulation. Un train
+de houle va grossir plus que les autres, puisque le vent pousse sur l'arrière des vagues. La
+houle ainsi formée va croître jusqu’à ce que la vitesse des vagues soit égale à la vitesse du
+vent.
+
+Le clapot correspond à l'état de la mer caractérisé par de toutes petites vagues dont l'onde
+a une période comprise entre 1 à 4 secondes.
+La "mer de vent" désigne l'ensemble des vagues générées par un vent local. Les vagues ont
+une plus grande longueur d'onde que le clapot : période supérieure à 5 secondes.
 
 L'effet du vent sur l'état de la mer dépend :
 
-1. de la distance sur laquelle le vent souffle sans rencontrer d'obstacle
-2. du temps pendant lequel le vent souffle de façon continue à une force donnée
+1. de la distance sur laquelle le vent souffle sans rencontrer d'obstacles (île par exemple). Cette distance est appelée le fetch. Au large, le fetch est généralement déterminé par la taille de la "dépression" qui produit le vent
+2. du temps pendant lequel le vent souffle de façon continue à une force donnée. Ainsi, pour une vitesse de vent donnée, il faudra un certain temps pour que les ondes créées atteignent un état d'équilibre. Ensuite, même si le vent continue à souffler, la houle ne grossiront plus
 
 La hauteur d'une vague dépend donc de la durée d'exposition au vent et de sa zone effective d'action, ou plutôt la surface sur laquelle il souffle.
+
+Le vent doit atteindre une vitesse de quatre noeuds (c'est-à-dire environ 7 km/h) au minimum
+pour former de petites oscillations. Les vagues connaissent ensuite une phase de croissance.
+
+Cette croissance est déterminée par trois facteurs :
+
+* La distance sur laquelle le vent souffle.
+* La vitesse du vent.
+* La durée pendant laquelle le vent souffle.
+
+Pour se développer, les vagues ont donc besoin de temps et d’espace.
+
+La création des vagues obéit à un cycle de vie que l'on peut identifier clairement. Ainsi les vagues connaissent elles aussi une vie divisée en plusieurs étapes bien distinctes, délimitées par la naissance et par la mort.
+
+![Cycle de vie d'une vague](Images/vievague.PNG)
+
+Quand le vent souffle sur l'eau, il créé des rides à sa surface. Ce transfert d'énergie, de l'air à l'eau donne naissance à une houle, vibration superficielle ébranle la surface et se répercute en profondeur grâce à la poussée du vent qui continue sur l'arrière des ondulations. La houle, constitué de plusieurs trains d’ondes va alors prendre la direction du vent.
+
+Les vagues sont des ondes, et comme toutes les ondes on peut les caractériser par :
+
+* la célérité : c’est la vitesse de la vague, noté c.
+* la longueur d’onde : c’est la distance entre deux crêtes successives, elle est notée lambda ou L.
+* la période : c’est l’écart temporel entre deux vagues, elle est notée P.
+* l’amplitude (aussi appelée hauteur de la vague) : c’est la distance verticale entre un creux et la crête suivante, noté A.
 
 L'énergie d'une houle, c'est son énergie cinétique (représentée par la vitesse), avec son énergie potentielle. (L'énergie potentielle est une énergie qui a le potentiel de se transformer en une autre forme d'énergie).
 
 E houle = E cinétique + E potentiel
 
+Les houles sont d'autant plus rapides que leur longueur d'onde est grande, et, à longueur égale,
+les grosses houles sont légèrement plus rapides que les petites houles.
+En l'absence de vent qui les entretiennent ou les font grossir, les vagues s'éteignent
+progressivement (et d'autant plus vite que leur longueur d'onde est petite).
+C'est pour cela que les seules vagues qui arrivent à traverser les océans (même par temps calme)
+sont les houles , aux crêtes espacées de plusieurs centaines de mètres.
+
+Quand le vent s’arrête, la houle continue de se propager au loin.
+Une fois que la houle quitte la zone de fetch où souffle le vent, une sélection se créée.
+Les ondes les plus courtes se dissipent et les autres s’additionnent aux plus grandes. Les
+houles se déplacent alors en trains d’ondes qui s’épuisent se font remplacer par les
+suivantes.
+La vitesse de propagation de la houle est, pour une période de 10s, de 58 Km/h.
+Quand les houles matures atteignent les côtes, les vagues déferlent et peuvent être surfée.
+
+![Formules houle](Images/formulehoule.PNG)
+
+![Formules houle](Images/formuleshoule.PNG)
+
 Célérité = fréquence angulaire / nombre d'onde
 
-truc chelou : élevation d'un point x dans l'espace et un temps bien déterminer à savoir
+![Calcul de la houle](Images/houle2.PNG)
 
-équation de dispersion à savoir
+![Déformation de la surface libre](Images/déformationsurface.PNG)
 
+![Calcul de la houle](Images/calcul.PNG)
+
+![Calcul de la houle](Images/calcul2.PNG)
+
+![La profondeur de la zone](Images/profondeur.PNG)
+
+H/L<<1: hauteur de houle réduite par rapport à la profondeur ou la longeur d’onde.
+Mouvement de Petit Amplitude, Houle Linéaire
+
+![Formule du régime de la houle](Images/dispersionhoule.PNG)
+
+![Formule de dispersion de la houle](Images/dispersionhoule2.PNG)
