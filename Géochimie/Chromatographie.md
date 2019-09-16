@@ -266,9 +266,3 @@ L'absorbance est le logarithme du rapport des itensités des rayons lumineux inc
 
 (diapo 27.1)
 
-
-
-
-
-
-
