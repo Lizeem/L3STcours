@@ -176,3 +176,99 @@ Les facteurs essentiels modifiant la sélectivité alpha sont :
 Composition de la phase mobile
 
 ![Composition du solvant](Images/161.jpg)
+
+phase stationnaire : on utilise le C18
+
+**hysochratique** : on ne change pas la composition mobile durant tout le cycle.
+
+**gradient d'élution** : on fait varier la composition de la phase mobile
+
+## Les grandeurs cinétiques
+
+L'éfficacité est une mesure de la dispersion à travers le système chromatographique. Elle dépend de la qualité de fabrication de la colonne.
+
+Plus la valeur de n est petite, plus le pic sera plus large.
+
+
+L'efficacité en fonction du diamètre des particule de silice. 
+
+Plus le diamètre des particule est petit, plus l'éfficacité sera grande car plus on va générer de pression.
+
+(diapo 17.2)
+
+Loi de Darcy : si on diminue les diamètre des particules, on rejette plus de chaleur malgré le fait que ce soit efficace.
+
+(diapo 18.1)
+
+On utilise les gels de silice car c'est une structure poreuse, cela permet d'avoir une grande surface d'échange. C'est une surface spécifique/poreuse. Avec la surface de silice on a 350m²/g de silice. La silice est disponible commercialement dans différentes granulométries. Aujourd'hui, on utilise une taille de 5µm. Elle possède un groument réactifs à la surface. Elle est résistante à la pression.
+
+La colonne chromatograpique est remplie de particules de silices greffée : particule sphérique 5µ. C'est la nature du greffon qui confère à la colonne sa sélectivité.
+
+Pour un remplissage homogène et une efficacité optimale de la colonne , les particules doivent avoir le même diamètre et être sphérique.
+
+On travaille en chromatographie de partage en phase inverse :
+
+* phase stationnaire : silice greffée apolaire (modifiée chimiquement en greffant un chaîne alkyne)
+* phase mobile : mélange eau - solvants organiques (polarité très variée)
+* mécanisme : interacions hydrophobes
+* espèces séparables : composés organiques moléculaires, moyennement à fortement apolaires
+
+Les solutés les plus apolaires seront les plus retenus. Plus la molécule sera proche de la phase stationnaire plus il y aura des interactions.
+
+Une augmentation du pourcentage de solvant organique du mélange éluant augmente l'affinité de la phase mobile pour la phase stationnaire. Dans ce cas, on va diminiuer la rétention.
+
+On va modifier le pourcentage d'eau ou du solvant.
+
+(diapo 21.1)
+
+(diapo 21.2)
+
+## Le système HPLC
+
+(diapo 22.2)
+
+Le propanol permet de nettoyer car il est miscible avec tous les solvants.
+
+La phase mobile peut être un solvant seul, mais également un mélange binaire, ternaire..
+
+La pompe munie d'un système de gradient permet d'effectuer une programmation de la nature du solvant soit :
+
+* en mode isocratique : la composition de la phase mobile est la même tout au long de l'analyse; la force éluante est donc constante
+* en mode gradient d'élution : variation de la composition de la phase mobile pendant l'analyse pour augmenter la force éluante
+
+(diapo 24.1)
+
+(diapo 24.2)
+
+Un détecteur : 
+
+* spécifique ou universel
+* domaine de linéarité (sensibilité)
+* bruit de fond : c'est le signal enregistré en l'absence de tout soltué élué.
+* quantité minimale détectable 
+* quantité minimale quantifiable
+
+Il doit posséder :
+
+* un faible niveau de dérive et de bruit de fond
+* une sensibilité élevée
+* une réponse rapide
+* large domaine de linéarité
+* faible volume : éviter l'élargissement du pic
+
+L'absorbance A de laPm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèce analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
+
+(diapo 26.1)
+
+L'absorbance est le logarithme du rapport des itensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée àla concentration des espèces en solution par la loi Bert - Lambert.
+
+(diapo 26.2)
+
+(diapo 27.1)
+
+
+
+
+
+
+
