@@ -22,19 +22,17 @@ Le pH va diminuer à 6 au niveau du bouchon vaseaux car la colonne d'eau va perd
 
 Il y a aussi une forte pollution dû au bassin de Paris. Les vasières sont des puits ou des sources de nutriments. 
 
-GIP cenaval pour plus d'informations sur la Seine.
-
 Des facteurs anthropique vont altérer les zones naturelles.
 
 ## Fonctionnement hydrodynamique
 
 En Hiver le bouchon vaseux sera au large car il y aura beaucoup de débit, beaucoup de crue à l'aide de la pluie au niveau de l'estuaire en amont. 
 
-Débit moyen de la Seine : 400 m<sup>3</sup>3 /s
+Débit moyen de la Seine : 400 m<sup>3</sup>/s
 
-Débit en étiage : 139 m<sup>3</sup> /s
+Débit en étiage : 139 m<sup>3</sup>/s
 
-Débit en crue : 1 000 m<sup>3</sup> /s
+Débit en crue : 1 000 m<sup>3</sup>/s
 
 Le bouchon va remonter dans l'estuaire est va engrasser les marées en période d'étiage. Si il n'y a pas beaucoup d'eau, il y aura une conséquence sur la diminution de l'oxygène.
 
