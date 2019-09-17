@@ -194,11 +194,11 @@ L'efficacité en fonction du diamètre des particule de silice.
 
 Plus le diamètre des particule est petit, plus l'éfficacité sera grande car plus on va générer de pression.
 
-(diapo 17.2)
+![Efficacité en fonction du diamètre des particules](Images/172.jpg)
 
 Loi de Darcy : si on diminue les diamètre des particules, on rejette plus de chaleur malgré le fait que ce soit efficace.
 
-(diapo 18.1)
+![Loi de Darcy](Images/181.jpg)
 
 On utilise les gels de silice car c'est une structure poreuse, cela permet d'avoir une grande surface d'échange. C'est une surface spécifique/poreuse. Avec la surface de silice on a 350m²/g de silice. La silice est disponible commercialement dans différentes granulométries. Aujourd'hui, on utilise une taille de 5µm. Elle possède un groument réactifs à la surface. Elle est résistante à la pression.
 
@@ -219,13 +219,11 @@ Une augmentation du pourcentage de solvant organique du mélange éluant augment
 
 On va modifier le pourcentage d'eau ou du solvant.
 
-(diapo 21.1)
-
-(diapo 21.2)
+![Influence de la composition de la phase mobile](Images/211-2.jpg)
 
 ## Le système HPLC
 
-(diapo 22.2)
+![Le système HPLC](Images/222.jpg)
 
 Le propanol permet de nettoyer car il est miscible avec tous les solvants.
 
@@ -236,9 +234,7 @@ La pompe munie d'un système de gradient permet d'effectuer une programmation de
 * en mode isocratique : la composition de la phase mobile est la même tout au long de l'analyse; la force éluante est donc constante
 * en mode gradient d'élution : variation de la composition de la phase mobile pendant l'analyse pour augmenter la force éluante
 
-(diapo 24.1)
-
-(diapo 24.2)
+![Le système HPLC](Images/241-2.jpg)
 
 Un détecteur : 
 
@@ -258,11 +254,9 @@ Il doit posséder :
 
 L'absorbance A de laPm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèce analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
 
-(diapo 26.1)
+![Cheminement de la phase mobile](Images/261.jpg)
 
 L'absorbance est le logarithme du rapport des itensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée àla concentration des espèces en solution par la loi Bert - Lambert.
 
-(diapo 26.2)
-
-(diapo 27.1)
-
+![Formule de l'absorbance](Images/262.jpg)
+![Choix de la longueur d'onde](Images/271.jpg)
