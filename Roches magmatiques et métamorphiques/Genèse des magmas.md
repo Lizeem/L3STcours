@@ -20,7 +20,7 @@ La composition des liquides et solides résiduels dépend de plusieurs facteurs:
 Le manteau est la source principale de magma. 
 
 ![La composition du manteau](Images/manteau.PNG)
-![Différence des minéraux entre la péridotite et le basalte] (Images/péridotitebasalte.PNG)
+![Différence des minéraux entre la péridotite et le basalte](Images/péridotitebasalte.PNG)
 
 Les alcalins sont beaucoup moins denses et très volumineux. Ils cristallisent en dernier (feldspaths alcalins): éléments incompatibles. Les alcalino-terreux (sauf Mg) sont légèrement moins denses, mais volumineux. Ils cristallisent ensuite (clinopyroxènes, plagioclases, ...):éléments
 incompatibles. Les ferromagnésiens, éléments les plus denses, participent en premier à la formation des minéraux (olivines, pyroxènes...): éléments compatibles.
