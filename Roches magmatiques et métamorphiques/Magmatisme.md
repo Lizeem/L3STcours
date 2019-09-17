@@ -62,4 +62,24 @@ Les cristaux de plagioclases sont les premiers à apparaître, ils sont automorp
 
 ## Classifications
 
-(diapo 16)
+Granites: roches plutoniques riches en quartz, qui comportent plus defeldspath alcalin que de plagioclase.
+
+Granitoïdes: roches plutoniques avec plus de 20% de quartz, indépendamment de la nature du ou des feldspaths.
+
+Classification des granites et des granitoïdes sont fait en fonction de la granulométrie et la chimie des roches.
+
+Si on a plus d'aluminuim, on aura un excès qui va former des minéraux comme le micas blanc, le grenat, la muscovite.
+
+Si on a un déficit en aluminium : 
+
+* magma métalumineux : Na, K et Ca seront en excès, on aura la formation d'amphiboles et de clinopyroxènes.
+* magma peralcalin : Ca sera dans les feldspath plagioclases et les alcalins seront en excès, on aura la formation d'amphiboles ou pyroxène sodiques.
+
+## Géodynamique et magmatisme
+
+![Géodynamique et magmatisme](Images/geodynamique.PNG)
+![Géodynamique et magmatisme](Images/geodynamique2.PNG)
+
+Quand on a toujours une remontée magmatique on a toujours du magma qui reste coincé.
+
+Les dorsales représentent un très grande proportion de ce magmatisme, c'est la principale source. Une grosse partie cristallise en profondeur. On y aura accès par érosion ou rarement par les ophiolites (croûte océanique qui passe au dessus de la croûte contiental).
