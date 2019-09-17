@@ -42,7 +42,11 @@ Chromatographie d'exclusion : phase polimère, séparation en fonction de la tai
 
 Chromatographie ionique : phase stationnaire chargée, séparation entre les interactions ioniques
 
-![Phénomènes chromatographiques](Images/42.jpg)
+Phénomènes chromatographiques :
+
+* partage du soluté entre les deux phases : thermodynamique du système
+* dispersion des molécules au cours de leur transfert dans la colonne (et du système) : cinétique du système
+* combinaison des deux processus précédents : résolution du système
 
 Chromatographie liquide et chromatographie gazeuse
 
@@ -67,9 +71,9 @@ Grandeurs fondamentales : on va utiliser des mélanges de solvant.
 
 ### Facteur de rétention
 
-** facteur de rétention**, k : lié au coefficient de partage, quantité de soluté dans la phase stationnaire sur la phase mobile.
+**facteur de rétention**, k : lié au coefficient de partage, quantité de soluté dans la phase stationnaire sur la phase mobile.
 
-k : Qs/Qm = CsVs / CmVm = K * Vs/Vm (constante pour un système chromatographique donné)
+k : Qs/Qm = CsVs / CmVm = K x Vs/Vm (constante pour un système chromatographique donné)
 
 Si on augmente k il faut diminuer la température
 
@@ -89,7 +93,7 @@ k  est dépendant :
 
 ### La sélectivité
 
-**La sélectivité** est temps entre 2 pics consécutives : distance entre les 2 pics : montre une différence d'interaction. Si un seul pic : co-élution des deux composés
+La **sélectivité** est temps entre 2 pics consécutives : distance entre les 2 pics : montre une différence d'interaction. Si un seul pic : co-élution des deux composés
 
 ![La sélectivité](Images/62.jpg)
 
@@ -98,7 +102,7 @@ alpha dépend :
 * de la température
 * du système de phases, dépend de la phase mobile et de la phase stationnaire
 
-Phénomènes de dispersion en chromatographie, les molécules ne vont pas arriver toutes en même temps. Elle va être fonction de la vitesse de la phase mobile -> grandeurs cinétiques :
+Phénomènes de dispersion en chromatographie, les molécules ne vont pas arriver toutes en même temps. Elle va être fonction de la vitesse de la phase mobile -> **grandeurs cinétiques** :
 
 * N : nombre de plateaux théorique
 * HEPT : hauteur équivalente à un plateau théorique 
@@ -252,7 +256,7 @@ Il doit posséder :
 * large domaine de linéarité
 * faible volume : éviter l'élargissement du pic
 
-L'absorbance A de laPm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèce analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
+L'absorbance A de la Pm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèce analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
 
 ![Cheminement de la phase mobile](Images/261.jpg)
 
