@@ -402,3 +402,55 @@ Mouvement de Petit Amplitude, Houle Linéaire
 ![Formule du régime de la houle](Images/dispersionhoule.PNG)
 
 ![Formule de dispersion de la houle](Images/dispersionhoule2.PNG)
+
+h et d = la profondeur de l'eau
+
+# (cours 3)
+
+## Hypothèse du fluide
+
+noeud : intersection entre le niveau de repos et l'onde
+
+anti - noeud : crête de l'onde
+
+Les vitesses varient. Au niveau des crête et des creux, la vitesse est essentiellement horizontale.
+
+Dans une zone de creux on a une force inverse à la propagation horizontale.
+
+Au niveau des noeud, les forces sont essentiellement verticales.
+
+Profil de vitesse : vitesse d'une particule d'eau de la surface au fond marin. Au fond marin, les particules ont une vitesse nulle.
+
+Lors de la descente, la force tangentiel est plus grande que la force de pesanteur, donc la résulte de force va vers le haut. Lors de la remontée, c'est l'inverse. La force tangentiel est plus faible que la force de pesanteur, donc la résulte de force va vers le bas.
+
+Dans une zone profonde : A = B = H/2 
+
+Dans une zone peu profonde : A = H/2kh et B = H/2
+
+Zone profonde : Cg = 1/2 C0 = gt/4pi
+
+Zone peu profonde : Cg = C racine(gd)
+
+Onde dispersive : différentes fréquences d'onde vont se propager avec des vitesses différentes. Ce phénomène se fait dans les zones profondes.
+
+Lg = 2pi/deltak
+
+E = roh g (H²/8)
+
+Ecin = 1/16 roh gH² delta
+
+Et (J/m²) = Ec + Ep = roh g (H²/8)
+
+Energie du flux :
+
+Fx = (roh g H²Cg)/8
+
+Tenseur de radiation :
+
+Sxx : force dans la direction de propagation de l'onde
+
+Syy : force orthogonale à la direction de propagation de l'onde
+
+Zone profonde : Sxx = 1/2 E, Syy = 0
+
+Zone peu profonde : Sxx = 3/2 E, Syy = 1/2 E
