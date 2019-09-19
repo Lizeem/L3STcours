@@ -72,3 +72,38 @@ Plus le potentiel standard est élevée en valeur algébrique, plus l'oxydant du
 (diapo 8)
 
 ## Influence du pH sur un couple redox.
+
+Les propriétés redox d'un couple redox seront influencées par le pH si et uniquement si la 1/2 équation redox qui caractérise le couple fait intervenir des protons.
+
+(diapo 9)
+
+Si les protons sont présents dans l'équation, le potentiel sera influencé par le pH.
+
+(diapo 10)
+
+pH = - log(H<sup>+</sup>)
+
+On peut donc généraliser à  un couple quelconque : 
+
+Ox + ne +qH<sup>+</sup> <-> Red
+
+< AB > = AB est un composé solide
+
+Si ce peut qu'une solution soit sous la forme solide et sous la forme liquide dans ce cas là elle sera donc saturée.
+
+K = [Ag<sup>+</sup>].[Cl<sup>-</sup>]/<sup>a</sup>< AgCl > = [Ag<sup>+</sup>].[Cl<sup>-</sup>]
+
+Cela va dépendre de la température et nous permettre de quantifier la solubilité du soluté AgCl.
+
+La concentration d'un solide est de 1.
+
+L'oxydant et / ou le réducteur d'un couple redox peuvent exister sous différentes formes en fonction du pH. En particulier, pour les cations métalliques, on va observer des phénomènes de précipitation. 
+
+Fe <sup>+2</sup> <-> < Fe (OH)<sub>2</sub> >
+
+Fe <sup>+3</sup> <-> < Fe (OH)<sub>3</sub> >
+
+Ce seront les mêmes espèces mais sous des formes différentes, du point de vu de l'oxydoréduction ça ne changera pas.
+
+Ke = [H<sub>3</sub>O<sup>+</sup>] x [OH<sup>-</sup>] = 10 <sup>-14</sup>
+
