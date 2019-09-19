@@ -1,14 +1,14 @@
-Laurent Mignot : 0235147175
-
 # Géochimie appliquée
 
 ## Introduction
 
 Le sol est composé par une succession de couches, appelées horizons (O,A,B,C,R) de compositions et de structures différentes et constituant son profil.
 
-Structure hydromorphe : sol qui a été gorgé d'eau. 
+Le sol hydromorphe se rencontrent surtout dans les régions humides. Ils résultent de l'engorgement permanent des horizons profonds les rendant asphyxiques et réducteurs.
 
-Gley : sol ayant une absence d'oxygène on aura des phénomènes de réduction. Si on a de la présence de fer, il sera divalent (ferreux). Il aura une couleur verdâtre.
+L'horizon A supérieur est un horizon mixte organique et minéral.
+
+L'horizon profond est un gley. Cet horizon se caractérise par ses conditions asphyxiques et réductrices où le fer à l'état divalent (ferreux) lui confère une couleur verdâtre.
 
 Dans la zone où la nappe phréatique est en contact avec le sol, on peut observer des zones où le fer, ayant été au contact de l'oxygène, est sous la forme trivalente (ferrique) et de couleur rouille.
 
@@ -18,7 +18,7 @@ La présence des protons va permettre de déterminer un sol acido-basique.
 
 E et pH vont permettre de faire des diagrammes E=f(pH)
 
-Le diagramme de Courbet sert à déterminer la forme d'un élément en fonction du pH et du potentiel du sol.
+Le diagramme de Pourbaix sert à déterminer la forme d'un élément en fonction du pH et du potentiel du sol.
 
 ## Rappels d'oxydo-réduction
 
@@ -41,9 +41,7 @@ Dans un couple Redox l'oxydant est celui qui a le nombre d'oxydation le plus él
 Lorsque l'on a un couple acide-base, on peut établir la force ce ceux - ci en se référant à des grandeurs qui sont les pKa. De même pour un couple redox avec le **potentiel standard**.
 
 
-Pour un couple redox donné, on peut définir un potentiel E(V) donné par la loi de Nerst 
-
-(diapo 6)
+Pour un couple redox donné, on peut définir un potentiel E(V) donné par la loi de Nerst
 
 Celle - ci nous donne le potentiel sous la forme :
 
@@ -69,23 +67,25 @@ E = E<sup>0</sup> <sub>Fe<sup>+2</sup>/Fe<sup>+3</sup></sub> + 0,06/1 log [Fe<su
 
 Plus le potentiel standard est élevée en valeur algébrique, plus l'oxydant du couple est fort.
 
-(diapo 8)
+![Rappels d'oxydo-réduction](Images/8.jpg)
 
 ## Influence du pH sur un couple redox.
 
 Les propriétés redox d'un couple redox seront influencées par le pH si et uniquement si la 1/2 équation redox qui caractérise le couple fait intervenir des protons.
 
-(diapo 9)
+![Influence du pH sur un couple redox](Images/9.jpg)
 
 Si les protons sont présents dans l'équation, le potentiel sera influencé par le pH.
 
-(diapo 10)
+![Influence du Ph sur un couple redox](Images/10.jpg)
 
 pH = - log(H<sup>+</sup>)
 
 On peut donc généraliser à  un couple quelconque : 
 
 Ox + ne +qH<sup>+</sup> <-> Red
+
+![Généralisation de l'influence de pH](Images/11.jpg)
 
 < AB > = AB est un composé solide
 
@@ -105,5 +105,7 @@ Fe <sup>+3</sup> <-> < Fe (OH)<sub>3</sub> >
 
 Ce seront les mêmes espèces mais sous des formes différentes, du point de vu de l'oxydoréduction ça ne changera pas.
 
-Ke = [H<sub>3</sub>O<sup>+</sup>] x [OH<sup>-</sup>] = 10 <sup>-14</sup>
+![Equilibre de solubilité](Images/13.jpg)
+![Equilibre de solubilité](Images/14.jpg)
 
+(diapo 15)
