@@ -1,4 +1,4 @@
-# Introduction 
+# Introduction
 
 ## Introduction à la pétrologie endogène
 
@@ -6,7 +6,7 @@ La pétrologie sert à :
 
 * la description des roches
 * comprendre leur origine et leurs transformations
-* comprendre les processus en oeuvre 
+* comprendre les processus en oeuvre
 * retracer l'histoire des roches
 * retrouver l'histoire de la Terre et comprendre son fonctionnement : **Géodynamique**
 
@@ -14,22 +14,22 @@ La pétrologie sert à :
 
 ![Les types de roches](Images/types.PNG)
 
-Un roche est une asssociation de cristaux. Il en existe deux sortes : 
+Un roche est une asssociation de cristaux. Il en existe deux sortes :
 
-* les monominérales 
+* les monominérales
 * les polyminérales
 
 Une roche cristalline est craractérisée par :
 
-* sa composition chimique 
+* sa composition chimique
 * sa composition minéralogique
 * sa texture : l'arrangement et la forme des minéraux
 
 Ceux - ci varient en fonction de la température et de la pression.
 
-![Différences entre les roches](Images/magmatismeetmetmorphisme.PNG)
+![Différences entre les roches](Images/magmatismeetmetamorphisme.PNG)
 
-Afin de différencier les roches magmatiques et les roches métamorphiques on utilise : 
+Afin de différencier les roches magmatiques et les roches métamorphiques on utilise :
 
 * étude de terrain
 * étude macroscopique et microscopique des échantillons
@@ -38,11 +38,11 @@ Afin de différencier les roches magmatiques et les roches métamorphiques on ut
 
 ## Structure de la Terre
 
-La Terre est formée de plusieurs couches de densités et de rhéologies différentes. La litosphère est composée d'unités : les plaques lithosphériques. Les plaques naissent au niveau des dorsales et disparaissent dans les zones de subduction. Les plaques litosphériques sont mobiles, animés par la convection dans le manteau, l'accrétion des dorsales, le plongement des slabs...
+La Terre est formée de plusieurs couches de densités et de rhéologies différentes. La lithosphère est composée d'unités : les plaques lithosphériques. Les plaques naissent au niveau des dorsales et disparaissent dans les zones de subduction. Les plaques lithosphériques sont mobiles, animés par la convection dans le manteau, l'accrétion des dorsales, le plongement des slabs...
 
 ![Structure de la Terre](Images/structure.PNG)
 ![Structure interne de la Terre](Images/structure2.PNG)
-![Structure interne de la Terre](Images/structures3.PNG)
+![Structure interne de la Terre](Images/structure3.PNG)
 
 ### Les plaques lithosphériques
 
@@ -81,7 +81,7 @@ Les différentes sources de chaleur sont :
 
 ![Sources de chaleur](Images/sourcedechaleur.PNG)
 
-On peut percevoir la chaleur de désintégration radioactive par des manifestations minéralogiques : auréoles des zircons dans les biotites 
+On peut percevoir la chaleur de désintégration radioactive par des manifestations minéralogiques : auréoles des zircons dans les biotites
 
 ![Manifestation de chaleur radioactive](Images/manifestationdechaleurradioactive.PNG)
 
