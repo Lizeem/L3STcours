@@ -111,13 +111,13 @@ Elles vont être indépendantes de la températures mais dépendant en fonction 
 
 ![Phénomènes de diffusion en chromatographie](Images/71.jpg)
 
-Importance de l'efficacité d'une colonne chromatographique : plus la vauler de N est grand, plus le pic sera fin. Cette diffusion est dû là la dispersion des solutés. Cette diffusion est "mesurée" par l'efficacité de la colonne chromatographique.
+Importance de l'efficacité d'une colonne chromatographique : plus la valeur de N est grand, plus le pic sera fin. Cette diffusion est dû à la dispersion des solutés. Cette diffusion est "mesurée" par l'efficacité de la colonne chromatographique.
 
 ## Grandeurs cinétiques
 
 Plus le nombre d'équilibre est grand, plus le système sera efficace.
 
-La théorie des plateaux établit que, après un certain parcours dans la colonne, les pics d'élution peuvent être assimilés à des courbes de Gauss.
+La théorie des plateaux établie que, après un certain parcours dans la colonne, les pics d'élution peuvent être assimilés à des courbes de Gauss.
 
 ![Efficacité d'une colonne chromatographique](Images/82.jpg)
 
@@ -175,7 +175,7 @@ Les facteurs essentiels modifiant la sélectivité alpha sont :
 	* nature du solvant organique
     * composition eau - solvant dynamique (il faut qu'il soit missible avec l'eau)
 
-* (la température) : colonne à température ambiente, on ne peut pas la modifier.
+* (la température) : colonne à température ambiante, on ne peut pas la modifier.
 
 Composition de la phase mobile
 
@@ -196,17 +196,17 @@ Plus la valeur de n est petite, plus le pic sera plus large.
 
 L'efficacité en fonction du diamètre des particule de silice. 
 
-Plus le diamètre des particule est petit, plus l'éfficacité sera grande car plus on va générer de pression.
+Plus le diamètre des particule est petit, plus l'efficacité sera grande car on va générer plus de pression.
 
 ![Efficacité en fonction du diamètre des particules](Images/172.jpg)
 
-Loi de Darcy : si on diminue les diamètre des particules, on rejette plus de chaleur malgré le fait que ce soit efficace.
+Loi de Darcy : si on diminue les diamètres des particules, on rejette plus de chaleur malgré le fait que ce soit efficace.
 
 ![Loi de Darcy](Images/181.jpg)
 
-On utilise les gels de silice car c'est une structure poreuse, cela permet d'avoir une grande surface d'échange. C'est une surface spécifique/poreuse. Avec la surface de silice on a 350m²/g de silice. La silice est disponible commercialement dans différentes granulométries. Aujourd'hui, on utilise une taille de 5µm. Elle possède un groument réactifs à la surface. Elle est résistante à la pression.
+On utilise les gels de silice car c'est une structure poreuse, cela permet d'avoir une grande surface d'échange. C'est une surface spécifique/poreuse. Avec la surface de silice on a 350m²/g de silice. La silice est disponible commercialement dans différentes granulométries. Aujourd'hui, on utilise une taille de 5µm. Elle possède un groupement de réactifs à la surface. Elle est résistante à la pression.
 
-La colonne chromatograpique est remplie de particules de silices greffée : particule sphérique 5µ. C'est la nature du greffon qui confère à la colonne sa sélectivité.
+La colonne chromatograpique est remplie de particules de silices greffées : particules sphériques de 5µ. C'est la nature du greffon qui confère à la colonne sa sélectivité.
 
 Pour un remplissage homogène et une efficacité optimale de la colonne , les particules doivent avoir le même diamètre et être sphérique.
 
@@ -244,7 +244,7 @@ Un détecteur :
 
 * spécifique ou universel
 * domaine de linéarité (sensibilité)
-* bruit de fond : c'est le signal enregistré en l'absence de tout soltué élué.
+* bruit de fond : c'est le signal enregistré en l'absence de tout soluté élué.
 * quantité minimale détectable 
 * quantité minimale quantifiable
 
@@ -256,11 +256,11 @@ Il doit posséder :
 * large domaine de linéarité
 * faible volume : éviter l'élargissement du pic
 
-L'absorbance A de la Pm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèce analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
+L'absorbance A de la Pm est mesurée en sortie de colonne à une  longueur d'onde delta. La phase mobile ne doit pas ou très peu absorber par elle - même à cette longueur d'onde. Le choix de ce mode de détection implique que les espèces analysées possèdent des chromophores (groupement chimique qui va nous donner une absorption caractéristique dans l'UV ou le visible). C'est un détecteur spécifique.
 
 ![Cheminement de la phase mobile](Images/261.jpg)
 
-L'absorbance est le logarithme du rapport des itensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée àla concentration des espèces en solution par la loi Bert - Lambert.
+L'absorbance est le logarithme du rapport des itensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée à la concentration des espèces en solution par la loi Bert - Lambert.
 
 ![Formule de l'absorbance](Images/262.jpg)
 ![Choix de la longueur d'onde](Images/271.jpg)
