@@ -3,6 +3,9 @@ docs_dir: Docs/
 
 theme:
   name: material
+  palette:
+    primary: 'grey'
+    accent: 'deep purple'
   feature:
     tabs: true
   language: "fr"
