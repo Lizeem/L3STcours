@@ -2,9 +2,9 @@
 
 Anatexie : fusion des roches préexistante locale ou généralisée
 
-Il faut créer des déséquilibres pour fondre les roches. On a une fusion partielle car les roches ne fondent jamais complètement, c'est un liquide magmatique primaire avec du solide résiduel. 
+Il faut créer des déséquilibres pour fondre les roches. On a une fusion partielle car les roches ne fondent jamais complètement, c'est un liquide magmatique primaire avec du solide résiduel.
 
-Les déséquilibres sont liés aux plaques techtoniques.
+Les déséquilibres sont liés aux plaques tectoniques.
 
 Magma = liquide + solide (cristaux) + gaz
 
@@ -17,7 +17,7 @@ La composition des liquides et solides résiduels dépend de plusieurs facteurs:
 
 ## Le manteau
 
-Le manteau est la source principale de magma. 
+Le manteau est la source principale de magma.
 
 ![La composition du manteau](Images/manteau.PNG)
 ![Différence des minéraux entre la péridotite et le basalte](Images/péridotitebasalte.PNG)
@@ -49,7 +49,7 @@ Il existe donc différentes conditions :
 
 Qui va permettre un taux de fusion partielle qui va varier.
 
-Plus on a de silice, plus le magma sera visqueux. Plus la pression est faible, plus on a de silice. 
+Plus on a de silice, plus le magma sera visqueux. Plus la pression est faible, plus on a de silice.
 
 ![Silice en fonction de la pression](Images/silice2.PNG)
 
@@ -70,7 +70,7 @@ On aura une évaporation de l'eau provenant de la roche inférieur lié au frott
 
 ![Cristallisation fractionnée](Images/cristallisation.PNG)
 
-Si on a peu de mélange, les solides vont se mettre au fond de la chambre magmatique. 
+Si on a peu de mélange, les solides vont se mettre au fond de la chambre magmatique.
 
 ![Séries de Bowen](Images/bowen.PNG)
 
@@ -78,5 +78,5 @@ Ségrégation ouvert : aucun mélange dans la chambre magmatique et l'olivine va
 
 ![Cristallisation fractionnée](Images/cristallisationfractionnée.PNG)
 
-On peut avoir un réapprovisement de la chambre magmatique qui va rechanger la composition du magma. Dans les roches on peut voir si la chambre a été réaprovisionné ou non.
+On peut avoir un réapprovisionnement de la chambre magmatique qui va rechanger la composition du magma. Dans les roches on peut voir si la chambre a été réapprovisionné ou non.
 

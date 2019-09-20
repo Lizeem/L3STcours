@@ -2,9 +2,9 @@
 
 Les roches magmatiques sont des roches issues de la cristallisation d'un magma. Il en existe deux types :
 
-* roches extrusives, éruptives ou volcaniques. Elles sont cristallisées 
+* roches extrusives, éruptives ou volcaniques. Elles sont cristallisées
 
-1. lentement en profondeur 
+1. lentement en profondeur
 2. au moins partiellement rapidement, à la surface terrestre (Basaltes, Trachytes...)
 
 * roches intrusives ou plutoniques. Elles sont cristallisées dans la croûte terrestre (Granites, Gabbros..)
@@ -30,7 +30,7 @@ Le magma est un mélange de solide, de liquide et de gaz.
 
 ![Critères sur le pH](Images/ph.PNG)
 
-### Critère sur la minéralogie 
+### Critère sur la minéralogie
 
 * minéraux blancs **tectosilicates** : feldspaths, quartz, tridymite, feldspathoïdes
 * minéraux colorés **ferromagnésiens** : olivines, pyroxènes, amphiboles, mica
@@ -62,15 +62,15 @@ Les cristaux de plagioclases sont les premiers à apparaître, ils sont automorp
 
 ## Classifications
 
-Granites: roches plutoniques riches en quartz, qui comportent plus defeldspath alcalin que de plagioclase.
+Granites: roches plutoniques riches en quartz, qui comportent plus de feldspath alcalin que de plagioclase.
 
 Granitoïdes: roches plutoniques avec plus de 20% de quartz, indépendamment de la nature du ou des feldspaths.
 
 Classification des granites et des granitoïdes sont fait en fonction de la granulométrie et la chimie des roches.
 
-Si on a plus d'aluminuim, on aura un excès qui va former des minéraux comme le micas blanc, le grenat, la muscovite.
+Si on a plus d'aluminium, on aura un excès qui va former des minéraux comme le micas blanc, le grenat, la muscovite.
 
-Si on a un déficit en aluminium : 
+Si on a un déficit en aluminium :
 
 * magma métalumineux : Na, K et Ca seront en excès, on aura la formation d'amphiboles et de clinopyroxènes.
 * magma peralcalin : Ca sera dans les feldspath plagioclases et les alcalins seront en excès, on aura la formation d'amphiboles ou pyroxène sodiques.
@@ -82,4 +82,4 @@ Si on a un déficit en aluminium :
 
 Quand on a toujours une remontée magmatique on a toujours du magma qui reste coincé.
 
-Les dorsales représentent un très grande proportion de ce magmatisme, c'est la principale source. Une grosse partie cristallise en profondeur. On y aura accès par érosion ou rarement par les ophiolites (croûte océanique qui passe au dessus de la croûte contiental).
+Les dorsales représentent un très grande proportion de ce magmatisme, c'est la principale source. Une grosse partie cristallise en profondeur. On y aura accès par érosion ou rarement par les ophiolites (croûte océanique qui passe au dessus de la croûte continental).

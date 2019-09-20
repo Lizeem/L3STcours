@@ -14,12 +14,12 @@ La pétrologie sert à :
 
 ![Les types de roches](Images/types.PNG)
 
-Un roche est une asssociation de cristaux. Il en existe deux sortes :
+Un roche est une association de cristaux. Il en existe deux sortes :
 
 * les monominérales
 * les polyminérales
 
-Une roche cristalline est craractérisée par :
+Une roche cristalline est caractérisée par :
 
 * sa composition chimique
 * sa composition minéralogique
