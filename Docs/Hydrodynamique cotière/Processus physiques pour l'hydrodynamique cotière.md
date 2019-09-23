@@ -441,15 +441,15 @@ Onde dispersive : différentes fréquences d'onde vont se propager avec des vite
 
 L'énergie totale d'une onde est la somme de son énergie cinétique (associée au mouvement) et de son énergie potentielle (par rapport au niveau de repos; lié à la gravité). L'énergie cinétique pour une longueur d'onde et par unité de largeur de crête Ecin, peut - être obtenue à partir de la relation suivante :
 
-Ecin = 1/(16 ρ gH² λ)
+E<sub>cin</sub> = 1/(16 ρ gH² λ)
 
 Durant sa propagation, la houle change de hauteur H et de densité d'énergie. Le flux d'énergie se conserve. L'énergie integrée sur une longueur d'onde :
 
-Et (J/m²) = Ec + Ep = ρ g (H²/8)
+E<sub>T</sub> (J/m²) = E<sub>c</sub> + E<sub>p</sub> = ρg(H²/8)
 
 Energie du flux :
 
-Fx = (ρ g H²Cg)/8
+Fx = (ρgH²Cg)/8
 
 Tenseur de radiation :
 
