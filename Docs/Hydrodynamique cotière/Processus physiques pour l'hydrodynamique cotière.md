@@ -441,9 +441,7 @@ Onde dispersive : différentes fréquences d'onde vont se propager avec des vite
 
 L'énergie totale d'une onde est la somme de son énergie cinétique (associée au mouvement) et de son énergie potentielle (par rapport au niveau de repos; lié à la gravité). L'énergie cinétique pour une longueur d'onde et par unité de largeur de crête Ecin, peut - être obtenue à partir de la relation suivante :
 
-#!math Ecin = \frac{1}{16 ρ gH² λ}`
-
-Ecin = 1/16 ρ gH² λ
+Ecin = 1/(16 ρ gH² λ)
 
 Durant sa propagation, la houle change de hauteur H et de densité d'énergie. Le flux d'énergie se conserve. L'énergie integrée sur une longueur d'onde :
 
