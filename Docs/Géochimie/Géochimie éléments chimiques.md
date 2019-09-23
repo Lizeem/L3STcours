@@ -65,3 +65,27 @@ solubles : océan
 
 soluble mais volatile : argiles et roches détritiques
 
+# Géochimie, processus de surface et altération
+
+Altération chimique : modification chimiques, dissolution des carbonates 
+
+Altération mécanique : érosion par l'eau et transport des matériaux 
+
+Facteurs de l'érosion mécanique :
+
+* fracturation, schistosité, diaclase
+
+Les vecteurs de l'érosion mécanique : 
+
+* gel/dégel
+* humidité
+
+Altération chimique : facteurs : eau et carbone
+
+L'eau est le moteur qui dissout les roches.
+
+Saprolite : résidu d'une roche altérée
+
+L'aluminium est fixe et on en trouve partout
+
+Construire une troisième colonne en gardant l'aluminium constant
