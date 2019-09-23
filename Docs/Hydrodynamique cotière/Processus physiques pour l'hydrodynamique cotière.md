@@ -405,7 +405,7 @@ Mouvement de Petit Amplitude, Houle Linéaire
 
 h et d = la profondeur de l'eau
 
-# (cours 3)
+# Relations mathématiques pour calculer le mouvement de la houle
 
 ## Hypothèse du fluide
 
@@ -419,31 +419,39 @@ Dans une zone de creux on a une force inverse à la propagation horizontale.
 
 Au niveau des noeud, les forces sont essentiellement verticales.
 
+![Mouvement des particules](Images/particulefluide.PNG)
+
 Profil de vitesse : vitesse d'une particule d'eau de la surface au fond marin. Au fond marin, les particules ont une vitesse nulle.
 
 Lors de la descente, la force tangentiel est plus grande que la force de pesanteur, donc la résulte de force va vers le haut. Lors de la remontée, c'est l'inverse. La force tangentiel est plus faible que la force de pesanteur, donc la résulte de force va vers le bas.
 
-Dans une zone profonde : A = B = H/2 
+![Force tangentielle et champ de pression hydrostatique](Images/forces.PNG)
 
-Dans une zone peu profonde : A = H/2kh et B = H/2
+![Types de mouvement](Images/approximationsmathématique.PNG)
 
-Zone profonde : Cg = 1/2 C0 = gt/4pi
+![Déplacement des particules](Images/déplacementparticules.PNG)
 
-Zone peu profonde : Cg = C racine(gd)
+![Vitesse en fonction de la profondeur](Images/vitessecg.PNG)
 
 Onde dispersive : différentes fréquences d'onde vont se propager avec des vitesses différentes. Ce phénomène se fait dans les zones profondes.
 
-Lg = 2pi/deltak
+![Onde individuelle](Images/ondeindividuelle.PNG)
 
-E = roh g (H²/8)
+![Récapitulatif](Images/récapitulatif.PNG)
 
-Ecin = 1/16 roh gH² delta
+L'énergie totale d'une onde est la somme de son énergie cinétique (associée au mouvement) et de son énergie potentielle (par rapport au niveau de repos; lié à la gravité). L'énergie cinétique pour une longueur d'onde et par unité de largeur de crête Ecin, peut - être obtenue à partir de la relation suivante :
 
-Et (J/m²) = Ec + Ep = roh g (H²/8)
+#!math Ecin = \frac{1}{16 ρ gH² λ}`
+
+Ecin = 1/16 ρ gH² λ
+
+Durant sa propagation, la houle change de hauteur H et de densité d'énergie. Le flux d'énergie se conserve. L'énergie integrée sur une longueur d'onde :
+
+Et (J/m²) = Ec + Ep = ρ g (H²/8)
 
 Energie du flux :
 
-Fx = (roh g H²Cg)/8
+Fx = (ρ g H²Cg)/8
 
 Tenseur de radiation :
 
@@ -454,3 +462,5 @@ Syy : force orthogonale à la direction de propagation de l'onde
 Zone profonde : Sxx = 1/2 E, Syy = 0
 
 Zone peu profonde : Sxx = 3/2 E, Syy = 1/2 E
+
+![Schéma récapitulatif des données](Images/schéma.PNG)
