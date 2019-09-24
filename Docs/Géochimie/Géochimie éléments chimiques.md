@@ -66,7 +66,7 @@ Le volume des particules de ces suspensions varie suivant les types d'argile, le
 
 Van Olphen (1977) distingue quatre cas (figure 1-8) suivant que les particules sont dispersées, agrégées face à face, floculées (les particules étant alors en contact bord/bord ou bord/face), ou défloculées (pas de contact entre les particules).
 
-![Association des particules](olphen.PNG)
+![Association des particules](Images/olphen.PNG)
 
 Formation des argiles :
 
@@ -86,7 +86,7 @@ La géochimie est variée car les éléments vont être remplacé par d'autres.
 
 Classification géochimique
 
-![Modele de Goldschimdt](modele.PNG)
+![Modele de Goldschimdt](Images/modele.PNG)
 
 ![Diagramme de Goldschimdt](Images/diagrammez.PNG)
 
