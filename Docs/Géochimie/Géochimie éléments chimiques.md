@@ -119,3 +119,5 @@ Les vecteurs de l'érosion mécanique sont le climat mais surtout la disponibili
 Les facteurs de l'altération chimique sont l'eau et le carbone. L'eau est le moteur principal de l'altération des roches.
 
 Saprolite : résidu d'une roche altérée
+
+![Altération et dissolution des minéraux](Images/minérauxroches.jpg)
