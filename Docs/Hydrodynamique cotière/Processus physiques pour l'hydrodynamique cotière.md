@@ -226,7 +226,6 @@ La vitesse de propagation des ondes courtes en eau profonde est donnée par l'ex
 
 C = célérité = L/T = (g.h)<sup>1/2</sup>
 
-
 En eau profonde, c'est à dire lorsque la longue d'onde est très grande par rapport à la profondeur d'eau (au moins 20 fois plus grande). Les particules d'eau déplacent en ellipse.
 
 Les ondes longues sont localisées près des côtes, en eau peu profonde. Les particules d'eau se déplacent en suivant la forme d'une ellipse, contraint par la faible profondeur. Dans ce cas, l'onde est appelée onde longue.

@@ -8,7 +8,7 @@ On l'utilise aussi pour l'identification des éléments par couplage.
 
 On va donc séparer les molécules d'un mélange.
 
-Il existe plusieurs techniques chromatographique : 
+Il existe plusieurs techniques chromatographique :
 
 * selon la nature de la phase mobile
 	* en phase gazeuse
@@ -192,7 +192,6 @@ phase stationnaire : on utilise le C18
 L'éfficacité est une mesure de la dispersion à travers le système chromatographique. Elle dépend de la qualité de fabrication de la colonne.
 
 Plus la valeur de n est petite, plus le pic sera plus large.
-
 
 L'efficacité en fonction du diamètre des particule de silice. 
 
