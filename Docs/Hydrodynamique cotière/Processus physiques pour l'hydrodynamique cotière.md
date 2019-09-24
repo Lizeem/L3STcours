@@ -1,4 +1,4 @@
-# Introduction à la dynamique cotière 
+# Introduction à la dynamique cotière
 
 ## Zones cotières
 
@@ -8,14 +8,14 @@ C’est le lieu où s’exacerbent les pressions anthropiques et climatiques.
 
 L’hydrodynamique côtière est responsable de :
 
-* le transport de polluants (pétrole, ..), des mouvements sédimentaires (erosion, sedimentation, ..) ayant des consequences importantes, comme le recul du trait de cote ou la formation de bancs de sable,
+* le transport de polluants (pétrole, ..), des mouvements sédimentaires (erosion, sedimentation, ..) ayant des consequences importantes, comme le recul du trait de côte ou la formation de bancs de sable,
 * fort impact sur les paysages et les habitats marins: fonctionnement des écosystèmes marins
 
-Echelles Différentes : court-terme au long-terme 
+Echelles Différentes : court-terme au long-terme
 
 L’objet de l’hydrodynamique qui fait partie d’une façon générale de l’étude
 des fluides en mouvement ou encore Mécanique des Fluides : ce domaine
-s’attache à étudier la façon dont les forces génèrent les mouvements de l’eau : mesurer un ou plusieurs paramètres de ce mouvement: courant en surface, au fond. 
+s’attache à étudier la façon dont les forces génèrent les mouvements de l’eau : mesurer un ou plusieurs paramètres de ce mouvement: courant en surface, au fond.
 
 Mesure discrète et représentative en un point donné ou une zone très
 particulière et pour une période temporelle correspondant à celle de la mise
@@ -48,7 +48,7 @@ Pour analyser une situation météorologique, le champ de pression est un
 élément fondamental. Chaque observation de pression à l’échelle du globe est ramenée au niveau de la mer, de façon à ce que les mesures soient comparables entre elles.
 
 Un tracé de lignes isobares est ensuite réalisé, reliant les points d’égale
-pression, effectués généralement de 5 hPa en 5 hPa. Ainsi, on obtient une carte isobarique permettant de délimiter les zones dépressionnaires et les zones anticycloniques. 
+pression, effectués généralement de 5 hPa en 5 hPa. Ainsi, on obtient une carte isobarique permettant de délimiter les zones dépressionnaires et les zones anticycloniques.
 
 La pression peut également être représentée sous une autre forme : « les
 géopotentiels ». Il est d’ailleurs plus pratique de reporter les altitudes où se situent les mêmes pressions de manière à cartographier le champ de pression à différentes altitudes.
@@ -89,11 +89,11 @@ Les données de vent sont recueillies par l'anémomètre de trois manières :
 
 * la vitesse maximale est la vitesse instantanée la plus forte enregistrée lors des rafales de vent les plus puissantes.
 
-### Origine du vent 
+### Origine du vent
 
 #### Les gradients de pression
 
-Il existe de fortes variations de température entre les zones équatoriales et les régions polaires qui engendrent des gradients de densité de l'air (car une masse d'air froid est plus dense qu'une masse d'air chaud) et donc des gradients de pression atmosphérique. Il en découle des mouvements de l'air présents à l'échelle planétaire. 
+Il existe de fortes variations de température entre les zones équatoriales et les régions polaires qui engendrent des gradients de densité de l'air (car une masse d'air froid est plus dense qu'une masse d'air chaud) et donc des gradients de pression atmosphérique. Il en découle des mouvements de l'air présents à l'échelle planétaire.
 
 Les vents ainsi générés ont un rôle principal : celui de transporter de la chaleur depuis les régions équatoriales vers les zones polaires pour compenser le déséquilibre thermique. Seulement, l'équilibre thermique n'est jamais atteint, car le rayonnement solaire l'en empêche ;aucun équilibre ne peut donc être atteint de façon durable.
 
@@ -169,7 +169,7 @@ Il existe cinq facteurs précurseurs de la formation d’un cyclone :
 * une perturbation atmosphérique préalable. Il est possible de le voir dans le tableau un peu plus haut, il est toujours question de dépression ou de
  perturbation tropicale avant l’évolution en cyclone. Le point de départ de tout ceci est appelé l’onde tropicale
 
-* une distance de plus de 10° de l’équateur. C’est la force de Coriolis qui crée la rotation du cyclone. Or, autour de l’équateur, cette force est quasiment inexistante, empêchant la création de gros ouragans. 
+* une distance de plus de 10° de l’équateur. C’est la force de Coriolis qui crée la rotation du cyclone. Or, autour de l’équateur, cette force est quasiment inexistante, empêchant la création de gros ouragans.
 
 * une absence de « cisaillement vertical du vent », qui nuirait fortement à la structure déjà instable du cyclone.
 
@@ -192,7 +192,7 @@ Le **typhon** : un typhon s’appelle ainsi lorsque il se situe dans le nord-oue
 
 ## Caractéristiques
 
-Déformation périodique d'un interface. En océanographie, les ondes se matérialisent par un déformation de la surface de la mer (l'interface entre l'atmosphère et l'océan). 
+Déformation périodique d'un interface. En océanographie, les ondes se matérialisent par un déformation de la surface de la mer (l'interface entre l'atmosphère et l'océan).
 
 ![Les caractéristiques du mouvement](Images/caractéristiquemouvement.PNG)
 
@@ -204,7 +204,7 @@ g = 9.81
 
 Les ondes sont classifiées en fonction du rapport entre la longueur d'onde et la profondeur à laquelle elle se propage
 
-* ondes courtes 
+* ondes courtes
 * onde longues
 
 ### Types
@@ -213,8 +213,7 @@ En eau profonde, c'est-à-dire lorsque la longueur d'onde de l'onde est faible p
 
 La houle est produite au large (profondeur supérieure à 4000m) La houle est une onde de longueur d'une centaine de mètres, elle est largement inférieur à la moitié de la profondeur, donc est considérée comme une onde courte.
 
-
-C = célérité = L/T = (g.h)<sup>1/2</sup> 
+C = célérité = L/T = (g.h) <sup>1/2</sup>
 
 Les vagues ayant la longueur d'onde la plus grande se propagent le plus vite (pour T=cte)
 
@@ -251,7 +250,7 @@ Au large, les tsunamis se propagent très rapidement. En effet, ceux sont des on
 
 Au large, la profondeur de l'océan est 4000 m et les tsunamis se propagent avec un vitesse bien derterminé (50-900 Km/h)
 
-A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vagues augmente de façon considérable. En se rappochant des côtes, la longueur d'onde diminue car la profondeur diminue. 
+A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vagues augmente de façon considérable. En se rappochant des côtes, la longueur d'onde diminue car la profondeur diminue.
 
 De plus, g a toujours la même valeur donc la vitesse de propagation du tsunami dépend de la profondeur.
 
@@ -268,12 +267,12 @@ diminue fortement elle est alors de l'ordre de 40 km/h.
 Ce fort ralentissement conduit à une augmentation de la hauteur des vagues, accroissement qui peut
 atteindre plusieurs mètres
 
-En eau profonde, un tsunami atteint généralement quelques dizaine de centimètre de hauteur en surface, mais la hauteur de ces vagues augmentent rapidement en eau peu profonde. L'énergie de la vague va de la surface au fond de la mer, même dans les eaux les plus profondes. 
+En eau profonde, un tsunami atteint généralement quelques dizaine de centimètre de hauteur en surface, mais la hauteur de ces vagues augmentent rapidement en eau peu profonde. L'énergie de la vague va de la surface au fond de la mer, même dans les eaux les plus profondes.
 
 Quand le tsunami attaque le bord de mer, l'énergie de la vague est comprimée sur une distance beaucoup plus courte et sur une profondeur beaucoup plus faible, ce qui engendre des vagues meurtrières et destructives. Ce sont donc les configurations de la côte et du littoral qui déterminent la hauteur et l'impact du tsunami. Les
 récifs, les baies, les embouchures de rivières, les reliefs sous-marins et les pentes de la plage
 sont autant de paramètres qui modifient le tsunami à l'approche de la côte. La direction de
-provenance du tsunami a également une influence. 
+provenance du tsunami a également une influence.
 
 Lorsque le tsunami atteint la côte et pénètre dans les terres, le niveau de l'eau peut dépasser plusieurs mètres. Dans les cas extrêmes, le niveau de l'eau a atteint plus de 15 mètres pour des tsunamis en champ lointain et plus de 30 mètres pour des tsunamis générés en champ proche, près de l'épicentre du séisme. La première vague n'est pas toujours la plus élevée. Les zones inondées peuvent s'étendre jusqu'à 300 mètres à l'intérieur des terres, recouvrant de vastes terrains d'eau et de débris.
 
@@ -313,7 +312,6 @@ de la houle. Le principal facteur est le vent.
 Créé en se déplaçant d'un anticyclone (zone de haute pression atmosphérique) vers une dépression, il
 s'écoule de façon turbulente à la surface des océans et induit l'apparition d'ondulations plus ou moins
 fortes en fonction de sa force
-
 
 ![Formation de la houle](Images/formationdelahoule.PNG)
 
