@@ -2,13 +2,13 @@
 
 Salinité de l'eau de mer : 35/1 000 -> 35g / L
 
-Estuaire marin : eau salée et somatre 
+Estuaire marin : eau salée et saumâtre
 
-Estuaire moyen : eau salée et somatre
+Estuaire moyen : eau salée et saumâtre
 
 Estuaire amont : eau non salée
 
-L'estuaire de la Seine commence lorsqu'on ressent la marée c'est à dire ici au delà du barrage de Poses.
+L'estuaire de la Seine commence lorsqu ' on ressent la marée c'est à dire ici au delà du barrage de Poses.
 
 Système macrotidal de 8,5 m.
 
@@ -18,7 +18,7 @@ pH eau de rivière : 7,5
 
 pH eau de mer : 8
 
-Le pH va diminuer à 6 au niveau du bouchon vaseaux car la colonne d'eau va perdre tout son oxygène.
+Le pH va diminuer à 6 au niveau du bouchon vaseux car la colonne d'eau va perdre tout son oxygène.
 
 Il y a aussi une forte pollution dû au bassin de Paris. Les vasières sont des puits ou des sources de nutriments. 
 
@@ -34,7 +34,7 @@ Débit en étiage : 139 m<sup>3</sup>/s
 
 Débit en crue : 1 000 m<sup>3</sup>/s
 
-Le bouchon va remonter dans l'estuaire est va engrasser les marées en période d'étiage. Si il n'y a pas beaucoup d'eau, il y aura une conséquence sur la diminution de l'oxygène.
+Le bouchon va remonter dans l'estuaire est va engraisser les marées en période d'étiage. Si il n'y a pas beaucoup d'eau, il y aura une conséquence sur la diminution de l'oxygène.
 
 Subtidal : zone en dessous du plateau continental.
 
@@ -52,7 +52,7 @@ Il existe deux grandes classes de paramètres :
 
 * en relation avec la structure naturelle des eaux (fond géochimique des eaux) -> calcium, magnésium, carbonate
 
-* paramètres concernant les susbstances indésirables (pollution non toxique)
+* paramètres concernant les substances indésirables (pollution non toxique)
 
 TDS = minéralisation totale
 
@@ -62,7 +62,7 @@ Le  Titre  Alcalimétrique  Complet  (T.A.C)  correspond  à  la  teneur  de  l'
 
 ![Le titrage de l'eau](Images/titrage.jpg)
 
-TAC = dureté carbonaté et TH = dureté total (Calcuim + Magnésium).
+TAC = dureté carbonaté et TH = dureté total (Calcium + Magnésium).
 
 Cela donne la carte d'identité des eaux.
 

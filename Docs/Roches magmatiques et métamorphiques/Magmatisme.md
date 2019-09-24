@@ -48,7 +48,7 @@ Le magma est un mélange de solide, de liquide et de gaz.
 
 * **texture phanéritique** : tous les cristaux sont visibles à l'oeil nu. Plusieurs types de textures : grenue, microgrenue, porphyroïde ect..
 
-* **texture porphyrique** : cristaux de grande taille, visibles à l'oeil nu, pris dans une matrice. Si les cristaux sont centimétriques à plurocentimétriques, on parle de phénocristaux. Ils sont hérités d'une période de cristallisation en profondeur.
+* **texture porphyrique** : cristaux de grande taille, visibles à l'oeil nu, pris dans une matrice. Si les cristaux sont centimétriques à pluri centimétriques, on parle de phénocristaux. Ils sont hérités d'une période de cristallisation en profondeur.
 
 Les conditions de cristallisation vont impacter la vitesse de refroidissement.
 

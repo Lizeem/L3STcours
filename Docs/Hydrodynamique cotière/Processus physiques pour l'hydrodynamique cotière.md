@@ -1,6 +1,6 @@
-# Introduction à la dynamique cotière
+# Introduction à la dynamique côtière
 
-## Zones cotières
+## Zones côtières
 
 La zone côtière marine et son littoral sont de natures très variées (lagons,
 baies, embouchures de rivières, falaises, plages, mangroves…etc…).
@@ -8,10 +8,10 @@ C’est le lieu où s’exacerbent les pressions anthropiques et climatiques.
 
 L’hydrodynamique côtière est responsable de :
 
-* le transport de polluants (pétrole, ..), des mouvements sédimentaires (erosion, sedimentation, ..) ayant des consequences importantes, comme le recul du trait de côte ou la formation de bancs de sable,
+* le transport de polluants (pétrole, ..), des mouvements sédimentaires (érosion, sédimentation, ..) ayant des conséquences importantes, comme le recul du trait de côte ou la formation de bancs de sable,
 * fort impact sur les paysages et les habitats marins: fonctionnement des écosystèmes marins
 
-Echelles Différentes : court-terme au long-terme
+Échelles Différentes : court-terme au long-terme
 
 L’objet de l’hydrodynamique qui fait partie d’une façon générale de l’étude
 des fluides en mouvement ou encore Mécanique des Fluides : ce domaine
@@ -27,11 +27,11 @@ Dynamique des masses d'eau -> équation physiques complexes -> conservation du m
 
 Ces équations ont été établies progressivement mais le formalisme actuellement utilisé doit beaucoup aux physiciens français Henry Navier et anglais Georges Stokes qui leur ont donné leurs noms.
 
-![Mécanique des fluides sur zone cotière](Images/applications.png)
+![Mécanique des fluides sur zone côtières](Images/applications.png)
 
-![Zonnation](Images/zonnation.png)
+![Zonation](Images/zonnation.png)
 
-![Effets des conditions météroologiques](Images/effets.png)
+![Effets des conditions météorologiques](Images/effets.png)
 
 ## Pression atmosphérique
 
@@ -55,7 +55,7 @@ géopotentiels ». Il est d’ailleurs plus pratique de reporter les altitudes o
 
 ![Les isobares](Images/isobares.png)
 
-Les lignes d’égale altitude sont appelés des isohypses. Les formes dessinées par les isobares nous permettent de reconnaitre la nature des perturbations atmosphériques comme les dépressions, les anticyclones.
+Les lignes d’égale altitude sont appelés des isohypses. Les formes dessinées par les isobares nous permettent de reconnaître la nature des perturbations atmosphériques comme les dépressions, les anticyclones.
 
 Elle varie aussi en rapport avec la température de l’air parce que l’air chaud a une moins grande densité que l’air froid ; une couche d’air chaud de même taille qu'une autre couche d’air froid aura une moins grande pression.
 
@@ -68,7 +68,7 @@ températures et de pression.
 Plus la différence de pression entre deux masses d'air est importante et plus le vent sera important. Au contraire si la pression reste constante, les vents demeureront faibles. Les courants d'air horizontaux sont en moyenne beaucoup plus importants que les verticaux.
 
 La vitesse verticale moyenne des vents ne dépasse pas quelques dizaines de
-centimètres par seconde, contre 10 m/s pour la vitesse horizontale ; toutefois, à l'échelle locale, en présence de reliefs importants et à l'intérieur des systèmes convectifs, elle peut atteindre des valeurs extrêmes, jusqu'à 40 m/s (dans des supercellules).
+centimètres par seconde, contre 10 m/s pour la vitesse horizontale ; toutefois, à l'échelle locale, en présence de reliefs importants et à l'intérieur des systèmes convectifs, elle peut atteindre des valeurs extrêmes, jusqu'à 40 m/s (dans des super cellules).
 
 Les données de vent sont classifiées selon deux informations : la vitesse et la direction selon le plan horizontal. En général l’unité du système international pour la vitesse est le mètre par seconde (m/s), or en ce qui concerne la vitesse du vent en météorologie, on utilise le plus souvent les kilomètres par heure (km/h) et les noeuds pour la météorologie maritime.
 
@@ -111,7 +111,7 @@ Les régions polaires et tempérées sont exposées à une décroissance des ven
 
 Schéma montrant comment les vents sont déviés pour donner une circulation antihoraire dans l’hémisphère nord autour d’une dépression. (La force de gradient de pression est en bleu, celle de Coriolis en rouge et le déplacement en noir).
 
-### Ecoulement du vent
+### Écoulement du vent
 
 Le vent s'écoule de façon plus ou moins régulière et peut-être caractérisé par différents régimes. Nous parlerons d’écoulement laminaire lorsque l'air est peu agité, les lignes de courant disposées en couches parallèles; donc le vent est régulier.
 
@@ -133,7 +133,7 @@ Cette tempête illustre bien les dangers causés par le vent ; celui-ci peut par
 
 ![Courants de jet](Images/jet.png)
 
-### Echelle de Beaufort
+### Échelle de Beaufort
 
 Vent -> état de mer : houle
 
@@ -142,9 +142,9 @@ précisément les effets du vent sur la mer. Il en est ressorti une échelle de
 mesure empirique comportant 13 niveaux (de 0 à 12) auxquels on associe une
 vitesse moyenne de vent et une description de l’état de la mer. Par la suite, des critères liés aux conditions sur terre furent ajoutés pour étendre son utilisation.
 
-![Echelle de Beaufort](Images/beaufort.png)
+![Échelle de Beaufort](Images/beaufort.png)
 
-## Patrons isobares : cyclones - depression
+## Patrons isobares : cyclones - dépression
 
 ### Formation d'un anticyclone
 
@@ -156,7 +156,7 @@ des périodes de sécheresse et de froid intense peuvent s’en suivre.
 
 ### Formation d'un cyclone
 
-Quand l’air circule par-dessus un océan quelconque ou d’un sol à température assez élevée, il finit par se réchauffer. Ce réchauffement entraine une diminution de la masse volumique de l’air en question. Répondant aux courants de convection, l’air chaud monte et forme une zone de basse pression en raison de sa faible densité. Cette zone est appelée «cyclone » ou même « dépression ».
+Quand l’air circule par-dessus un océan quelconque ou d’un sol à température assez élevée, il finit par se réchauffer. Ce réchauffement entraîne une diminution de la masse volumique de l’air en question. Répondant aux courants de convection, l’air chaud monte et forme une zone de basse pression en raison de sa faible densité. Cette zone est appelée «cyclone » ou même « dépression ».
 
 La formation de cyclone est souvent causée par la rencontre de deux masses d’air, mais celles-ci sont généralement beaucoup plus petites que les anticyclones. Les cyclones apportent avec eux des précipitations et des vents parfois violents.
 
@@ -248,9 +248,9 @@ Nous pouvons donc dire que les tsunamis sont des ondes longues.
 
 Au large, les tsunamis se propagent très rapidement. En effet, ceux sont des ondes longues et leur vitesse est proportionnelle à la profondeur de l'océan.
 
-Au large, la profondeur de l'océan est 4000 m et les tsunamis se propagent avec un vitesse bien derterminé (50-900 Km/h)
+Au large, la profondeur de l'océan est 4000 m et les tsunamis se propagent avec un vitesse bien déterminé (50-900 Km/h)
 
-A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vagues augmente de façon considérable. En se rappochant des côtes, la longueur d'onde diminue car la profondeur diminue.
+A l'arrivée près des côtes, un tsunami devient dangereux : la hauteur des vagues augmente de façon considérable. En se rapprochant des côtes, la longueur d'onde diminue car la profondeur diminue.
 
 De plus, g a toujours la même valeur donc la vitesse de propagation du tsunami dépend de la profondeur.
 
@@ -375,7 +375,7 @@ Les ondes les plus courtes se dissipent et les autres s’additionnent aux plus 
 houles se déplacent alors en trains d’ondes qui s’épuisent se font remplacer par les
 suivantes.
 La vitesse de propagation de la houle est, pour une période de 10s, de 58 Km/h.
-Quand les houles matures atteignent les côtes, les vagues déferlent et peuvent être surfée.
+Quand les houles matures atteignent les côtes, les vagues déferlent et peuvent être surfé.
 
 ![Formules houle](Images/formulehoule.PNG)
 
@@ -393,7 +393,7 @@ Célérité = fréquence angulaire / nombre d'onde
 
 ![La profondeur de la zone](Images/profondeur.PNG)
 
-H/L<<1: hauteur de houle réduite par rapport à la profondeur ou la longeur d’onde.
+H/L<<1: hauteur de houle réduite par rapport à la profondeur ou la longueur d’onde.
 Mouvement de Petit Amplitude, Houle Linéaire
 
 ![Formule du régime de la houle](Images/dispersionhoule.PNG)
@@ -406,15 +406,15 @@ h et d = la profondeur de l'eau
 
 ## Hypothèse du fluide
 
-noeud : intersection entre le niveau de repos et l'onde
+noeuds : intersection entre le niveau de repos et l'onde
 
-anti - noeud : crête de l'onde
+anti - noeuds : crête de l'onde
 
 Les vitesses varient. Au niveau des crête et des creux, la vitesse est essentiellement horizontale.
 
 Dans une zone de creux on a une force inverse à la propagation horizontale.
 
-Au niveau des noeud, les forces sont essentiellement verticales.
+Au niveau des noeuds, les forces sont essentiellement verticales.
 
 ![Mouvement des particules](Images/particulefluide.PNG)
 
@@ -440,7 +440,7 @@ L'énergie totale d'une onde est la somme de son énergie cinétique (associée 
 
 E<sub>cin</sub> = 1/(16 ρ gH² λ)
 
-Durant sa propagation, la houle change de hauteur H et de densité d'énergie. Le flux d'énergie se conserve. L'énergie integrée sur une longueur d'onde :
+Durant sa propagation, la houle change de hauteur H et de densité d'énergie. Le flux d'énergie se conserve. L'énergie intégrée sur une longueur d'onde :
 
 E<sub>T</sub> (J/m²) = E<sub>c</sub> + E<sub>p</sub> = ρg(H²/8)
 

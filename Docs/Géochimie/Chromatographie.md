@@ -2,7 +2,7 @@
 
 La chromatographie est une méthode séparative dans le but de séparer les composés et de les doser.
 
-On va utiliser la chromatographie pour analyser les mélanges, chromatographie **semi-préparative ou préparative** afin de récupérer les produits purs.
+On va utiliser la chromatographie pour analyser les mélanges, chromatographie **semi-préparatrice ou préparatrice** afin de récupérer les produits purs.
 
 On l'utilise aussi pour l'identification des éléments par couplage.
 
@@ -22,7 +22,7 @@ Partage des constituants (solutés) des mélanges entre deux phases :
 
 ![Principe](Images/22.jpg)
 
-A partir du détecteur nous aurons un chromatograme avec un pique par molécule.
+A partir du détecteur nous aurons un chromatogramme avec un pique par molécule.
 
 Chromatographie en phase liquide
 
@@ -38,7 +38,7 @@ Interaction entre solutés et phase stationnaire :
 
 ![Classification des méthodes chromatographiques](Images/32.jpg)
 
-Chromatographie d'exclusion : phase polimère, séparation en fonction de la taille des molécules
+Chromatographie d'exclusion : phase polymère, séparation en fonction de la taille des molécules
 
 Chromatographie ionique : phase stationnaire chargée, séparation entre les interactions ioniques
 
@@ -50,12 +50,12 @@ Phénomènes chromatographiques :
 
 Chromatographie liquide et chromatographie gazeuse
 
-* chromatographie de partage, interactions de van der waals et de liaisons H, on va utilisé le silice
+* chromatographie de partage, interactions de van der walls et de liaisons H, on va utilisé le silice
 * chromatographie d'adsorption (propriétés de surface), interactions en surface (par exemple charbon actif dans les hôtes). Il est beaucoup moins utilisé
 
 Phénomènes chromatographiques :
 
-* partage du soluté entre les 2 phases : soluté phase mobile retenue par la phase stationnaire, paratge de façon équilibré. Réalisé par un constante d'équilibre : fonction de la température **lnK = delta G°/RT**. Plus les molécules sont fortes, plus le soluté va être retenu en phase stationnaire; **grandeurs thermodynamique**
+* partage du soluté entre les 2 phases : soluté phase mobile retenue par la phase stationnaire, partage de façon équilibré. Réalisé par un constante d'équilibre : fonction de la température **lnK = delta G°/RT**. Plus les molécules sont fortes, plus le soluté va être retenu en phase stationnaire; **grandeurs thermodynamique**
 
 * dispersion des molécules au cours de leur transfert dans la colonne : déplacement de phase mobile; **grandeurs cinétique**
 
@@ -151,7 +151,7 @@ mélange simple : moins de 5 composés et mélange complexe entre 2 et 10 compos
 * détecteur : détection UV
 * traitement et acquisition du signal 
 
-On va séparer les espèces d'un mélange partage entre une phase mobile est une phase stationnaire. Chaque soluté injecté sur la colonne est soumis à deux effets antagonistes : un effet d'entraînement par la phase mobile dans laquelle il est soluble et un effet de rétention par la phase stationnaire avec l'aquelle il interagit. Le soluté doit être soluble.
+On va séparer les espèces d'un mélange partage entre une phase mobile est une phase stationnaire. Chaque soluté injecté sur la colonne est soumis à deux effets antagonistes : un effet d'entraînement par la phase mobile dans laquelle il est soluble et un effet de rétention par la phase stationnaire avec laquelle il interagit. Le soluté doit être soluble.
 
 ![Définition du système HPLC](Images/132.jpg)
 
@@ -161,7 +161,7 @@ La séparation des différences de solubilité des solutés dans la phase mobile
 
 On va utilisé la chromatographie de partage à polarité de phases inverses : le solvant de base est l'eau avec un solvant organique et la phase stationnaire et la silice dans lequel ont à formé  un modèle organique. La phase stationnaire sera moins polaire que la phase mobile.
 
-La silice est très polaire donc absorbante. La surface sont des silanols (groupement réactif) qui sont polaires afin d'avoir les interactions. Sur ces groupements en phase inverse on mettra des longues chaines hydrocarboné octadecyle. On utilise pas seulement la silice car l'eau s'accroche à celle -ci. On utilisera une colonne C18.
+La silice est très polaire donc absorbante. La surface sont des silanols (groupement réactif) qui sont polaires afin d'avoir les interactions. Sur ces groupements en phase inverse on mettra des longues chaînes hydrocarboné octadecyle. On utilise pas seulement la silice car l'eau s'accroche à celle -ci. On utilisera une colonne C18.
 
 ## Les grandeurs thermodynamiques
 
@@ -171,9 +171,9 @@ Les facteurs essentiels modifiant la sélectivité alpha sont :
 	* nature du greffon
     * nature de la silice
 
-* la phase mobile : force éluante
+* la phase mobile : force éluant
 	* nature du solvant organique
-    * composition eau - solvant dynamique (il faut qu'il soit missible avec l'eau)
+    * composition eau - solvant dynamique (il faut qu'il soit miscible avec l'eau)
 
 * (la température) : colonne à température ambiante, on ne peut pas la modifier.
 
@@ -189,7 +189,7 @@ phase stationnaire : on utilise le C18
 
 ## Les grandeurs cinétiques
 
-L'éfficacité est une mesure de la dispersion à travers le système chromatographique. Elle dépend de la qualité de fabrication de la colonne.
+L'efficacité est une mesure de la dispersion à travers le système chromatographique. Elle dépend de la qualité de fabrication de la colonne.
 
 Plus la valeur de n est petite, plus le pic sera plus large.
 
@@ -205,20 +205,20 @@ Loi de Darcy : si on diminue les diamètres des particules, on rejette plus de c
 
 On utilise les gels de silice car c'est une structure poreuse, cela permet d'avoir une grande surface d'échange. C'est une surface spécifique/poreuse. Avec la surface de silice on a 350m²/g de silice. La silice est disponible commercialement dans différentes granulométries. Aujourd'hui, on utilise une taille de 5µm. Elle possède un groupement de réactifs à la surface. Elle est résistante à la pression.
 
-La colonne chromatograpique est remplie de particules de silices greffées : particules sphériques de 5µ. C'est la nature du greffon qui confère à la colonne sa sélectivité.
+La colonne chromatographique est remplie de particules de silices greffées : particules sphériques de 5µ. C'est la nature du greffon qui confère à la colonne sa sélectivité.
 
 Pour un remplissage homogène et une efficacité optimale de la colonne , les particules doivent avoir le même diamètre et être sphérique.
 
 On travaille en chromatographie de partage en phase inverse :
 
-* phase stationnaire : silice greffée apolaire (modifiée chimiquement en greffant un chaîne alkyne)
+* phase stationnaire : silice greffée apolaire (modifiée chimiquement en greffant un chaîne alkyle)
 * phase mobile : mélange eau - solvants organiques (polarité très variée)
-* mécanisme : interacions hydrophobes
+* mécanisme : interactions hydrophobes
 * espèces séparables : composés organiques moléculaires, moyennement à fortement apolaires
 
 Les solutés les plus apolaires seront les plus retenus. Plus la molécule sera proche de la phase stationnaire plus il y aura des interactions.
 
-Une augmentation du pourcentage de solvant organique du mélange éluant augmente l'affinité de la phase mobile pour la phase stationnaire. Dans ce cas, on va diminiuer la rétention.
+Une augmentation du pourcentage de solvant organique du mélange éluant augmente l'affinité de la phase mobile pour la phase stationnaire. Dans ce cas, on va diminuer la rétention.
 
 On va modifier le pourcentage d'eau ou du solvant.
 
@@ -234,8 +234,8 @@ La phase mobile peut être un solvant seul, mais également un mélange binaire,
 
 La pompe munie d'un système de gradient permet d'effectuer une programmation de la nature du solvant soit :
 
-* en mode isocratique : la composition de la phase mobile est la même tout au long de l'analyse; la force éluante est donc constante
-* en mode gradient d'élution : variation de la composition de la phase mobile pendant l'analyse pour augmenter la force éluante
+* en mode isocratique : la composition de la phase mobile est la même tout au long de l'analyse; la force éluant est donc constante
+* en mode gradient d'élution : variation de la composition de la phase mobile pendant l'analyse pour augmenter la force éluant
 
 ![Le système HPLC](Images/241-2.jpg)
 
@@ -259,7 +259,7 @@ L'absorbance A de la Pm est mesurée en sortie de colonne à une  longueur d'ond
 
 ![Cheminement de la phase mobile](Images/261.jpg)
 
-L'absorbance est le logarithme du rapport des itensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée à la concentration des espèces en solution par la loi Bert - Lambert.
+L'absorbance est le logarithme du rapport des intensités des rayons lumineux incidents (I<sub>0</sub>) et transmis (I). L'absorbance est liée à la concentration des espèces en solution par la loi Bert - Lambert.
 
 ![Formule de l'absorbance](Images/262.jpg)
 ![Choix de la longueur d'onde](Images/271.jpg)

@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Etudier le comportement des éléments chimiques dans l'environnement afin de connaître la qualité des eaux et sert à tracer les éléments depuis une source jusqu'à un réceptacle sédimentaire.
+Étudier le comportement des éléments chimiques dans l'environnement afin de connaître la qualité des eaux et sert à tracer les éléments depuis une source jusqu'à un réceptacle sédimentaire.
 
 Altération : modifier la composition chimique d'un volume
 
-La composition des eaux varient par les surfaces contientales.
+La composition des eaux varient par les surfaces continentales.
 
 Les argiles a silex sont le produit d'altération de la craie.
 
@@ -28,18 +28,18 @@ Valence : la répartition des électrons pour une sous - couche donnée se fait 
 
 ![Valence](Images/valence.PNG)
 
-atome metallique : perte d'un électron et acquisition de la structure électronique du gaz rare de la période précédente.
+atome métallique : perte d'un électron et acquisition de la structure électronique du gaz rare de la période précédente.
 
 atome non - métallique : tendance à acquérir des électrons pour atteindre la structure du gaz rare de la même période.
 
-![Echelle de Pauling](Images/pauling)
+![Échelle de Pauling](Images/pauling)
 
 L'hydratation va permettre de diviser les éléments en deux parties :
 
 * oxyde métallique -> hydroxyde basique
 * oxyde non métallique -> acide
 
-## Etats de la matière
+## États de la matière
 
 Les atomes ont des formes en fonction du rapport entre les cations et anions.
 
@@ -48,7 +48,7 @@ Les atomes ont des formes en fonction du rapport entre les cations et anions.
 Les argiles sont des silicates. Ils se chargent en eau donc les silicates gonflent. Les roches en silicates qui s'altèrent vont produire des argiles. Ils sont en équilibre selon la pression et la température.
 
 * tétraèdres isolés
-* tétraèdres en chaines simples
+* tétraèdres en chaînes simples
 * tétraèdres en feuillets
 
 La thermodynamique va provoquer l'altération des roches. La vitesse de destruction va varier en fonction des minéraux. Le quartz va se détruire très lentement, c'est le minéral qu'on va retrouver sur les plages.
@@ -56,13 +56,13 @@ La thermodynamique va provoquer l'altération des roches. La vitesse de destruct
 Deux grands types de minéraux argileux :
 
 * argiles 1:1 -> kaolinite
-* argiles 2:1 -> chlorite, smectite, vermiculites, illites
+* argiles 2:1 -> chlorite, smectites, vermiculites, illites
 
 ![Les types de feuillet](Images/feuillet.PNG)
 
-Les argiles sont une famille de minéraux stables dans les conditions de surface. Les métaux vont se fixer sur les argiles. Ils sont capable d'avoir des charges positives et négatives donc absorbent tout. La smectites et vermiculites absorvent l'eau et donc gonflent.
+Les argiles sont une famille de minéraux stables dans les conditions de surface. Les métaux vont se fixer sur les argiles. Ils sont capable d'avoir des charges positives et négatives donc absorbent tout. La smectites et vermiculites absorbent l'eau et donc gonflent.
 
-Le volume des particules de ces suspensions varie suivant les types d'argile, les électrolytes présents dans l'eau et leur concentration; cela signifie qu'il existe différentes structures dues aux varations des propriétés de surface.
+Le volume des particules de ces suspensions varie suivant les types d'argile, les électrolytes présents dans l'eau et leur concentration; cela signifie qu'il existe différentes structures dues aux variations des propriétés de surface.
 
 Van Olphen (1977) distingue quatre cas (figure 1-8) suivant que les particules sont dispersées, agrégées face à face, floculées (les particules étant alors en contact bord/bord ou bord/face), ou défloculées (pas de contact entre les particules).
 
@@ -86,11 +86,11 @@ La géochimie est variée car les éléments vont être remplacé par d'autres.
 
 Classification géochimique
 
-![Modele de Goldschimdt](Images/modele.PNG)
+![Modèle de Goldschimdt](Images/modele.PNG)
 
 ![Diagramme de Goldschimdt](Images/diagrammez.PNG)
 
-Les cations précipitants ont tendance à rester sur place. Les oxyanions solubles sont les atomes qui constituent le vivants, ils sont capables de voyager.
+Les cations précipitant ont tendance à rester sur place. Les oxyanions solubles sont les atomes qui constituent le vivants, ils sont capables de voyager.
 
 MORB = basalte des dorsales
 

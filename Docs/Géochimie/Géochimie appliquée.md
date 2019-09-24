@@ -55,13 +55,13 @@ T (K) = température absolue
 
 n = nombre d'électron
 
-F(96 500 C) = contante de Faraday
+F(96 500 C) = constante de Faraday
 
 -> E = E<sup>0</sup> + 0,06/n log a<sub>ox</sub>/a<sub>red</sub>
 
-L'activité d'un composé va dépendre de l'état du composé. L'activité va varier si le composé est en solution (electrolyte) sont activité est égal à la concentration. Si il est en forme gazeuse, son activité est égal à sa pression partielle (p<sub>i</sub> = n<sub>i</sub>/n<sub>t</sub> . P<sub>t</sub> = X<sub>i</sub> . P<sub>t</sub>)
+L'activité d'un composé va dépendre de l'état du composé. L'activité va varier si le composé est en solution (électrolyte) sont activité est égal à la concentration. Si il est en forme gazeuse, son activité est égal à sa pression partielle (p<sub>i</sub> = n<sub>i</sub>/n<sub>t</sub> . P<sub>t</sub> = X<sub>i</sub> . P<sub>t</sub>)
 
-Avec la loi de Nersnt, pour le fer, on obtient :
+Avec la loi de Nerst, pour le fer, on obtient :
 
 E = E<sup>0</sup> <sub>Fe<sup>+2</sup>/Fe<sup>+3</sup></sub> + 0,06/1 log [Fe<sup>+3</sup>]/[Fe<sup>+2</sup>]
 
