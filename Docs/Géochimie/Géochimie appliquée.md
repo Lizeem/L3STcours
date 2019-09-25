@@ -107,8 +107,7 @@ Ce seront les mêmes espèces mais sous des formes différentes, du point de vu 
 
 ![Équilibre de solubilité](Images/13.jpg)
 ![Équilibre de solubilité](Images/14.jpg)
-
-(diapo 15)
+![Influence du pH sur un couple redox](Images/15.jpg)
 
 Le diagramme donne les différentes formes du fer selon le pH. Le Fe<sup>3+</sup> va réagir avec le Fe<sup>2+</sup>.
 
@@ -130,9 +129,9 @@ pH > 7,45 couple < Fe (OH)<sub>2</sub> > / Fe
 
 On va pouvoir, à partir de ces couples tracer le diagramme. Pour simplifier, on va considérer que la concentration des formes solubles est égale à 10<sup>-2 </sup>.
 
-(diapo 17)
-
-(diapo 18 avec le supplément) 
+![Détermination du pH pour le diagramme](Images/17.jpg)
+![Détermination du pH pour le diagramme](Images/18,1.jpg)
+![Fin du calcul de détermination pour le diagramme](Images/18,2.jpg)
 
 **II -> 0**  
 
@@ -140,7 +139,11 @@ De même que précédemment,
 
 0 < pH < 7,45 couple Fe <sup>2+</sup> / < Fe >
 
+Fe <sup>2+</sup> + 2e <->  < Fe > + 2OH<sup>-</sup>
+
 pH > 7,45 couple < Fe (OH)<sub>2</sub> > / < Fe > 
 
+< Fe (OH)<sub>2</sub> > + 2e <-> < Fe > + 2OH<sup>-</sup>
 
+E<sub>6</sub> = E<sub>6</sub>° + 0,03 log 1/ [ OH<sup>-</sup> ]<sup>2</sup>
 
