@@ -105,7 +105,42 @@ Fe <sup>+3</sup> <-> < Fe (OH)<sub>3</sub> >
 
 Ce seront les mêmes espèces mais sous des formes différentes, du point de vu de l'oxydoréduction ça ne changera pas.
 
-![Equilibre de solubilité](Images/13.jpg)
-![Equilibre de solubilité](Images/14.jpg)
+![Équilibre de solubilité](Images/13.jpg)
+![Équilibre de solubilité](Images/14.jpg)
 
 (diapo 15)
+
+Le diagramme donne les différentes formes du fer selon le pH. Le Fe<sup>3+</sup> va réagir avec le Fe<sup>2+</sup>.
+
+Donc les couples redox qui vont varier selon le pH :
+
+**III -> II :**
+
+0 < pH < 2,33 couple Fe<sup>3+</sup>/Fe<sup>2+</sup>
+
+2,33 < pH < 7,45 couple < Fe(OH)<sub>3</sub> >/ Fe<sup>2+</sup>
+
+pH > 7,45 couple < Fe (OH)<sub>3</sub> > / < Fe (OH)<sub>2 >
+
+**II -> 0** 
+
+ 0 < pH < 7,5 couple Fe<sup>2+</sup> / Fe 
+
+pH > 7,45 couple < Fe (OH)<sub>2</sub> > / Fe
+
+On va pouvoir, à partir de ces couples tracer le diagramme. Pour simplifier, on va considérer que la concentration des formes solubles est égale à 10<sup>-2 </sup>.
+
+(diapo 17)
+
+(diapo 18 avec le supplément) 
+
+**II -> 0**  
+
+De même que précédemment,
+
+0 < pH < 7,45 couple Fe <sup>2+</sup> / < Fe >
+
+pH > 7,45 couple < Fe (OH)<sub>2</sub> > / < Fe > 
+
+
+
