@@ -459,3 +459,42 @@ Zone profonde : Sxx = 1/2 E, Syy = 0
 Zone peu profonde : Sxx = 3/2 E, Syy = 1/2 E
 
 ![Schéma récapitulatif des données](Images/schéma.PNG)
+
+# Relations mathématiques
+
+## Distribution statistique de la houle
+
+La distribution de la houle est une distribution normale et gaussienne. 
+
+Moment de la houle : m<sub>n</sub> 
+
+H1/3 est appelé hauteur significative des vagues. Cette valeur correspond à l'amplitude moyenne des trois (N/3) ou des dix valeurs (N/10) les plus hautes houles observées en un lieu et à un moment précis.
+
+## Les moments spectraux de la houle
+
+Bande spectrale  = à savoir
+
+On appelle la valeur qui dépasse les maximums a<sup>1/N</sup>. On va appeler a<sup>1/10</sup> la valeur qui dépasse les maximums de 10%. 
+
+Deux types de spectre : 
+
+* josnwap 
+* 
+
+# Cours 4
+
+Angle d'incidence : angle entre les fronts d'onde et l'horizontal.
+
+La houle en propagation : 
+
+1. Shoaling : changement de la hauteur de la houle, la longueur d'onde va diminuer. Il ne peut pas se propager au large.
+
+(schéma)
+
+2. Diffraction
+3. Refraction
+4. Reflexion
+5. Breaking
+
+Elle aura une nouvelle hauteur lié à l'ancienne hauteur et du coefficient de changement.
+
