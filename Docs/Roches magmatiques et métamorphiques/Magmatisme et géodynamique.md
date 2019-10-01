@@ -29,3 +29,29 @@ On distingue donc deux types de dorsales océanique :
   * vallée de rift marquée, voire absente 
   * régime thermique élevé
 
+* dorsales lente : dorsale océanique
+  * expansion de 1,5 à 3,5 cm/an
+  * vallée du rift bien marquée
+  * régime thermique modéré
+
+La chambre magmatique est plus petite dans les dorsales lente donc le toit de la chambre magmatique a tendance à s'éffondrer.
+
+## Les ophiolites
+
+On peut avoir un morceau de croûte océanique sur la croûte continentale.
+
+La chaîne d'obduction d'oman
+
+## Magmatisme de subduction
+
+Subduction : zone de convergence entre  un plateau océanique et un plateau continentale. Ce sont des marges passive.
+
+Les marges passives sont des zones où il ne se passe rien entre la croûte continental et la croûte océanique car ils proviennent de la même plaque tectonique.
+
+Lors d'une subduction, on un la déshydratation des micas puis des amphiboles. On aura une fusion partielle du coin mantellique liée à la déshydratation du slab (croûte océanique et lithosphère océanique) qui subduit. 
+
+On une contribution des sédiments marins du prisme d'accrétion à la chimie des magmas primaires. Les basaltes vont être très marquées et d'autres très peu.
+
+Le mode de fusion partielle et les à l'hydratation.
+
+Lors d'une subduction on peut avoir un volcanisme de type strombolien à plinien ou péléen. 
