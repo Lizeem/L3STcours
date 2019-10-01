@@ -36,7 +36,7 @@
     
     
       
-        <title>Magmatisme et géodynamique - Cours de Licence 3 ST</title>
+        <title>Introduction à R - Cours de Licence 3 ST</title>
       
     
     
@@ -83,7 +83,7 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
-      <a href="#magmatisme-et-geodynamique" tabindex="1" class="md-skip">
+      <a href="#introduction-a-r" tabindex="1" class="md-skip">
         Skip to content
       </a>
     
@@ -109,7 +109,7 @@
             </span>
             <span class="md-header-nav__topic">
               
-                Magmatisme et géodynamique
+                Introduction à R
               
             </span>
           
@@ -189,7 +189,7 @@
   
     <li class="md-tabs__item">
       
-        <a href="../../Géomatique et programmation/Programmation R fiche/" class="md-tabs__link">
+        <a href="./" class="md-tabs__link md-tabs__link--active">
           Géomatique et programmation
         </a>
       
@@ -215,7 +215,7 @@
   
     <li class="md-tabs__item">
       
-        <a href="../Genèse des magmas/" class="md-tabs__link md-tabs__link--active">
+        <a href="../../Roches magmatiques et métamorphiques/Genèse des magmas/" class="md-tabs__link">
           Roches magmatiques et métamorphiques
         </a>
       
@@ -334,10 +334,12 @@
       
       
 
+  
 
-  <li class="md-nav__item md-nav__item--nested">
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3" checked>
     
     <label class="md-nav__link" for="nav-3">
       Géomatique et programmation
@@ -353,11 +355,70 @@
           
           
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../Géomatique et programmation/Programmation R fiche/" title="Introduction à R" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Introduction à R
+      </label>
+    
+    <a href="./" title="Introduction à R" class="md-nav__link md-nav__link--active">
       Introduction à R
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">Table des matières</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#nombres" class="md-nav__link">
+    Nombres
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#booleens" class="md-nav__link">
+    Booléens
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#chaine-de-caractere" class="md-nav__link">
+    Chaîne de caractère
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#vecteurs" class="md-nav__link">
+    Vecteurs
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
   </li>
 
         
@@ -406,12 +467,10 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
-      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5" checked>
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-5" type="checkbox" id="nav-5">
     
     <label class="md-nav__link" for="nav-5">
       Roches magmatiques et métamorphiques
@@ -429,7 +488,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../Genèse des magmas/" title="Genèses des magmas" class="md-nav__link">
+    <a href="../../Roches magmatiques et métamorphiques/Genèse des magmas/" title="Genèses des magmas" class="md-nav__link">
       Genèses des magmas
     </a>
   </li>
@@ -441,7 +500,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../Introduction/" title="Introduction" class="md-nav__link">
+    <a href="../../Roches magmatiques et métamorphiques/Introduction/" title="Introduction" class="md-nav__link">
       Introduction
     </a>
   </li>
@@ -453,7 +512,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../Les volcans/" title="Mise en place des roches magmatiques" class="md-nav__link">
+    <a href="../../Roches magmatiques et métamorphiques/Les volcans/" title="Mise en place des roches magmatiques" class="md-nav__link">
       Mise en place des roches magmatiques
     </a>
   </li>
@@ -463,77 +522,11 @@
           
           
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Magmatisme et géodynamique
-      </label>
-    
-    <a href="./" title="Magmatisme et géodynamique" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../../Roches magmatiques et métamorphiques/Magmatisme et géodynamique/" title="Magmatisme et géodynamique" class="md-nav__link">
       Magmatisme et géodynamique
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">Table des matières</label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#les-rifts-continentaux" class="md-nav__link">
-    Les rifts continentaux
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#les-dorsales-oceaniques" class="md-nav__link">
-    Les dorsales océaniques
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#les-ophiolites" class="md-nav__link">
-    Les ophiolites
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#magmatisme-de-subduction" class="md-nav__link">
-    Magmatisme de subduction
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#les-trapps-ou-lips" class="md-nav__link">
-    Les trapps ou LIPs.
-  </a>
-  
-</li>
-      
-      
-      
-      
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
         
@@ -543,7 +536,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../Magmatisme/" title="Les roches magmatiques" class="md-nav__link">
+    <a href="../../Roches magmatiques et métamorphiques/Magmatisme/" title="Les roches magmatiques" class="md-nav__link">
       Les roches magmatiques
     </a>
   </li>
@@ -575,36 +568,29 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#les-rifts-continentaux" class="md-nav__link">
-    Les rifts continentaux
+  <a href="#nombres" class="md-nav__link">
+    Nombres
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-dorsales-oceaniques" class="md-nav__link">
-    Les dorsales océaniques
+  <a href="#booleens" class="md-nav__link">
+    Booléens
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#les-ophiolites" class="md-nav__link">
-    Les ophiolites
+  <a href="#chaine-de-caractere" class="md-nav__link">
+    Chaîne de caractère
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#magmatisme-de-subduction" class="md-nav__link">
-    Magmatisme de subduction
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#les-trapps-ou-lips" class="md-nav__link">
-    Les trapps ou LIPs.
+  <a href="#vecteurs" class="md-nav__link">
+    Vecteurs
   </a>
   
 </li>
@@ -626,47 +612,141 @@
               
                 
                 
-                <h1 id="magmatisme-et-geodynamique">Magmatisme et géodynamique</h1>
-<p>Le cycle de Wilson</p>
-<h2 id="les-rifts-continentaux">Les rifts continentaux</h2>
-<p>Rift passif: fossé qui s'étire, forme structural bordé par des failles normales. Le manteau va monté et va se mettre à fondre et à long terme formé du volcanisme. </p>
-<p>Rift actif : manteau chaud qui remonte et va pousser sur la croûte, on aura la formation d'un dôme. Le volcan sera formé plutôt et il y aura plusieurs types de volcanisme car présence de point chaud. </p>
-<p>Au fur et à mesure du rift, le manteau supérieur fond partiellement, les premiers éléments à partir sont les éléments incompatibles. Les premiers magmas sont très riches en alcalins. Les séries deviennent de plus en plus tholéitiques (présence de basalte riche en silice). Le rift deviendra alors un dorsale océanique avec une fabrication constante de la croûte océanique.</p>
-<h2 id="les-dorsales-oceaniques">Les dorsales océaniques</h2>
-<p>La surface de la croûte océanique est constitué de pillows lava, les basaltes en coussins. Les roches vont sortir en permanence et donc on aura une extension océanique. La croûte en vieillissant, va refroidir et va s'épaissir. Elle va devenir de plus en plus dense et va avoir tendance à plonger dans le manteau car elle sera plus dense que lui. La croûte la plus vieille à 180 millions d'années. </p>
-<p>Les dorsales ne vont pas toutes à la même vitesse donc on aura des segments qui sont plus ou moins reliées les uns aux autres. Ils vont tout de même dans le même sens, c'est une zone transformante. Ces segments sont recoupés par des failles transformantes. </p>
-<p>Dans ces basaltes, nous avons la présence de minéraux qui vont s'orienter en fonction du champ magnétique terrestre. Le champ magnétique s'inverse et nous pouvons l'observer dans ces roches. Nous pouvons donc retracer les champs magnétiques dans l'histoire. </p>
-<p>Le manteau va décompresser de façon adiabatique. Les plus forts taux de fusions partielles sont entre 20 et 30%. On va produire des basaltes de type MORB et de gabbros. </p>
-<p>Les vitesses d'expansion varient selon les dorsales. La dorsale océanique est entre 20 et 25mm par an. </p>
-<p>On distingue donc deux types de dorsales océanique : </p>
+                <h1 id="introduction-a-r">Introduction à R</h1>
+<p>Il existe 3 grands types de formations : </p>
 <ul>
-<li>dorsales rapides : dorsale Est - Pacifique </li>
-<li>Expansion de 7 à 17 cm/an</li>
-<li>vallée de rift marquée, voire absente </li>
-<li>
-<p>régime thermique élevé</p>
-</li>
-<li>
-<p>dorsales lente : dorsale océanique</p>
-</li>
-<li>expansion de 1,5 à 3,5 cm/an</li>
-<li>vallée du rift bien marquée</li>
-<li>régime thermique modéré</li>
+<li>booléens</li>
+<li>nombre </li>
+<li>chaîne de caractère</li>
 </ul>
-<p>La chambre magmatique est plus petite dans les dorsales lente donc le toit de la chambre magmatique a tendance à s'éffondrer.</p>
-<h2 id="les-ophiolites">Les ophiolites</h2>
-<p>On peut avoir un morceau de croûte océanique sur la croûte continentale.</p>
-<p>La chaîne d'obduction d'oman</p>
-<h2 id="magmatisme-de-subduction">Magmatisme de subduction</h2>
-<p>Subduction : zone de convergence entre  un plateau océanique et un plateau continentale. Ce sont des marges passive.</p>
-<p>Les marges passives sont des zones où il ne se passe rien entre la croûte continental et la croûte océanique car ils proviennent de la même plaque tectonique.</p>
-<p>Lors d'une subduction, on un la déshydratation des micas puis des amphiboles. On aura une fusion partielle du coin mantellique liée à la déshydratation du slab (croûte océanique et lithosphère océanique) qui subduit. </p>
-<p>On une contribution des sédiments marins du prisme d'accrétion à la chimie des magmas primaires. Les basaltes vont être très marquées et d'autres très peu.</p>
-<p>Le mode de fusion partielle est lié à l'hydratation.</p>
-<p>Lors d'une subduction on peut avoir un volcanisme de type strombolien à plinien ou péléen. La largeur de l'arc est fonction de l'inclinaison du panneau plongeant. </p>
-<h2 id="les-trapps-ou-lips">Les trapps ou LIPs.</h2>
-<p>Les trapps sont des gigantesques coulées basaltiques de lave très fluide de série  tholéitiques. La source mantellique est de faible profondeur qui est réchauffé par un courant ascendant profond et va stocker le basalte de longue période sous la croûte continentale. Cela va faire une couverture qui va bloquer la chambre magmatique jusqu'à saturation de basalte.</p>
-<p>On peut avoir des coulées basaltiques pendant des millions d'années. Elles font parties des plus grandes éruptions qu'on connaisse.</p>
+<h2 id="nombres">Nombres</h2>
+<pre><code>5
+5*3+1
+a &lt;- 5*3+1
+</code></pre>
+
+<h2 id="booleens">Booléens</h2>
+<pre><code>a &lt;- TRUE   
+a==2
+a&lt;2
+a&gt;=16
+</code></pre>
+
+<h2 id="chaine-de-caractere">Chaîne de caractère</h2>
+<pre><code>a &lt;- &quot;R&quot;
+</code></pre>
+
+<h2 id="vecteurs">Vecteurs</h2>
+<pre><code>a &lt;- c(3,5,3,6,8) 
+E &lt;- c(7,9,45,85,14,8:36,a,78)
+E[] #extraire les informations d'un vecteur
+E[1] #renvoie la première valeur
+length(E) #donne la longueur d'un vecteur
+ls() #liste les objets en mémoire
+rm(a) #supprimer l'objet a
+rm(list = ls()) #efface tous les objets en mémoire
+</code></pre>
+
+<p>Exercice : créer un objet x contenant successivement les valeurs
+de 1 à 10, puis les valeurs 3, 4 et 5</p>
+<pre><code>x &lt;- c(1:10,3,4,5)
+</code></pre>
+
+<p>Exercice: extraire de la 2ème à la 6ème valeur de x, puis les 9è,
+11è valeurs. Stocker le résultat dans un objet X. Extraire ensuite
+seulement la dernière valeur de x (juste en l'affichant, i.e. sans en
+faire un objet)</p>
+<pre><code>X &lt;- x[c(2:6,9,11)]
+x[13] ou x[length(x)]
+</code></pre>
+
+<h1 id="objets-sous-r">Objets sous R</h1>
+<h2 id="les-valeurs-arithmetiques">Les valeurs arithmétiques</h2>
+<pre><code>xlog &lt;- log(x)
+xlog10 &lt;- log(x,base=10)
+xlog==xlog10 #vérifier une condition d'égalité
+xlog &gt; xlog10
+xlog &lt;= xlog10
+</code></pre>
+
+<p>Exercice: faire la somme des valeurs n°4 à 8 de x et de l'avant dernière
+valeur de x</p>
+<pre><code>sum(x[4:8],x[length(x)-1])
+sum(x[c(4:8, length(x)-1)])
+</code></pre>
+
+<p>Exercice: multiplier la 2eme valeur de x par la 3eme valeur de y &lt;-
+1:4</p>
+<pre><code>y &lt;- 1:4
+x[2]*y[3]
+</code></pre>
+
+<p>Exercice: mettre à 0 à toutes les valeurs de x inférieures ou égales à
+5</p>
+<pre><code>toto &lt;- x[x&gt;=5] #on extrait les valeurs de x &gt;=5
+x[x&lt;=5] &lt;- 0
+</code></pre>
+
+<h2 id="la-fonction-which">La fonction which()</h2>
+<p>La fonction which() donne les indices (les positions dans l'objet) des
+valeurs vérifiant le critère qu'on spécifie dans la fonction</p>
+<pre><code>which(x!=0) #position des objets différents de 0
+</code></pre>
+
+<h2 id="la-fonction-seq">La fonction seq()</h2>
+<pre><code>seq(1,10,by=2)  
+seq(1,10,length.out = 5) # on veut 5 éléments entre le 5 et le 10
+diff(seq(1,10,length.out = 5))
+</code></pre>
+
+<p>Exercice: pour une valeur sur 5 de l'objet x, ajouter 0.5 et prendre le
+log10 de la valeur obtenue x+0.5 (les valeurs de x seront modifiées)</p>
+<pre><code>log10(x[seq(1,length(x),by=5)]+0.5)
+</code></pre>
+
+<p>Exercice: créer un objet X ne contenant qu'une valeur sur 2 de x</p>
+<pre><code>X &lt;- x[seq(1,length(x),by = 2)]
+</code></pre>
+
+<h2 id="generer-des-valeurs-aleatoires">Générer des valeurs aléatoires</h2>
+<pre><code>y &lt;- rnorm(10) # génère 10 valeur aléatoire dans un loi centré réduite tourne autour de 0
+mean(y)
+sd(y)
+</code></pre>
+
+<p>Exercice: où sont les valeurs négatives de y ?</p>
+<pre><code>which(y&lt;0)
+</code></pre>
+
+<h2 id="matrices">Matrices</h2>
+<pre><code>A0 &lt;- matrix(data = rnorm(25),nrow=5,ncol=5) # matrice de 5 lignes par 5 colonnes
+dim(A0)
+A0[1,1] # élément de la première ligne de la première colonne
+A &lt;- matrix(data = NA,nrow=4,ncol=4)
+</code></pre>
+
+<p>Exercice: dans la matrice A, extraire 1 valeur sur 2 de la colonne 3, la
+3eme valeur de la colonne 2, toute la colonne 1,les 1ere et 3e valeurs
+de la colonne 4.</p>
+<pre><code>A[1,] &lt;- 0
+A[2,] &lt;- rnorm(4)
+A[3,] &lt;- seq(4,56, length.out = 4)
+A[4,c(1,4)] &lt;- 0
+A[4,c(2,3)] &lt;- c(4,5)
+</code></pre>
+
+<p>Ranger toutes ces valeurs dans un objet a de type
+vecteur les unes à la suite des autres (dans l'ordre énoncé
+précédemment).</p>
+<pre><code>a &lt;- c(A[seq(from=1, to =4, by =2),3], #extraire 1 valeur sur 2 de la colonne 3,
+A[3,2], #la 3eme valeur de la colonne 2, 
+A[,1], #toute la colonne 1,
+A[c(1,3),4]) #les 1ere et 3e valeurs de la colonne 4.
+</code></pre>
+
+<p>Modifier  la matrice  A  en  triant  dans  l'ordre  décroissant  les  valeurs  de  la  3e colonne de A </p>
+<pre><code>A[,3] &lt;- sort(A[,3], decreasing = TRUE)
+</code></pre>
                 
                   
                 
@@ -687,7 +767,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../Les volcans/" title="Mise en place des roches magmatiques" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../../Géochimie/Qualité des eaux/" title="Introduction" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -696,19 +776,19 @@
                 <span class="md-footer-nav__direction">
                   Précédent
                 </span>
-                Mise en place des roches magmatiques
+                Introduction
               </span>
             </div>
           </a>
         
         
-          <a href="../Magmatisme/" title="Les roches magmatiques" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../../Hydrodynamique cotière/Processus physiques pour l'hydrodynamique cotière/" title="Introduction à la dynamique côtière" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Suivant
                 </span>
-                Les roches magmatiques
+                Introduction à la dynamique côtière
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
