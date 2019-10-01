@@ -52,6 +52,13 @@ Lors d'une subduction, on un la déshydratation des micas puis des amphiboles. O
 
 On une contribution des sédiments marins du prisme d'accrétion à la chimie des magmas primaires. Les basaltes vont être très marquées et d'autres très peu.
 
-Le mode de fusion partielle et les à l'hydratation.
+Le mode de fusion partielle est lié à l'hydratation.
 
-Lors d'une subduction on peut avoir un volcanisme de type strombolien à plinien ou péléen. 
+Lors d'une subduction on peut avoir un volcanisme de type strombolien à plinien ou péléen. La largeur de l'arc est fonction de l'inclinaison du panneau plongeant. 
+
+## Les trapps ou LIPs.
+
+Les trapps sont des gigantesques coulées basaltiques de lave très fluide de série  tholéitiques. La source mantellique est de faible profondeur qui est réchauffé par un courant ascendant profond et va stocker le basalte de longue période sous la croûte continentale. Cela va faire une couverture qui va bloquer la chambre magmatique jusqu'à saturation de basalte.
+
+
+On peut avoir des coulées basaltiques pendant des millions d'années. Elles font parties des plus grandes éruptions qu'on connaisse.
