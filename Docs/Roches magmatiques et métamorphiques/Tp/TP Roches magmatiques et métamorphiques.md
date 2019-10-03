@@ -10,7 +10,7 @@ Afin de déterminer les différents minéraux, on utilise des lames où des frag
 
 Pour la première séance nous allons observer les minéraux qu'on retrouve dans le granite, une roche plutonique magmatique à texture grenue. 
 
-![Granite](Images/granite.PNG)
+![Granite](Images/granite.jpg)
 
 ## Loi de Fresnel 
 
