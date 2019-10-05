@@ -783,6 +783,188 @@ A[c(1,3),4]) #les 1ere et 3e valeurs de la colonne 4.
 <p>Modifier  la matrice  A  en  triant  dans  l'ordre  décroissant  les  valeurs  de  la  3e colonne de A </p>
 <pre><code>A[,3] &lt;- sort(A[,3], decreasing = TRUE)
 </code></pre>
+
+<p>Les fonctions rbind() et cbind() permettent  de  créer  des  matrices. Créer  une  matrice  B  de  valeurs aléatoires  à  l'aide  de  la  fonction  cbind(),  puis  une  matrice  C  de valeurs aléatoires avec rbind(). </p>
+<pre><code>B &lt;- cbind(rnorm(4),rnorm(4), rnorm(4),rnorm(4)) # 4 colonnes et 4 lignes
+C &lt;- rbind(rnorm(5),rnorm(5),rnorm(5)) # 3 colonnes et 5 lignes
+</code></pre>
+
+<p>is.matrix afin de savoir si l'objet et une matrice</p>
+<h2 id="data-frames">Data frames</h2>
+<p>Les data frames sont des matrices où ont peut stocker plusieurs types d'arguments.</p>
+<pre><code>A &lt;- c(21,20,23,19,21,26) 
+B &lt;- c(&quot;h&quot;,&quot;f&quot;,&quot;f&quot;,&quot;f&quot;,&quot;h&quot;,&quot;h&quot;) 
+Dn &lt;- data.frame(Age=A,Genre=B) 
+</code></pre>
+
+<p>class() va permettre de donner le type de structure</p>
+<pre><code>row.names(Dn) &lt;- c(&quot;Jean&quot;,&quot;Marie&quot;,&quot;Valérie&quot;,&quot;Chloé&quot;,&quot;Paul&quot;,&quot;Pierre&quot;)
+</code></pre>
+
+<p>Exercice : Afficher l'âge de Chloé</p>
+<pre><code>Dn[&quot;Chloé&quot;,&quot;Age&quot;]
+</code></pre>
+
+<p>Exercice:  afficher dans  Dn,  les  valeurs  de  la  colonne  1  pour lesquelles la colonne nommée "Sexe" correspond à "h</p>
+<pre><code>Dn[Dn$Genre == &quot;h&quot;, &quot;Age&quot;]
+</code></pre>
+
+<p>Exercice: Afficher le sexe des  personnes dont  l'âge est strictement inférieur à 23 ans</p>
+<pre><code>Dn$Genre[Dn$Age &lt;23] 
+</code></pre>
+
+<h3 id="statistiques-elementaires-sur-une-data-frame">Statistiques élémentaires sur une data frame</h3>
+<p>mean(Dn<span><span class="MathJax_Preview">Age) 
+min(Dn</span><script type="math/tex">Age) 
+min(Dn</script></span>Age) 
+max(Dn<span><span class="MathJax_Preview">Age) 
+median(Dn</span><script type="math/tex">Age) 
+median(Dn</script></span>Age) 
+sd(Dn$Age)</p>
+<h1 id="representations-graphiques-simples">Représentations graphiques simples</h1>
+<pre><code>x &lt;-rnorm(100)
+x2 &lt;-rnorm(100)
+plot(rnorm(100))
+
+plot(x,type=&quot;l&quot;,xlab=&quot;Abscisses&quot;,ylab=&quot;Ordonnées&quot;, main=&quot;Mon premier graphe&quot;, lwd=2, lty=2, col=&quot;skyblue&quot;)  
+abline(h=median(x),lty=2,col=&quot;black&quot;)
+abline(h=mean(x),lty=2,col=rainbow(10)[2])
+abline(h=c(-sd(x),sd(x)), lty =2, col=&quot;purple&quot;)
+legend(&quot;topleft&quot;,c(&quot;Mean&quot;,&quot;Median&quot;,&quot;Ecart-type&quot;),col=c(rainbow(10)[2],&quot;black&quot;,&quot;purple&quot;), lty=2, bg=&quot;grey&quot;)
+lines(x2, col=&quot;red&quot;)
+legend(&quot;bottomright&quot;, c(&quot;x&quot;,&quot;x2&quot;), col=c(&quot;skyblue&quot;, &quot;red&quot;), lwd = c(2,1), lty=c(2,1), bg=&quot;grey&quot;)
+
+lwd= #épaisseur du trait
+lty= #continuité de la courbe
+grid()# ajouter une grille sur le graphique  
+</code></pre>
+
+<p><img alt="Mon premier graphique" src="../Images/monpremiergraph.png" /></p>
+<p>La figure s'enregistre dans le répertoire de travail courant. Pour le  connaître, on utilise la commande getwd() et pour changer de répertoire de travail: setwd()</p>
+<h1 id="fonctions-et-structures-de-controle-dans-r">Fonctions et structures de contrôle dans R</h1>
+<h2 id="fonctions">Fonctions</h2>
+<pre><code>aire &lt;- function(longueur,largeur) {
+  result &lt;- longueur * largeur
+  return(result)
+}
+A &lt;- aire(3,2)
+
+vol &lt;- function(hauteur, longueur, largeur) {
+  result &lt;- hauteur*aire(longueur, largeur)
+  return(result)
+}
+V &lt;- vol(6,3,2)
+</code></pre>
+
+<p>Exercice: créer une fonction surfcy qui calcule la surface et le volume d'un cylindre pour des dimensions données du cylindre</p>
+<pre><code>surfcy &lt;- function(hauteur, rayon) {
+  result &lt;- (2*pi*rayon)*(rayon+hauteur)
+  return(result)
+}
+</code></pre>
+
+<p>Exercice: créer une fonction surfcy qui calcule la surface et le  volume d'un cylindre pour des dimensions données du cylindre</p>
+<pre><code>surfcyvolume &lt;- function(rayon,hauteur) { 
+  S &lt;- 2*pi*rayon*(rayon+hauteur) #calcul de la surface
+  V &lt;- pi*rayon^2*hauteur #calcul du volume 
+  return(c(S,V)) 
+} 
+</code></pre>
+
+<p>Exercice : générer  une  série  de  100  valeurs  aléatoires  de moyenne 23 et d'écart-type 50, puis créer une fonction centred() pour standardiser la série (i.e. pour ramener la moyenne à 0 et l'écart-type à 
+1)</p>
+<pre><code>y &lt;- rnorm(100, mean=23,sd=50)
+plot(y,type=&quot;l&quot;)
+abline(h=23,col=&quot;red&quot;)
+abline(h=c(-50+23,50+23),col=&quot;green&quot;)
+
+abline(h=0,col=&quot;purple&quot;,lty=2)
+abline(h=c(-1,1),col=&quot;orange&quot;)
+</code></pre>
+
+<p><img alt="Rplot" src="../Images/Rplot.png" /></p>
+<p>Centrer et réduire</p>
+<pre><code>centragereduction &lt;-function(y) {
+  toto &lt;- (y-mean(y))/sd(y)
+  par(mfrow=c(1,2))
+  hist(y, freq = FALSE)
+  lines(density(y), type=&quot;l&quot;,col=&quot;red&quot;)
+  hist(toto, freq=FALSE)
+  lines(density(toto),type=&quot;l&quot;, col=&quot;green&quot;)
+  return(toto)
+}
+
+cr &lt;- centragereduction(y)
+lines(cr,col=&quot;blue&quot;)
+
+par(mar)# choisir les marges pour l'affiche des graphiques
+</code></pre>
+
+<p><img alt="Rplot" src="../Images/Rplot01.png" /></p>
+<p>Completer la fonction de manière à ouvrir une fenêtre graphique contenant l'histogramme et la densité de probabilité de y</p>
+<pre><code>hist(y, freq=FALSE) # Fréquence devient densité de probabilité
+lines(density(y),type=&quot;l&quot;, col=&quot;red&quot;)
+
+plot(density(y),type=&quot;l&quot;,col=&quot;red&quot;)
+abline(v=mean(y),col=&quot;skyblue&quot;)
+</code></pre>
+
+<p><img alt="Rplot" src="../Images/Rplot02.png" /></p>
+<h3 id="boucles-avec-if">Boucles avec if</h3>
+<p>Afficher à l'aide de if/else, soit
+- print ("Le nombre est positif") si le nombre est positif
+- print ("Le nombre est négatif") si le nombre est négatif  </p>
+<pre><code>x &lt;- 0
+
+if (x&gt;0) 
+{
+  print(&quot;Le nombre est positif&quot;)
+} else {
+  if (x&lt;0) 
+  {
+    print(&quot;Le nombre est négatif&quot;)  
+  } else 
+  {
+    print(&quot;Le nombre est égal à 0&quot;)
+  }
+}
+</code></pre>
+
+<h3 id="calcul-des-aires-et-volumes">Calcul des aires et volumes</h3>
+<p>Aire d'un rectangle avec test sur la valeur des arguments :afficher un message d'erreur avec print ("Entrer une dimension négative n'a aucun sens, recommencez!")</p>
+<pre><code>aire &lt;- function(longueur,largeur) {
+  if(longueur&lt;=0 | largeur &lt;=0){
+    stop(&quot;Entrer une dimension négative n'a aucun sens, recommencez!&quot;)  
+  } else {
+  result &lt;- longueur * largeur
+  print(paste(&quot;Surface =&quot;,result,&quot;m2&quot;,sep=&quot; &quot;))
+  return(result)
+  }
+}
+</code></pre>
+
+<p>Choix du calcul de la surface ou du volume d'un cylindre</p>
+<pre><code>surfcyvolume &lt;- function(rayon,hauteur, choix) { 
+  if(choix ==&quot;S&quot;){
+  S &lt;- 2*pi*rayon*(rayon+hauteur) #calcul de la surface
+  return(S)
+  } 
+  if(choix==&quot;V&quot;) 
+  {
+  V &lt;- pi*rayon^2*hauteur #calcul du volume 
+  }
+    return(V) 
+
+  if(choix != &quot;S&quot;&amp; choix != &quot;V&quot;) 
+  {
+    stop(&quot;Vous devez entrer S ou V !&quot;)
+  }
+} 
+
+surfcyvolume(3,8,choix = &quot;V&quot;)
+surfcyvolume(3,8,choix = &quot;S&quot;)
+surfcyvolume(3,8,choix = &quot;A&quot;)
+</code></pre>
                 
                   
                 
