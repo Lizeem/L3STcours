@@ -96,3 +96,7 @@ Les points chauds océanique sont des alcalins et sont possiblement tholéïthiq
 
 Les points chauds continentaux ont le même fonctionnement que les points chauds océanique. Cependant, ces points chauds sont plus facilement bloqués par la croûte terrestre. On peut les confondre avec des rifts continentaux.
 
+On peut observer deux formes de roches mise en place :
+
+- sill : cristallisation du sill se fait perpendiculairement au sol.
+- coulée : formation en prisme qui ne sont pas très bien marqué ou droit, figure dissymétrique. 
