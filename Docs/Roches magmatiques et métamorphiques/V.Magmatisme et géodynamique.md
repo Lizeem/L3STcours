@@ -71,3 +71,28 @@ Lors d'une subduction on peut avoir un volcanisme de type strombolien à plinien
 Les trapps sont des gigantesques coulées basaltiques de lave très fluide de série  tholéitiques. La source mantellique est de faible profondeur qui est réchauffé par un courant ascendant profond et va stocker le basalte de longue période sous la croûte continentale. Cela va faire une couverture qui va bloquer la chambre magmatique jusqu'à saturation de basalte.
 
 On peut avoir des coulées basaltiques pendant des millions d'années. Elles font parties des plus grandes éruptions qu'on connaisse.
+
+## La tomographie sismique
+
+Méthode pour faire des cartographies en 3D à l'aide des ondes sismiques. On a`trois types d'ondes :
+
+- ondes P : compression et dilatation. Ce sont les premières à arriver.
+- ondes S : ressemble aux vagues, ce sont les deuxième à arriver.
+- ondes de surface : se propage à la surface en torsion, ces ondes sont les plus lentes.
+
+On a une variation de la vitesse de propagation en fonction de 
+
+- la pression
+- la température
+- la densité
+
+(voir ondes)
+
+## Les points chauds océanique
+
+Les points chauds océanique sont des alcalins et sont possiblement tholéïthiques. Généralement, le taux de fusion partielle est assez faible (5%).
+
+## Les points chauds continentaux
+
+Les points chauds continentaux ont le même fonctionnement que les points chauds océanique. Cependant, ces points chauds sont plus facilement bloqués par la croûte terrestre. On peut les confondre avec des rifts continentaux.
+
