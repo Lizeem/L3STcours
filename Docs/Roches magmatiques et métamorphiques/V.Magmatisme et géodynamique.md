@@ -86,8 +86,6 @@ On a une variation de la vitesse de propagation en fonction de
 - la température
 - la densité
 
-(voir ondes)
-
 ## Les points chauds océanique
 
 Les points chauds océanique sont des alcalins et sont possiblement tholéïthiques. Généralement, le taux de fusion partielle est assez faible (5%).
@@ -100,3 +98,7 @@ On peut observer deux formes de roches mise en place :
 
 - sill : cristallisation du sill se fait perpendiculairement au sol.
 - coulée : formation en prisme qui ne sont pas très bien marqué ou droit, figure dissymétrique. 
+  
+## Magmatisme et chaînes de production
+
+Le taux partiel peut être très variable. Ce volcanisme est généralement peut étudier car on a peu d'exemples.
