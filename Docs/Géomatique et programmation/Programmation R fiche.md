@@ -372,3 +372,101 @@ surfcyvolume(3,8,choix = "V")
 surfcyvolume(3,8,choix = "S")
 surfcyvolume(3,8,choix = "A")
 ```
+Même chose en utilisant else if()
+
+```
+cyl <- function(r,h,choix)
+{
+  if(choix =="S")
+  {
+    s<- 2*pi*r*(r+h)
+    return(s)
+  } else if (choix == "V") {
+    v<- pi*r^2*h
+    return(v)
+  } else {
+    stop("vous devez entrer S ou V")
+  }
+}
+```
+
+Choix du calcul de la surface ou du volume d'un cylindre sans l'utilisation de l'argument choix
+
+On va utiliser la fonction readline()
+
+Exemple
+
+```
+fun <- function() {
+  ANSWER <- readline("Are you a satisfied R user? ") #lecture d'une chaîne de caractère écrite dans le terminal
+  if (substr(ANSWER, 1, 1) == "n") #elle extrait la première lettre de l'objet ANSWER
+    cat("This is impossible.  YOU LIED!\n") #si la première lettre est n
+  else
+    cat("I knew it.\n") #si la première est différent de n
+}
+```
+
+Avec l'objet cyl :
+
+```
+cyl <- function(r,h) {
+  choix <- readline("Voulez vous calculer la surface (s) ou le volume (v)?")
+    if(substr(choix,1,1)=="s")
+  {
+    s<- 2*pi*r*(r+h)
+    return(s)
+  }
+  if (substr(choix,1,1)== "v")
+  {
+    v<- pi*r^2*h
+    return(v)
+  } else {
+    stop("Vous devez entrer s ou v !!!")
+  }
+}
+cyl(3,8)
+```  
+
+Modifier la fonction cyl de manière à ce qu'elle relance automatiquement si une autre valeur que "s" ou "v" est entrée
+
+```
+cyl <- function(r,h) {
+  choix <- readline("Voulez vous calculer la surface (s) ou le volume (v)?")
+  while(choix !="s"& choix !="v") choix <- readline("Voulez vous calculer la surface (s) ou le volume (v)?")
+  
+  if(substr(choix,1,1)=="s")
+  {
+    s<- 2*pi*r*(r+h)
+    return(s)
+  }
+  if (substr(choix,1,1)== "v")
+  {
+    v<- pi*r^2*h
+    return(v)
+  } else {
+    stop("Vous devez entrer s ou v !!!")
+  }
+}
+cyl(3,8)
+```
+
+Exercice : créer une fonction pour générer et tracer une somme cumulative d'une série de valeurs
+
+```
+data <- rnorm(100)
+plot(cumsum(data),type="l",col="skyblue",lwd=2)
+
+fonctioncumsum <- function(donnees)
+{
+  donneescomsum <- c() #création du vecteur
+  donneescomsum[1] <- donnees[1] #initialisation du vecteur
+  
+  for(i in 1:length(donnees))
+  {
+   donneescumsum[i] <- donneescomsum[i]+x[i+1] 
+  }
+  return(donnéescumsum)
+}
+
+fonctioncumsum(x)
+```
