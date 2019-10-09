@@ -989,6 +989,93 @@ surfcyvolume(3,8,choix = &quot;V&quot;)
 surfcyvolume(3,8,choix = &quot;S&quot;)
 surfcyvolume(3,8,choix = &quot;A&quot;)
 </code></pre>
+
+<p>Même chose en utilisant else if()</p>
+<pre><code>cyl &lt;- function(r,h,choix)
+{
+  if(choix ==&quot;S&quot;)
+  {
+    s&lt;- 2*pi*r*(r+h)
+    return(s)
+  } else if (choix == &quot;V&quot;) {
+    v&lt;- pi*r^2*h
+    return(v)
+  } else {
+    stop(&quot;vous devez entrer S ou V&quot;)
+  }
+}
+</code></pre>
+
+<p>Choix du calcul de la surface ou du volume d'un cylindre sans l'utilisation de l'argument choix</p>
+<p>On va utiliser la fonction readline()</p>
+<p>Exemple</p>
+<pre><code>fun &lt;- function() {
+  ANSWER &lt;- readline(&quot;Are you a satisfied R user? &quot;) #lecture d'une chaîne de caractère écrite dans le terminal
+  if (substr(ANSWER, 1, 1) == &quot;n&quot;) #elle extrait la première lettre de l'objet ANSWER
+    cat(&quot;This is impossible.  YOU LIED!\n&quot;) #si la première lettre est n
+  else
+    cat(&quot;I knew it.\n&quot;) #si la première est différent de n
+}
+</code></pre>
+
+<p>Avec l'objet cyl :</p>
+<pre><code>cyl &lt;- function(r,h) {
+  choix &lt;- readline(&quot;Voulez vous calculer la surface (s) ou le volume (v)?&quot;)
+    if(substr(choix,1,1)==&quot;s&quot;)
+  {
+    s&lt;- 2*pi*r*(r+h)
+    return(s)
+  }
+  if (substr(choix,1,1)== &quot;v&quot;)
+  {
+    v&lt;- pi*r^2*h
+    return(v)
+  } else {
+    stop(&quot;Vous devez entrer s ou v !!!&quot;)
+  }
+}
+cyl(3,8)
+</code></pre>
+
+<p>Modifier la fonction cyl de manière à ce qu'elle relance automatiquement si une autre valeur que "s" ou "v" est entrée</p>
+<pre><code>cyl &lt;- function(r,h) {
+  choix &lt;- readline(&quot;Voulez vous calculer la surface (s) ou le volume (v)?&quot;)
+  while(choix !=&quot;s&quot;&amp; choix !=&quot;v&quot;) choix &lt;- readline(&quot;Voulez vous calculer la surface (s) ou le volume (v)?&quot;)
+
+  if(substr(choix,1,1)==&quot;s&quot;)
+  {
+    s&lt;- 2*pi*r*(r+h)
+    return(s)
+  }
+  if (substr(choix,1,1)== &quot;v&quot;)
+  {
+    v&lt;- pi*r^2*h
+    return(v)
+  } else {
+    stop(&quot;Vous devez entrer s ou v !!!&quot;)
+  }
+}
+cyl(3,8)
+</code></pre>
+
+<p>Exercice : créer une fonction pour générer et tracer une somme cumulative d'une série de valeurs</p>
+<pre><code>data &lt;- rnorm(100)
+plot(cumsum(data),type=&quot;l&quot;,col=&quot;skyblue&quot;,lwd=2)
+
+fonctioncumsum &lt;- function(donnees)
+{
+  donneescomsum &lt;- c() #création du vecteur
+  donneescomsum[1] &lt;- donnees[1] #initialisation du vecteur
+
+  for(i in 1:length(donnees))
+  {
+   donneescumsum[i] &lt;- donneescomsum[i]+x[i+1] 
+  }
+  return(donnéescumsum)
+}
+
+fonctioncumsum(x)
+</code></pre>
                 
                   
                 
