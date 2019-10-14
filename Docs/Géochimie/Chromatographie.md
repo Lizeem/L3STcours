@@ -263,3 +263,38 @@ L'absorbance est le logarithme du rapport des intensités des rayons lumineux in
 
 ![Formule de l'absorbance](Images/262.jpg)
 ![Choix de la longueur d'onde](Images/271.jpg)
+
+# Chromatographie ionique
+
+Molécule polarisable : molécule ayant une charge -> anions ou cations.
+
+La chromatographie est un compromis entre la vitesse et la résolution et la sensibilité. On va utiliser un détecteur et un suppresseur. Pour la chromatographie ionique on va utiliser le PEEK comme polymère. Il faut une inertie chimique par rapport aux phases mobiles.
+
+## La séparation
+
+Les paramètres de la séparation : 
+
+* capacité :liée à la rétention
+* efficacité : Nth
+* sélectivité :alpha
+* résolution : retour de base entre les deux pics
+  
+Voyage au centre des colonnes
+
+* substrat : mélange de deux polymères
+* sites d'échange
+
+## L'efficacité
+
+Mesure de dispersion à travers le système chromatographique. Elle dépend de la qualité de fabrication de la colonne et dépend de la taille des particules de la phase stationnaire. Plus l'efficacité sera grande, plus les pics seront fins.
+
+## La sélectivité
+
+Elle est fonction de la thermodynamique de l'échange est définie comme le rapport des temps de rétention stricts de deux composés et est égale au rapport des constantes d'équilibre. Elle dépend des phases mobiles(nature des particules et nature du groupement fonctionnel) et phases stationnaires(augmentation du pH et type d'ion éluant), de la température et de l'état du composé à éluer.
+
+## Substrats et sites échangeurs
+
+On va travailler avec des mobiles avec une stabilité chimique entre pH 0 ou et 14. On va donc utiliser un mélange de deux polymères pour remplacer la silice. Le polymère devra être poreux et on va pouvoir faire varier la porosité afin des phases stationnaires différentes et donc modifier la sélectivité. Le polymère va devoir résister à la pression, il sera donc réticulé.
+
+
+
