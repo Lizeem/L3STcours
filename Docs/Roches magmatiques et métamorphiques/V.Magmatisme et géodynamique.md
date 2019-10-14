@@ -92,7 +92,9 @@ Les points chauds océanique sont des alcalins et sont possiblement tholéïthiq
 
 ## Les points chauds continentaux
 
-Les points chauds continentaux ont le même fonctionnement que les points chauds océanique. Cependant, ces points chauds sont plus facilement bloqués par la croûte terrestre. On peut les confondre avec des rifts continentaux.
+Les points chauds continentaux ont le même fonctionnement que les points chauds océanique. On a une contamination par l'épaisse croûte continentale traversée. Cependant, ces points chauds sont plus facilement bloqués par la croûte terrestre. On peut les confondre avec des rifts continentaux.
+
+![Point chaud continental](Images/pointchaudcontinental.PNG)
 
 On peut observer deux formes de roches mise en place :
 
@@ -102,3 +104,5 @@ On peut observer deux formes de roches mise en place :
 ## Magmatisme et chaînes de production
 
 Le taux partiel peut être très variable. Ce volcanisme est généralement peut étudier car on a peu d'exemples.
+
+![Magmatisme des chaînes de collision](Images/volcanismepeuetudier.PNG)
