@@ -30,5 +30,10 @@ Le terme **isograde** défini les lignes d'égale intensité du métamorphisme m
 
 Le métamorphisme est isochimique en première approximation. Il est cependant accompagné d'un déshydratation des roches. Les fluides peuvent jouer un grand rôle : extraction, transport et/ou éléments. La solubilité des éléments varie avec la température et la pression.
 
+# Les réactions du métamorphisme
 
+Les cortèges minéraux résultent :
 
+* de la composition chimique de a roche initiale
+* de l'état de cristallisation de cette roche initiale 
+* des conditions pression - température et ede teneur en ea
