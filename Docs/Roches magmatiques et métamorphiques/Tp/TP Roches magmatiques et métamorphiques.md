@@ -70,3 +70,68 @@ La biotite possède 4 moments d'extinctions tous les 90°. L'horblende a une ext
 ![plagioclase](Images/plagioclase.jpg)
 ![micas blanc](Images/micablanc.jpg)
 ![biotite](Images/biotite.jpg)
+
+# Séance n°2 : Origine des magmas et variété des roches magmatiques
+
+Les lieux et les modalités de formation des magmas sont variés
+
+![Les lieux de formation](Images/formations.PNG)
+
+magma : solide + liquide > 600°C, si il se refroidit, on a soit des roches plutoniques soit des roches magmatiques
+
+Processus magmatique : 
+
+1. Fusion partielle
+   - 20% -> magnésium, nickel
+   - 5% -> silice, sodium, potassium
+
+2. Magma
+3. Refroidissement -> cristallisation 
+   - nucléation 
+   - croissance du minéral
+
+Islande : magmatisme dorsale + point chaud
+
+mode : composition minéralogique  d'une roche
+
+zone de subduction : apport d'eau déplace le solidus, l'hydratation permet la fusion
+
+magmatisme alcalin : volcans d'Auvergne avec roches très variés lié à une différenciation 
+
+La teneur en SiO<sub>2</sub> = degré de saturation (la présence de quartz ou bien de feldspathoïdes)
+
+La quantité de Na<sup>+</sup> et de K<sup>+</sup> = alcalinité d’une roche (les feldspaths potassiques et sodiques jusqu’aux
+plagioclases calcosodiques)
+
+La proportion de ferromagnésiens qui définira la teinte plus ou moins sombre de la roche
+(biotite, hornblende, péridots etc. ; les minéraux sombres.
+
+- obsidienne : texture vitreuse
+
+- micro granite : texture micro granitique
+
+- biotite chloritisée :
+  - lpna : incolore à verdâtre 
+  - lpa : gris bleu acier
+
+- péridotite 
+  - olivine 
+    - incolore craquelée lpna
+    - teintes vives en lpa
+
+  - pyroxène 
+    - gris vert en lpna
+    - teintes maximale vives en lpa
+    - double clivage 90°
+
+- gabbro 
+  - pyroxène + plagioclase
+  - parfois olivine / hornblende / biotite
+
+- diorite et diorite quartzique 
+  - horblende
+  - plagioclase
+  - quartz
+  - biotite
+
+- syénite
