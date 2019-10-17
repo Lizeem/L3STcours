@@ -70,7 +70,7 @@ Sill : strates horizontales
 
 Les roches des "cones sheets" sont dites filoniennes, et les roches du "ring dike" sont plutoniques.
 
-![Cones sheets et ring dykes](Images/stilletdyke.PNG)
+![Cones sheets et ring dykes](Images/conesetring.PNG)
 
 ## Les volcans
 
