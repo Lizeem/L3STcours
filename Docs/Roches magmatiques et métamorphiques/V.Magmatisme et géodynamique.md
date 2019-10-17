@@ -1,4 +1,4 @@
-# Magmatisme et géodynamique
+# 5. Magmatisme et géodynamique
 
 ![Le cycle de Wilson](Images/wilson.PNG)
 

@@ -1,4 +1,4 @@
-# Métamorphisme
+# 6. Métamorphisme
 
 ## Qu'est ce que le métamorphisme ?
 

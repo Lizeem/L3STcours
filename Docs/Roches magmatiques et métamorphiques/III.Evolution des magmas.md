@@ -1,4 +1,4 @@
-# Les roches magmatiques
+# 3. Les roches magmatiques
 
 Les roches magmatiques sont des roches issues de la cristallisation d'un magma. Il en existe deux types :
 

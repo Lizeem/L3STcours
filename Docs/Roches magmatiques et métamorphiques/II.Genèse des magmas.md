@@ -1,4 +1,4 @@
-# Genèses des magmas
+# 2. Genèses des magmas
 
 Anatexie : fusion des roches préexistante locale ou généralisée
 

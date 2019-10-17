@@ -1,4 +1,4 @@
-# Mise en place des roches magmatiques
+# 4. Mise en place des roches magmatiques
 
 ## Caractéristiques physiques des magmas
 
