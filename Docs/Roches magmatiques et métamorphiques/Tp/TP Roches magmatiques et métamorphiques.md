@@ -10,8 +10,6 @@ Afin de déterminer les différents minéraux, on utilise des lames où des frag
 
 Pour la première séance nous allons observer les minéraux qu'on retrouve dans le granite, une roche plutonique magmatique à texture grenue. 
 
-![Granite](Images/granite.jpg)
-
 ## Loi de Fresnel 
 
 δ = V.T d'où V = C/n
@@ -63,13 +61,15 @@ La biotite possède 4 moments d'extinctions tous les 90°. L'horblende a une ext
 
 ## Les minéraux du granite 
 
-![Amphibole](Images/amphibole.jpg)
-![orthose](Images/orthose.jpg)
-![apatite](Images/apatite.jpg)
-![sphene](Images/sphene.jpg)
-![plagioclase](Images/plagioclase.jpg)
-![micas blanc](Images/micablanc.jpg)
-![biotite](Images/biotite.jpg)
+Les minéraux du granite sont :
+
+- amphibole
+- orthose
+- apatite
+- sphene
+- plagioclase
+- micas blanc
+- biotite
 
 # Séance n°2 : Origine des magmas et variété des roches magmatiques
 
@@ -135,3 +135,49 @@ La proportion de ferromagnésiens qui définira la teinte plus ou moins sombre d
   - biotite
 
 - syénite
+
+# Séance 3 : Du Massif Central aux volcans d'Auvergne
+
+Dernière activité volcanique : 600 000 ans 
+
+Chaîne du Puy : 100 000 ans
+
+Massif granitique : magmatisme d'Anatexie
+
+- marganide
+- puy en velay
+  
+Roches métamorphiques : miclastique, gneiss
+
+Zone de basalte -> zone de dépression où il y a eu effondrement (3 000 m)
+
+Milieu : failles normales -> dynamique de divergence (effondrement) -> activité volcanique s'est faite dans ces zones
+
+Effondrement gravitationnelle -> expansion puis remontée du manteau
+
+40 000 an -> mise en place des Alpes -> amplification de l'extension
+
+Les volcans sont aligné sur les lignes de failles. Les cônes sont bien marqués = STROMBOLIEN. Les cratères vont jusqu'à 5 Km de diamètre.
+
+Maars : cratère d'explosion avec de l'eau 
+
+Projection : 
+
+- T < 1/16 mm : cendres fines
+- 1/16 mm < T < 2 mm : cendres grossières
+- 2 mm < T < 6,4 mm : lapili
+- T > 6,4 mm : blocs
+
+Scorries : projection avec beaucoup de bulles de gaz
+
+Ponces : lave vitrifiée
+
+Laves : 
+
+- trachyte 
+- basalte
+- andésite
+- trachy - andésite
+
+Même lieu au même moment (90 000 ans) mais les roches sont différentes parce qu'on a une petite surface géographique sur un laps de temps court. Le traceur géochimique nous permet de  savoir que c'est le même magma. Les premiers minéraux formés vont devenir les plus lourds et ne sont pas alcalins donc on a de plus en plus d'alcalins et donc le magma deviendra de plus en plus acide.
+
