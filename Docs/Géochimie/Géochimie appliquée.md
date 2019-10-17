@@ -147,9 +147,6 @@ pH > 7,45 couple < Fe (OH)<sub>2</sub> > / < Fe >
 
 E<sub>6</sub> = E<sub>6</sub>° + 0,03 log 1/ [ OH<sup>-</sup> ]<sup>2</sup> = -0,05 - 0,06 pH
 
-
-![Démonstration](Images/démonstration.jpg)
-
 Résultats des applications 
 
 ![Diagramme du Fer](Images/diagrammedufer.jpg)
