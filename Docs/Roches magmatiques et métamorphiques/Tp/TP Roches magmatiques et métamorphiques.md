@@ -153,9 +153,15 @@ Zone de basalte -> zone de dépression où il y a eu effondrement (3 000 m)
 
 Milieu : failles normales -> dynamique de divergence (effondrement) -> activité volcanique s'est faite dans ces zones
 
+![Disparition des reliefs](Images/disparitiondesreliefs.PNG)
+
 Effondrement gravitationnelle -> expansion puis remontée du manteau
 
 40 000 an -> mise en place des Alpes -> amplification de l'extension
+
+![Effondrement des reliefs](Images/effondrementdesreliefs.PNG)
+
+![Convergence et divergence](Images/convergenceetdivergence.PNG)
 
 Les volcans sont aligné sur les lignes de failles. Les cônes sont bien marqués = STROMBOLIEN. Les cratères vont jusqu'à 5 Km de diamètre.
 
@@ -175,9 +181,31 @@ Ponces : lave vitrifiée
 Laves : 
 
 - trachyte 
-- basalte
-- andésite
-- trachy - andésite
+- basalte : alcalin, coulée de basalte d’Argnat, basalte demi-deuil, basalte à olivine.
+- andésite : Volvic
+- trachy - andésite : Sancyite; Dômite à biotite ou bien à amphibole, Doréite: Ce sont les laves des volcans Puy de Sancy, Puy de Dôme, Mont Dore.
 
 Même lieu au même moment (90 000 ans) mais les roches sont différentes parce qu'on a une petite surface géographique sur un laps de temps court. Le traceur géochimique nous permet de  savoir que c'est le même magma. Les premiers minéraux formés vont devenir les plus lourds et ne sont pas alcalins donc on a de plus en plus d'alcalins et donc le magma deviendra de plus en plus acide.
 
+Les minéraux : 
+
+- Pyroxène augite avec de belles mâcles, elle est aussi parfois titanifère. Sinon gris vert pâle en LPNA, pas de pléochroïsme, double clivage à 90°, teintes vives en LPA, macle en sablier.
+
+- Si auréole brun rouille autour des pyroxènes, c’est du pyroxène de recristallisation type pigeonite.
+
+- Olivine dans certaines lames parfois altérée :
+  - ferrugineuse => Iddingsite
+  - serpentineuse=> serpentine
+
+- Magnétite (oxydes de fer avec parfois un peu de titane)
+
+- Parfois du Rutile(TiO2 )dans les basaltes
+
+- Plagioclases de différent type selon la roche
+
+- Hornblende brune basaltique avec un manchon d’oxyde de fer (magnétite)
+
+- Biotite qui peuvent apparaître sombres si oxydées, manchon d’oxydes de fer possible
+
+- Sanidine= variété de feldspath orthose que l’on trouve dans les roches volcaniques
+  

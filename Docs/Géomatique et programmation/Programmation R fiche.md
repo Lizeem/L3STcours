@@ -470,3 +470,87 @@ fonctioncumsum <- function(donnees)
 
 fonctioncumsum(x)
 ```
+### Regression
+
+Ajustement de courbes sur des séries de valeurs, tendance linéaire du coefficient directeur et d'ordonnée à l'origine
+
+- y = ax+b
+- a : slope = coefficient directeur
+- b : intercept = ordonnée à l'origine
+
+```
+Y <- rnorm(500, mean = 0, sd = 4)
+X <- c(1:length(Y))
+plot (X,Y,type = "l") 
+D <- 0.1 * X + 1.2 
+plot(x,D, type="l")
+Y2 <- Y+D
+plot(X,Y2, type="l")
+```
+
+Créer une tendance linéaire croissante en changeant la moyenne de rnorm à chaque incrément
+
+```
+Y3 <- c()
+m=0
+for(i in 1:500)
+{
+  m <- m + 0.1
+  Y3[i]<-rnorm(1,mean =m, sd=4)
+}
+lines(X,Y3,type = "l", col ="skyblue")
+modEq <- lm (Y3 ~ X) # ~ : en fonction
+```
+a : 0.09921 et b : 0.15208
+
+Pour donner les attributs de l'objet utiliser la fonction attributes()
+
+```
+attributes(modEq)
+modEq$coefficients # coefficient du modèle de régression
+modEq$fitted.values # donne les 500 valeurs
+modEq$residuals # résidus du modèle : écart entre les valeurs simulés et les valeurs réels
+plot(X,Y3, type ="l", col = "skyblue")
+lines(X,modEq$fitted.values,col="grey", type ="l")
+points(X,modEq$residuals,col="black")
+```
+Pour utiliser le troisième degré
+
+```
+modEqDeg3 <- lm(Y3 ~ I(X^3) + I(X^2) + X)
+lines(X,modEqDeg3$fitted.values,col="purple4")
+```
+
+### Fonction logarithmique
+
+modLog <- lm(Y3 ~log(X))
+lines(X,modLog$fitted.values,col="red4")
+
+
+### Fonction exponentielle
+
+modExp <- lm(Y3~exp(-X))
+lines(X,modExp$fitted.values,col="orange")
+
+### R-squared : R2
+
+r² est le coefficient de détermination d'une fonction. Plus il tant vers 1, plus la courbe est proche de la réalité.
+
+```
+summary(modExp)$adj.r.squared
+summary(modLog)$adj.r.squared
+summary(modEq)$adj.r.squared
+summary(modEqDeg3)$adj.r.squared
+```
+Exercice : Regarder les données séparateur entre colonne décimale, les colonnes ont - elles des noms ?
+
+```
+rainYear <- read.table("Z:/Geomatique et programmation/DJFM Paris 1873-2004.csv", sep="\t")
+rainYear$date <- seq(as.Date("1873/01/01"),as.Date("2004/01/01"),"year")
+
+rainDaily <- read.table("Z:/Geomatique et programmation/PSeine daily 1950-2004.csv", sep = "\t", header = T)
+rainDaily$date <- as.Date(rainDaily$t,origin="1900-01-01")
+
+rainMonth <- read.table("Z:/Geomatique et programmation/paris rainfall GHCN-ECA 1770-2004.txt", sep="\t")
+rainMonth$date <- seq(as.Date("1770/01/01"),as.Date("2004/12/01"),"month")
+```
