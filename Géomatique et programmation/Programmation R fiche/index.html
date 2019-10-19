@@ -1076,6 +1076,75 @@ fonctioncumsum &lt;- function(donnees)
 
 fonctioncumsum(x)
 </code></pre>
+
+<h3 id="regression">Regression</h3>
+<p>Ajustement de courbes sur des séries de valeurs, tendance linéaire du coefficient directeur et d'ordonnée à l'origine</p>
+<ul>
+<li>y = ax+b</li>
+<li>a : slope = coefficient directeur</li>
+<li>b : intercept = ordonnée à l'origine</li>
+</ul>
+<pre><code>Y &lt;- rnorm(500, mean = 0, sd = 4)
+X &lt;- c(1:length(Y))
+plot (X,Y,type = &quot;l&quot;) 
+D &lt;- 0.1 * X + 1.2 
+plot(x,D, type=&quot;l&quot;)
+Y2 &lt;- Y+D
+plot(X,Y2, type=&quot;l&quot;)
+</code></pre>
+
+<p>Créer une tendance linéaire croissante en changeant la moyenne de rnorm à chaque incrément</p>
+<pre><code>Y3 &lt;- c()
+m=0
+for(i in 1:500)
+{
+  m &lt;- m + 0.1
+  Y3[i]&lt;-rnorm(1,mean =m, sd=4)
+}
+lines(X,Y3,type = &quot;l&quot;, col =&quot;skyblue&quot;)
+modEq &lt;- lm (Y3 ~ X) # ~ : en fonction
+</code></pre>
+
+<p>a : 0.09921 et b : 0.15208</p>
+<p>Pour donner les attributs de l'objet utiliser la fonction attributes()</p>
+<pre><code>attributes(modEq)
+modEq$coefficients # coefficient du modèle de régression
+modEq$fitted.values # donne les 500 valeurs
+modEq$residuals # résidus du modèle : écart entre les valeurs simulés et les valeurs réels
+plot(X,Y3, type =&quot;l&quot;, col = &quot;skyblue&quot;)
+lines(X,modEq$fitted.values,col=&quot;grey&quot;, type =&quot;l&quot;)
+points(X,modEq$residuals,col=&quot;black&quot;)
+</code></pre>
+
+<p>Pour utiliser le troisième degré</p>
+<pre><code>modEqDeg3 &lt;- lm(Y3 ~ I(X^3) + I(X^2) + X)
+lines(X,modEqDeg3$fitted.values,col=&quot;purple4&quot;)
+</code></pre>
+
+<h3 id="fonction-logarithmique">Fonction logarithmique</h3>
+<p>modLog &lt;- lm(Y3 ~log(X))
+lines(X,modLog$fitted.values,col="red4")</p>
+<h3 id="fonction-exponentielle">Fonction exponentielle</h3>
+<p>modExp &lt;- lm(Y3~exp(-X))
+lines(X,modExp$fitted.values,col="orange")</p>
+<h3 id="r-squared-r2">R-squared : R2</h3>
+<p>r² est le coefficient de détermination d'une fonction. Plus il tant vers 1, plus la courbe est proche de la réalité.</p>
+<pre><code>summary(modExp)$adj.r.squared
+summary(modLog)$adj.r.squared
+summary(modEq)$adj.r.squared
+summary(modEqDeg3)$adj.r.squared
+</code></pre>
+
+<p>Exercice : Regarder les données séparateur entre colonne décimale, les colonnes ont - elles des noms ?</p>
+<pre><code>rainYear &lt;- read.table(&quot;Z:/Geomatique et programmation/DJFM Paris 1873-2004.csv&quot;, sep=&quot;\t&quot;)
+rainYear$date &lt;- seq(as.Date(&quot;1873/01/01&quot;),as.Date(&quot;2004/01/01&quot;),&quot;year&quot;)
+
+rainDaily &lt;- read.table(&quot;Z:/Geomatique et programmation/PSeine daily 1950-2004.csv&quot;, sep = &quot;\t&quot;, header = T)
+rainDaily$date &lt;- as.Date(rainDaily$t,origin=&quot;1900-01-01&quot;)
+
+rainMonth &lt;- read.table(&quot;Z:/Geomatique et programmation/paris rainfall GHCN-ECA 1770-2004.txt&quot;, sep=&quot;\t&quot;)
+rainMonth$date &lt;- seq(as.Date(&quot;1770/01/01&quot;),as.Date(&quot;2004/12/01&quot;),&quot;month&quot;)
+</code></pre>
                 
                   
                 
