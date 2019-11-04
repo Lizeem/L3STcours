@@ -1,3 +1,5 @@
+# TP roches magmatiques et métamorphiques
+
 # Séance n°1 : La détermination des minéraux et des roches
 
 ## La structure cristalline 
