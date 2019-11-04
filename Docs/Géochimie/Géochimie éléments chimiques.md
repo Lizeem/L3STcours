@@ -122,6 +122,118 @@ Saprolite : résidu d'une roche altérée
 
 ![Altération et dissolution des minéraux](Images/minérauxroches.jpg)
 
+Diagramme de Goldschimdt permet de regarder le comportement d'un ion face à l'eau. C'est un rapport charge ionique/rayon ionique.
+
+Les ions à potentiel ionique faible sont les ions mobiles. C'est le domaine des cations solubles avec 2 classes :
+
+- si Z/r < 1 : leur taille est trop grande par rapport à leur charge, ils n'ont aucune attirance pour l'eau donc partent en solution.
+- si 1 < Z/r < 3 : les ions sont hydratés et donnent des solutions alcalines (Na, Ba, Sr, Mn, Fe) selon la formule chimique  A<sup>n+</sup> + nH<sub>2</sub>O -> (A,nH<sub>2</sub>O)<sup>n+</sup> 
+
+Les ions à potentiel ionique moyen (3< Z/r <10) : les ions sont insolubles.  A<sup>n+</sup> + nH<sub>2</sub>O -> A(OH)<sub>n</sub> + (n/2)H<sub>2</sub>
+
+Les ions à potentiel ionique fort (Z/r > 10), c'est le domaine des oxyanions A<sup>n+</sup> + nH<sub>2</sub>O -> AOP <sup>(n-2p)</sup> + pH<sub>2</sub>
+
+## Réactions chimiques impliqués dans l'altération
+
+Solubilité du quartz et autres silicates est très faible (5-6 ppm pour Qz dans les eaux de surface) : SiO<sub>2</sub> + 2 H<sub>2</sub>O -> H<sub>4</sub>SiO<sub>4</sub>
+
+Carbonates très solubles, car l'eau de pluie se charge en CO2 et agit comme un acide faible CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> -> Ca<sup>++</sup> 2 HCO<sub>3-</sub> (bicarbonate en solution)
+
+Sel gemme et autres évaporites:fortement solubles (g/l; solubilités de l'ordre du millier de ppm) : NaCl -> Na<sup>+</sup> + Cl<sup>-</sup> 
+
+La solubilité des minéraux est fortement dépendante de: température, pH, Eh, ions présents dans la solution
+
+Si acide fort (HCl) :  CaCO<sub>3</sub> + H<sup>+</sup> -> Ca<sup>++</sup> + H<sub>2</sub>O + CO<sub>2</sub>
+
+Si acide faible, tel que l'acide carbonique (l'eau de pluie) :
+
+CaCO<sub>3</sub> + H<sub>2</sub>O + CO<sub>2</sub> -> Ca<sup>++</sup> + 2H<sup>+</sup> +  CO<sub>3-</sub> 
+
+dans une eau à 10°C, saturée en CO2, on dissout quelques 200 mg de calcite seulement 
+
+Implications : 
+
+1. solubilité de la calcite diminue avec T (CO2 est expulsé à gauche de la formule)  (calcite précipite au fond de la casserole / du bol / de la baignoire) 
+2. calcite précipite lors de la photosynthèse (qui consomme du CO<sub>2</sub>) 
+3. solubilité de la calcite augmente dans les eaux froides,chargées en CO<sub>2</sub>
+
+Processus : 
+
+- addition H<sub>2</sub>O dans minéraux peu hydratés (ex:oxydes de fer)
+- gonflement du minéral et donc favorise la destruction de la roche
+
+Les réactions les plus importantes sont : 
+
+anhydrite = gypse : CaSO4 + 2H2O -> CaSO42(H2O)
+
+hématite= limonite: Fe2O3+ 3 H2O -> 2Fe(OH)3
+
+kaolinite = gibbsite
+
+## Hydrolyse
+
+Lors du processus, les minéraux d'olivine et de pyroxène sont détruits ou on a l'apparition d'une nouvelle espèce comme par exemple les feldspaths qui vont se transformer en phyllosilicates. Les argiles sont les minéraux les plus stables en silicates à la surface. Les autres minéraux se sont formés dans le sol à des températures plus grandes et ceux - ci vont se détruire à la surface ou se transformer en argiles.
+
+Processus de **bisiallitisation** : perte de 60% de silicates et de 67% de potassium.
+
+Processus de **monosiallitisation** : perte plus brutale que le première processus, on aura formation de kaolinite.
+
+Lessivage encore plus poussé : toute la silice est lessivée : processus de d'**allittisation** si le produit contient du fer. Sinon c'est un processus de **ferrallitisation** ou **laterisation**. 
+
+L'étude des argiles permet de restituer les paléoclimats et les roches mères. L'hydrolyse est le processus majeur d'altération des roches. 
+
+L'hydrolyse est parfois aidé par l'altération mécanique qui va créer du vide dans lesquels l'eau va combler. Des constituants organiques vont s'altérer et générer des acides faibles qui en s'associant à l'eau vont former des complexes.
+
+Restituer les différents processus d'altération qui ont amener à la mise en place de ces minéraux.
+
+![Exercice à réfléchir](Images/exercice.PNG)
+
+Le changement climatique accélère l'altération chimique. 
+
+Les plagioclases sont les minéraux les plus sujet à l'altération.
+
+**shale** : roches sédimentaires détritiques.
+
+Normalisation -> minéraux insolubles
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Un aperçu des contaminants dans l'environnement, transfert des aquifères, indices de la qualité de la ressource en eau
 
 Afin d'avoir tous les mobilités d'un contaminant, il faut prendre des échantillons dans différents milieux.
