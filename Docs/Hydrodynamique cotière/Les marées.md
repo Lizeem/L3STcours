@@ -64,7 +64,7 @@ La mesure bathymétrique est la mesure de la profondeur. Le positionnement est d
 
 La variation du niveau marin est également modifié par les reliefs. On est capable d'extraire une information lié au relief qui est en dessous. On reconstitue une carte bathymétrique où on retrouve les failles, les fonds etc. obtenus par satellites. 
 
-La référence du zéro : 
+La référence du zéro : zéro hydrographique ou zéro côte marine va permettre de nous donner les profondeurs, il sert à la navigation. C'est le niveau qui va correspondre au niveau le plus bas du niveau de la mer afin d'éviter les échouages de bateau pour chacune des zones marines. 
 
 
 
