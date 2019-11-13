@@ -58,6 +58,13 @@ C *coefficient de marée* = (H *hauteur de pleine mer* - N<sub>0</sub> *hauteur 
 
 Le marnage de référence est de 5m. Il est souvent utilisé par les pêcheurs pour savoir si on est en vive-eau ou en morte-eau. Il est surtout utilisé en France.
 
+### 5. La mesure bathymétrique 
+
+La mesure bathymétrique est la mesure de la profondeur. Le positionnement est donné à l'aide d'un GPS. La mesure se fait avec des sondeurs mono faisceaux avec un écho qui se réfléchi au fond de l'eau ou multi faisceaux ou on peut avoir un profil ou une vision 3D.
+
+La variation du niveau marin est également modifié par les reliefs. On est capable d'extraire une information lié au relief qui est en dessous. On reconstitue une carte bathymétrique où on retrouve les failles, les fonds etc. obtenus par satellites. 
+
+La référence du zéro : 
 
 
 
