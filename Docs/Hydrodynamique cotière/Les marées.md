@@ -40,7 +40,23 @@ Le passage de la morte-eau à la vive eau est le **revif**. Inversement c'est le
 
 Les marées diffèrent entre les ports. Dans certains endroits, on aura un cycle de marée diurne. Certains on aussi des marées intermédiaires avec des marées mixes.
 
-### 3. Les mesures de la marée
+### 3. Les systèmes amphidromiques
+
+Le domaine océanique va être le plus impacté par ce phénomène d'attraction des astres. De plus, étant en rotation, la Terre a des vitesses tangentielles. Tout fluide ou objet qui va se déplacer à la surface terrestre allant d'une latitude à une autre, part d'une certaines vitesse tangentielle est arrivant dans une latitude change de domaine tangentielle. Un objet aura une déviation vers la droite en montant en latitude est inversement, se déplacera vers la gauche en descendant vers l'équateur.
+
+Les ondes de marées générer à l'interface océan et atmosphère vont être dévié, **système amphidromiques**. Dans une même phase de marée, le marnage va monter de façon circulaire. **Lignes cotidales** sont des lignes de même phase. Sans la force de Coriolis, cette déviation n'existerait pas. Les systèmes sont stables à l'échelle mondiale. On ne dépasse pas les 70 cm de marnage dans le domaine océanique. Pour les zones inférieurs à 200m les ondes de marées vont être amplifiées et déformées.
+
+### 4. Les mesures de marées
+
+Les mesures de marées se fait par marégraphe. On retravaille les données historique. On faisait des enregistrements papier avec un flotteur. Aujourd'hui on a un capteur de pression en profondeur et va déterminer la différence de pression entre la surface et la profondeur. Les fréquences dépendent de la nature des ondes (houle, marées...). Actuellement, on utilise aussi des mesures satellitaires avec une ellipsoïde de référence, la surface du géoïde, et la surface de l'eau qui va être calculé par rapport à l'ellipsoïde de référence. La variation de surface d'eau va dépendre de la marée, météorologie etc et donc il faut retirer des informations de la vraie hauteur d'eau.
+
+Marnage: hypertidal > 20m  > mésotidal > 4m  > macrotidal > 2m > microtidal   
+
+**Le coefficient de marée** : pourcentage par rapport à une marée de référence.
+
+C *coefficient de marée* = (H *hauteur de pleine mer* - N<sub>0</sub> *hauteur du niveau de mi-marée*) / U *unité de hauteur* x 100
+
+Le marnage de référence est de 5m. Il est souvent utilisé par les pêcheurs pour savoir si on est en vive-eau ou en morte-eau. Il est surtout utilisé en France.
 
 
 
