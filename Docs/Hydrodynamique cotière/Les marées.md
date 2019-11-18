@@ -77,8 +77,24 @@ Le positionnement x, y on utilise les latitude et longitude. Pour une carte topo
 - conique : faire une projection autour d'un méridien
 - azimutale : on s'éloigne du point central
   
-Le moins d'érreur possible est avec la projection conique. 
+Le moins d'erreur possible est avec la projection conique. 
 
 Pour les cartes marines, on utilise une projection cylindrique Mercator et UTM. Augmentation de surface en montant dans les latitude. La France esr coupée en 4 surfaces différentes avec chacune des références différentes et des projections différentes. 
 
+## III. Les courants de marée
 
+Ces courants de marées vont exister dans les zones de côtière. Ce courant va frotter sur le fond et on aura une friction sur le fond. Les courants instantanées vont être plus faible qu'en surface. Le courant de marée est très fort en s'éloignant des côte car il ne sera pas freiné par ces derniers. 
+
+### 1. Les courants de instantanées
+
+Au courant d'un cycle de marée, les courants de marées vont remplir l'estuaire. A la moitié de du remplissage, les vitesses de courant sont au maximum. Lorsque l'estuaire est rempli, les courants n'existent plus, courants de **flot**. Puis l'estuaire se vide et les courants de marées ressortent de celui- ci est donc accélèrent, jusqu'à que la moitié de l'estuaire se vide où l'accélération des courants vont diminuer jusqu'à disparaître, courant de **jusant**. En morte eau, le marnage sera donc plus faible donc les courants seront du plus faible mais le processus sera le même.
+
+Les vitesses de courants de flot sont de 2m/s dans l'estuaire de la Seine. A Rouen nous sommes à 1m/s maximum.
+
+Noeud : 0,5 m/s -> 1 852 m/h
+
+### 2. Mesures eulériennes
+
+Pour fair des mesures, on utilise un courantomère à hélice. A l'aide de cet appareil à mesure on peut représenter les courants sur une carte appelé hodographe. On a une référence zéro, plus on s'éloigne, plus les courants sont forts. Nous pouvons voir un frottement sur le fond. Les courants sont donc plus faibles. Les courants de surface vont tourner dans le sens anti-horaire, hodographe de surface. De même pour les courants de fond où le cercle représenter sera plus petit, hodographe de fond.  
+
+On va distinguer des hodographe alternatifs et des hodographes rotatifs où l'intensité de courant sera la même. 
