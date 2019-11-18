@@ -66,6 +66,19 @@ La variation du niveau marin est également modifié par les reliefs. On est cap
 
 La référence du zéro : zéro hydrographique ou zéro côte marine va permettre de nous donner les profondeurs, il sert à la navigation. C'est le niveau qui va correspondre au niveau le plus bas du niveau de la mer afin d'éviter les échouages de bateau pour chacune des zones marines. 
 
+SHOM en charge d'éditer les cartes marines, équivalent de l'IGN. 
+Les courbes sont appelés les isobathes. Les chiffres sont soulignés, sont les zones intertidales au dessus du zéro afin d'éviter les négatifs.
 
+Les sondes vont être calculé à partir du 0 NGF. D'un pays à un autre, le zéro a un décalage. 
+
+Le positionnement x, y on utilise les latitude et longitude. Pour une carte topographique on utilise le Lambert. On peut utiliser plusieurs types de projection pour une carte :
+
+- cylindrique : on fait des angles droits entre latitude et longitude
+- conique : faire une projection autour d'un méridien
+- azimutale : on s'éloigne du point central
+  
+Le moins d'érreur possible est avec la projection conique. 
+
+Pour les cartes marines, on utilise une projection cylindrique Mercator et UTM. Augmentation de surface en montant dans les latitude. La France esr coupée en 4 surfaces différentes avec chacune des références différentes et des projections différentes. 
 
 
