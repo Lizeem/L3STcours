@@ -183,5 +183,5 @@ Dans un estuaire entonnoir, **estuaire hypersynchrone**, la morphologie sera imp
 
 Dans des grands estuaires on peut avoir des courants qui n'ont pas les mêmes importances sur les deux rives. Si on a un débit fluviale très important, on aura une stratification très forte. Les eau douces seront en surface et les eaux marines en profondeur donc les mélanges seront très difficiles **à coin salée**. A l'inverse, si on a un grand espace estuarien avec un petit fleuve, le mélange se fait très bien **estuaire homogène**.
 
-La diffusion moléculaire des eaux douces et eaux marines se fait sur la partie aval. (photo)
+La diffusion moléculaire des eaux douces et eaux marines se fait sur la partie aval. En crue, des stratification vont apparaître, en étiage, le débit de la Seine est plus faible donc un meilleur mélange donc partiellement mélangé. Le gradient de salinité sera plus haut.
 
