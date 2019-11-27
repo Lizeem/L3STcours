@@ -167,4 +167,21 @@ L'embouchure de la Seine, l'onde de marée va pénétrer jusqu'à un barrage. L'
 
 A marée basse on aura ue petit quantité d'eau et à marrée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd'hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
 
-Le **point caractéristique** 
+Le **point caractéristique** zone dans lequel, on aura la même basse mer en vive eau et morte eau. Au cours de l'alternance vive eau morte eau, il va y avoir un stockage d'eau à l'amont pendant la période de vive eau. Et va faire que les niveau de basse mer de morte eau auront un niveau au dessus que ce qui est attendu. 
+
+### 4. Déformation de l'onde
+
+L'onde de marée va se déformer. Au départ, en arrivant à l'estuaire, l'onde sera amplifiée et déformée. Quand on rentre dans l'estuaire, l'onde devient di-symétrique, elle va s'amortir. La période de flot devient plus courte que la période de jusant par frottement de l'onde sur le fond qui va aussi provoquer un ralentissement de l'onde. On aura aussi dn déferlement, la remontée du niveau va être brusque et à des endroits ou on aura une vague de surface ou **tidal wave**. La Seine avait un mascaret de 2 à 3 mètres de haut. Le mascaret n'existe plus aujourd'hui car le port de Rouen a approfondit le chenal pour recevoir les bateaux et supprimer le mascaret. Au maximum aujourd'hui il fait 10cm. La marée n'a pas été supprimée **le coup de flot**. 
+
+Ces ondes arrivent du domaine océanique, le fond va diminuer, amortissement par frottement en fonction du type de fond et de la profondeur et en fonction du débit fluviale elle sera plus ou moins stopper. L'onde sera déformer avec des ressauts car le fond n'est pas plat où on aura un effet de déferlement. L'effet entonnoir, car l'onde va se réduire en rentrant dans l'estuaire, **convergence** qui va dans la partie estuaire moyen où on va augmenter l'amplification de la marée. En fonction des morphologies, l'un ou l'autre va dominer. 
+
+Dans un estuaire **hyposynchrone**, très découpé, le phénomène de frottement sera important. L'onde sera amorti petit à petit.
+
+Dans un estuaire entonnoir, **estuaire hypersynchrone**, la morphologie sera importante donc l'amplitude de marée sera importante en partie moyenne de l'estuaire.
+
+### 5. Les mécanismes de mélange
+
+Dans des grands estuaires on peut avoir des courants qui n'ont pas les mêmes importances sur les deux rives. Si on a un débit fluviale très important, on aura une stratification très forte. Les eau douces seront en surface et les eaux marines en profondeur donc les mélanges seront très difficiles **à coin salée**. A l'inverse, si on a un grand espace estuarien avec un petit fleuve, le mélange se fait très bien **estuaire homogène**.
+
+La diffusion moléculaire des eaux douces et eaux marines se fait sur la partie aval. (photo)
+
