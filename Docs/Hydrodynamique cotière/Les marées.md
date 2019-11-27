@@ -96,5 +96,30 @@ Noeud : 0,5 m/s -> 1 852 m/h
 ### 2. Mesures eulériennes
 
 Pour fair des mesures, on utilise un courantomère à hélice. A l'aide de cet appareil à mesure on peut représenter les courants sur une carte appelé hodographe. On a une référence zéro, plus on s'éloigne, plus les courants sont forts. Nous pouvons voir un frottement sur le fond. Les courants sont donc plus faibles. Les courants de surface vont tourner dans le sens anti-horaire, hodographe de surface. De même pour les courants de fond où le cercle représenter sera plus petit, hodographe de fond.  
-
 On va distinguer des hodographe alternatifs et des hodographes rotatifs où l'intensité de courant sera la même. 
+
+L'acoustique est une méthode très importante. Les basses fréquences correspondent aux fonds sédimentaire et les hautes fréquence sont sur la surface. Ce sont des courantomères à effet Doppler. On les utilise aussi pour mesurer le vent. La fréquence aller- retour sera proportionnelle à la vitesse de l'objet. On suppose que les particules vont à la vitesse de l'eau. Il faut peu de bulles et peu de MES. On met l'appareil soit au fond, soit en surface. On lui donne des distances de mesure. En fonction de la fréquence on l'utilise soit dans les rivières/fleuves soit dans l'océan. Il possède trois faisceaux pour la robustesse de la mesure. Il peut en avoir un quatrième pour pouvoir mesurer en bougeant afin de retirer la vitesse du bateau dans les mesures.
+
+On fait les mesure verticalement, il est possible de le faire horizontalement. Ces courants permettent aussi de mesurer indirectement la turbidité.
+
+Sert principalement à mesurer les flux d'eau avec une eau de nature différente (douce/salé)
+
+### 4. Mesures lagrangiennes
+
+On va suivre une masse d'eau pendant le cycle de marée. En fonction du vent les écoulements seront différents. On met en surface l'objet qui sera entraîner par le courant. On peut le mettre en profondeur pour éviter les vents. Sert à étudier une nappe de pétrole en surface ou larves biologiques. On observe les temps de transite. En combien de temps l'objet étudier va atteindre une zone donnée.
+
+## IV. Les courants résiduels
+
+La distance résiduel est la distance parcourue après un cycle de marée. A partir de la distance est du temps on peut calculer la vitesse résiduelle. On pourra représenter les courants résiduels sur des cartes géographique. Cela va permettre de montrer le modèle de la circulation résiduelle. Dans la Manche, nous avons un déplacement d'est en ouest. La Manche s'écoule donc en Mer du Nord. Lors des zones côtières, on aura des circulations plus complexes et on a une progression plus lente vers la Mer du Nord.
+
+### 1. Les modèles
+
+Il existe plusieurs types de modèles :
+
+- modèles conceptuels : modèles issues des mesures.
+- modèles physiques : maquette, des choses seront fausses car les tailles seront réduites. Pas besoin d'avoir les équations.
+- modèles numériques : modèle maillé, on a absolument besoin des équations.
+
+
+
+
