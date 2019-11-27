@@ -143,8 +143,28 @@ A l'avant des rivières, on aura un affrontement de surface **fronts**. Ils sont
 
 ### 2. Les étagements
 
+Ces milieux estuariens sont des embouchures qui sont des milieux semi-confinés de mélange entre eau douce et eau salée avec une influence de la marée. On a des étagements dans ces systèmes :
 
+- étagement des eaux
+- étagement des milieux végétalisées
 
+A partir de la pleine mer moyenne, on aura une végétation qui va pouvoir s'implanter une végétation halophiles (qui va résister à la salinisation). La partie vasière qui se situera en dessous de la pleine mer moyenne s'appelle la **slikke** et la partie colonisée en végétation se nomme le **schorre**. 
 
+Ce qui sera important sera le temps de recouvrement notamment dans la colonisation des végétaux ainsi que le taux de sel qui formeront des ceintures de végétaux d'espèces différentes. Ils sont aussi situés sur des zones ou l'énergie de courant est faible d'où les dépôts vaseux.
 
+Dans les parties les plus hautes on aura l'apparition de roseaux, dans les parties les plus basses on aura serptine. Ces ceintures vont dépendre du **niveau topographique**. 
 
+Sur les zones exposées aux houles, nous avons un étagement mais pas de végétalisation, ni de vasière. Les parties fines sont constamment recouverte par l'eau de mer dans les parties profondes.
+
+### 3. Les estuaires
+
+Les estuaires ont trois forçages principaux (fleuves, marées, houles) qui vont donner des embouchures différentes : 
+
+- embouchures ouvertes
+- embouchures fermées
+
+L'embouchure de la Seine, l'onde de marée va pénétrer jusqu'à un barrage. L'énergie est très importante en amont et va petit à petit diminuer vers l'embouchure, la houle va diminuer en entrant dans l'estuaire. Au milieu, l'énergie de marée va se renforcer et va diminuer vers l'amont.
+
+A marée basse on aura ue petit quantité d'eau et à marrée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd'hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
+
+Le **point caractéristique** 
