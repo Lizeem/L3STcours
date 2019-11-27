@@ -120,6 +120,31 @@ Il existe plusieurs types de modèles :
 - modèles physiques : maquette, des choses seront fausses car les tailles seront réduites. Pas besoin d'avoir les équations.
 - modèles numériques : modèle maillé, on a absolument besoin des équations.
 
+Dans la Manche, à marée haute, on aura plus d'eau du côté français que du côté anglais. En période de basse d'eau, les courants s'inversent; à marée basse, on accumule plus d'eau du côté anglais. Cela est lié à la force de Coriolis.
+
+## V. Les effets de la marée dans les estuaires
+
+### 1. Les embouchures
+
+Il existe différents types d'embouchures
+
+- embouchures : morphologies sont hérités des périodes glacières, à la présence d'un fleuve, une ancienne vallée ennoyé qui sera rempli par les sédiments 
+- deltas : construits à partir des apports de sédiments
+- lagunes : profondeur assez faibles et sont fermées par des flèches sableuses. 
+
+Ce systèmes sont aussi influencées par leur position latitudinal, où on aura la formation de mangrove dans le sud et de zone sur salées dans le Nord. Dans la Seine, le dissout est domine largement (érosion chimique), au niveau des deltas, on aura plus d'apport de sédiments (érosion mécanique).
+
+Il existe deux types d'écoulement : 
+
+- écoulement **hypopycnal** : écoulement classique d'un fleuve qui va arriver dans une embouchure où on aura un écoulement en surface et une stratification verticale avec de l'eau douce qui sera au dessus de l'eau salée.
+- écoulement **hyperpycnal** : eau douce sera plus dense que l'eau salée lorsque le flux continental et très froid, ou lorsque qu'il est très chargé en sédiments. L'eau douce s'écoulera en dessous de l'eau salée. Écoulement qu'on va retrouver en période de crue dans les grands fleuves (deltas) ou en Russie ou Canada en période froide. Les matières importantes vont se déposer au fond.
+
+A l'avant des rivières, on aura un affrontement de surface **fronts**. Ils sont très visible en imagerie de satellites. A l'avant de ce front les éléments vont être repoussés **ligne de détritus**. A l'avant, les planctons vont éclater et vont donner de la mousse **ligne d'écume**. Ces affrontements se font à quelques kilomètres de la côte.
+
+### 2. Les étagements
+
+
+
 
 
 
