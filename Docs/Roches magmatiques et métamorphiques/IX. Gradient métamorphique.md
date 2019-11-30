@@ -2,7 +2,7 @@
 
 ## Le métamorphisme de contact : BP - HT
 
-Contact d’une source ponctuelle de chaleur → thermométamorphisme
+Contact d’une source ponctuelle de chaleur → thermo métamorphisme
 
 - Intrusions magmatiques
 - coulées de lave
@@ -18,14 +18,14 @@ Cuisson de la roche encaissante
 → Facteurs :
 
 - Distance au pluton
-- Nature du/des protolithes
+- Nature du/des protolithe
 - Nature du pluton
 
 Auréole de métamorphisme en fonction du degré de métamorphisme
 
 - Taille de l’auréole en fonction de la nature du protolithe
 
-- Isogrades très serrées dans l’auréole
+- Isograde très serrées dans l’auréole
 
 → Transfert de chaleur par conduction
 
