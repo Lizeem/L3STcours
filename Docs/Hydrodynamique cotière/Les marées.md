@@ -183,5 +183,16 @@ Dans un estuaire entonnoir, **estuaire hypersynchrone**, la morphologie sera imp
 
 Dans des grands estuaires on peut avoir des courants qui n'ont pas les mêmes importances sur les deux rives. Si on a un débit fluviale très important, on aura une stratification très forte. Les eau douces seront en surface et les eaux marines en profondeur donc les mélanges seront très difficiles **à coin salée**. A l'inverse, si on a un grand espace estuarien avec un petit fleuve, le mélange se fait très bien **estuaire homogène**.
 
-La diffusion moléculaire des eaux douces et eaux marines se fait sur la partie aval. En crue, des stratification vont apparaître, en étiage, le débit de la Seine est plus faible donc un meilleur mélange donc partiellement mélangé. Le gradient de salinité sera plus haut.
+La diffusion moléculaire des eaux douces et eaux marines se fait sur la partie aval. En crue, des stratification vont apparaître, en étiage, le débit de la Seine est plus faible donc un meilleur mélange donc partiellement mélangé. Le gradient de salinité sera plus haut. Dans certains estuaires notamment dans les pays chauds, nous sommes dans une diminution de la tranche d'eau est une grande évaporation, l'eau provenant de l'intérieur peut être plus salée que l'eau de mer, **estuaire inverse**.
+
+Dans la Seine, lorsque l'on est en vive eau, on aura une plus grande stratification qu'en morte eau.
+On prend comme indice 0.5 afin de déterminer l'eau douce et l'eau salée.
+
+0.5 < oligo halin < 5 < méso halin < 18 < poly halin < 30 < marin  
+
+Les écosystèmes liées à ce gradient de salinité sont dans les estuaires. On s'aperçoit que dans ces milieux, la richesse spécifique est faible alors que l'abondance est forte. Dans la zone de transition seulement quelques espèces résiste à ce changement de salinisation.
+Dans les zones intertidales, les espèces doivent pouvoir résister au recouvrement et au gel. Cependant il existe beaucoup de matière organique. La productivité biologique est très importante grâce à cette MO.
+
+La MO organique est environ de 30 mg/L  à l'intérieur des terres. En crue, on multiplie par 10 le taux de MO. Autour de l'estuaire moyenne on a une concentration très forte en MO (10 à 20 g/L) dû au fonctionnement du système, c'est le **bouchon vaseux**. Le temps de résidence des particules va augmenter dans ce système et au lieu d'être une zone de transit, ces particules vont rester de quelques mois à quelques années. 
+
 
