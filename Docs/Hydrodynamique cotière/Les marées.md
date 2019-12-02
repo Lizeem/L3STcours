@@ -165,7 +165,7 @@ Les estuaires ont trois forçages principaux (fleuves, marées, houles) qui vont
 
 L'embouchure de la Seine, l'onde de marée va pénétrer jusqu'à un barrage. L'énergie est très importante en amont et va petit à petit diminuer vers l'embouchure, la houle va diminuer en entrant dans l'estuaire. Au milieu, l'énergie de marée va se renforcer et va diminuer vers l'amont.
 
-A marée basse on aura ue petit quantité d'eau et à marrée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd'hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
+A marée basse on aura ue petit quantité d'eau et à marée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd'hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
 
 Le **point caractéristique** zone dans lequel, on aura la même basse mer en vive eau et morte eau. Au cours de l'alternance vive eau morte eau, il va y avoir un stockage d'eau à l'amont pendant la période de vive eau. Et va faire que les niveau de basse mer de morte eau auront un niveau au dessus que ce qui est attendu. 
 
@@ -195,4 +195,15 @@ Dans les zones intertidales, les espèces doivent pouvoir résister au recouvrem
 
 La MO organique est environ de 30 mg/L  à l'intérieur des terres. En crue, on multiplie par 10 le taux de MO. Autour de l'estuaire moyenne on a une concentration très forte en MO (10 à 20 g/L) dû au fonctionnement du système, c'est le **bouchon vaseux**. Le temps de résidence des particules va augmenter dans ce système et au lieu d'être une zone de transit, ces particules vont rester de quelques mois à quelques années. 
 
+Le bouchon vaseux va se retrouver en amont en marée haute et en marée basse se retrouvera en aval. En morte eau, le même phénomène existe mais la MES en suspension sera plus faible. 
+
+Lorsque l'eau douce moins dense va arriver sur le salée, on aura un gradient de densité. Les particules vont être piégé et vont sédimenter et former des agrégats **floculation**. La **circulation résiduelle** est la circulation après un cycle de marée. Dans le domaine estuaire externe, au fond la circulation résiduelle est dirigé vers l'amont alors que celle sur la surface se dirige vers l'aval. Entre les deux, on aura une zone immobile, **point nodal des circulations résiduelles**. On va avoir une sur-concentration des particules dans cette zone. Dans la partie estuaire amont, on a un point nodal des déplacements résiduels efficaces des MES car on sera ni en excès de flot ni en excès de jusant. Tous ces phénomènes vont provoquer un bouchon vaseux.
+
+#### Exercice 
+
+Zone méso halin car on a une variance entre 4 et 14. Les zones minimum sont les basses mer et les zones de haute mer sont les maximum. On a la présence d'iso haline. En pleine mer et en basse mer, l'eau est stratifiée. Au moment du jusant on et un peu stratifié. En moment de flot, ce n'est pas stratifié. 
+
+Les courants sont nulles 1h après la basse mer et durant la haute mer, les étales ne sont donc pas alignés en fonction du niveau marin. Lors du jusant et flot les courants d'eau sont maximum. Les vitesses de courants sont stratifiées car phénomène de frottement. 
+
+En pleine mer, la concentration en MES est très faible. Autour de la basse mer, la concentration en MES est forte.A, lorsque les courants sont nulles, la sédimentation est forte car les particules chutent en profondeur.En B, dans le jusant, on a une faible concentration de MES au fond, on remet en suspension par le fond donc plus de concentration au fond. En D, la MES est faible en surface car les lignes de courants sont nulles et on a une faible concentration. E est la remise en suspension du flot lié à la vitesse de courant avec des concentrations très fortes. C, bouchon vaseux qui arrive de l'amont pour se positionner sur ma zone. 
 
