@@ -207,6 +207,8 @@ Les courants sont nulles 1h après la basse mer et durant la haute mer, les éta
 
 En pleine mer, la concentration en MES est très faible. Autour de la basse mer, la concentration en MES est forte.A, lorsque les courants sont nulles, la sédimentation est forte car les particules chutent en profondeur.En B, dans le jusant, on a une faible concentration de MES au fond, on remet en suspension par le fond donc plus de concentration au fond. En D, la MES est faible en surface car les lignes de courants sont nulles et on a une faible concentration. E est la remise en suspension du flot lié à la vitesse de courant avec des concentrations très fortes. C, bouchon vaseux qui arrive de l'amont pour se positionner sur ma zone. 
 
+![Exercice](Images/exercice.jpg)
+
 ## VI. La mesure de turbidité
 
 La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. La turbidité est donc un des facteurs de la couleur de l'eau. La turbidité est due à la présence dans l'eau de particules en suspension minérales ou organiques, vivantes ou détritiques. Ainsi, plus une eau sera chargée en biomasse phyto planctonique ou en particules, plus elle sera trouble ou turbide.
@@ -226,4 +228,9 @@ Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir
 
 4. La MES sont les matières en suspension, cela dépend des appareils mais il y a un lien entre la MES et la turbidité.
 
+5. 
+   a. Lorsque la concentration est forte, les courants sont forts donc on a une dispersion de la MES liée aux courants de marée. Il existe une variabilité de concentration pour une turbidité égale à 1000 NTU car l'eau est trop trouble pour pouvoir faire des mesures de concentration, les données sont faussées.
+   
+   c. La concentration est liée à la turbidité, ce qui nous intéresse c'est la concentration de la MES. 
 
+6.  Ainsi, plus une eau sera chargée en biomasse phyto planctonique ou en particules, plus elle sera trouble ou turbide. Je pense que c'est lié aux saisons.
