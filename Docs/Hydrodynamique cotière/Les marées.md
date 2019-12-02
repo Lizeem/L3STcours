@@ -207,3 +207,11 @@ Les courants sont nulles 1h après la basse mer et durant la haute mer, les éta
 
 En pleine mer, la concentration en MES est très faible. Autour de la basse mer, la concentration en MES est forte.A, lorsque les courants sont nulles, la sédimentation est forte car les particules chutent en profondeur.En B, dans le jusant, on a une faible concentration de MES au fond, on remet en suspension par le fond donc plus de concentration au fond. En D, la MES est faible en surface car les lignes de courants sont nulles et on a une faible concentration. E est la remise en suspension du flot lié à la vitesse de courant avec des concentrations très fortes. C, bouchon vaseux qui arrive de l'amont pour se positionner sur ma zone. 
 
+## VI. La mesure de turbidité
+
+La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. La turbidité est donc un des facteurs de la couleur de l'eau. La turbidité est due à la présence dans l'eau de particules en suspension minérales ou organiques, vivantes ou détritiques. Ainsi, plus une eau sera chargée en biomasse phyto planctonique ou en particules, plus elle sera trouble ou turbide.
+
+Un capteur optique fait une réflexion à 90°, c'est la **néphélométrie**. Lorsque l'eau est trop chargée en particules, on utilise l'OBS qui sont des mesures optiques qui ne se font pas sur les mêmes objets dans l'eau. Les mesures sont électriques en Volt et on les transforme en NTU.
+On fait un étalonnage de la sonde optique par de la formazine qui est un colloïde. La relation entre la turbidité et les MES va dépendre du type de mesure, de l'appareil, des longueurs d'ondes qui vont être utilisées et ça va dépendre de la taille et de la nature des particules.  
+
+Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir la perturbation du signal lié à la turbidité. Cela permet de créer un profil de turbidité. 
