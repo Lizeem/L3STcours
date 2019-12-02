@@ -215,3 +215,15 @@ Un capteur optique fait une réflexion à 90°, c'est la **néphélométrie**. L
 On fait un étalonnage de la sonde optique par de la formazine qui est un colloïde. La relation entre la turbidité et les MES va dépendre du type de mesure, de l'appareil, des longueurs d'ondes qui vont être utilisées et ça va dépendre de la taille et de la nature des particules.  
 
 Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir la perturbation du signal lié à la turbidité. Cela permet de créer un profil de turbidité. 
+
+#### Exercice
+
+1. La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. La turbidité est donc un des facteurs de la couleur de l'eau. Les mesures sont électriques en Volt et on les transforme en NTU. Regarder l'évolution de la MES.
+
+2. Au dessus de la valeur, il y a trop de MES donc il faut changer d'appareil est prendre l'OBS.
+
+3.  Morte eau -> entre les grands pics, vive eaux -> les grands pics. Plus de courant en vive eau donc les MES se déplacent dans la surface en eau alors qu'en Morte Eau, les MES restent en fond et donc l'eau sera moins turbide.
+
+4. La MES sont les matières en suspension, cela dépend des appareils mais il y a un lien entre la MES et la turbidité.
+
+
