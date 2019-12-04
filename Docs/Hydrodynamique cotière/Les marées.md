@@ -218,6 +218,16 @@ On fait un étalonnage de la sonde optique par de la formazine qui est un collo�
 
 Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir la perturbation du signal lié à la turbidité. Cela permet de créer un profil de turbidité. 
 
+On a différents types de transport de MES. 
+
+- le **charriage** : à proximité du fond
+  - transport par glissement
+  - transport par saltation
+
+- la **suspension** : les particules ne sont plus en contact avec le fond
+  - chute des grains compensées par la diffusion verticale associée à la turbulence de l'écoulement 
+  - vitesse de déplacement = vitesse du fluide
+
 #### Exercice
 
 1. La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. Elle est mesurée par des mesures optiques et acoustiques. La turbidité est donc un des facteurs de la couleur de l'eau. Les mesures sont électriques en Volt et on les transforme en NTU. Regarder l'évolution de la MES par rapport au cycle de marée (mesure haute fréquence).
@@ -236,5 +246,14 @@ Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir
 6. La turbidité est plus forte en morte eau quand vive eau. Pour la salinité les maximum sont plus faible en morte eau. L'eau de mer pénètre moins dans l'estuaire en morte eau. En période de vive eau, l'eau de mer pénètre plus loin dans l'estuaire. Dans la figure 4 on peut déterminer le flot et le jusant car on peut déterminer la pleine mer et la base mer.
 
 7. De mai à novembre on est en période d'étiage. De novembre à mars on est en période de crue. En crue, le débit de la Seine est plus fort donc le bouchon vaseux va se déplacer vers le large. En période d'étiage, le bouchon vaseux va remonter dans l'estuaire.
-   
-    
+
+## VII. Les effets des mouvements de marées sur le plateau continental 
+
+En Manche, les ondes de marées se déplacent d'ouest en est. La force de Coriolis va provoquer une plus grande onde de marée sur les côtes française. Si on relie les ondes, on a un point amphidromique virtuel. Ils sont situés en fonction de la morphologie des bassins. Ce sont des points fixes. Proche des points amphidromique, il n'y a pas de marée. Dans une même zone macrotidal, dans la baie germanique, des îles sont présentes. Quand l'onde de marée va pénétrer à l'intérieur, elle va passer de microtidal à macrotidal. 
+
+Les circulations résiduelles des éléments dissous en Manche sont mesurée dans des masses d'eau. On utilise des radios éléments artificielles ou naturelles. Les éléments artificielles sont injectés par les activités anthropiques. L'accident de Tchernobyl avec le Césium nous a servi à créer des traceurs. On prélève des grandes cuves d'eau pour injecter ces traceurs.  
+
+A l'aide d'une carte sédimentaire, on peut voir que certaines zones il n'y a pas de sédiments dû aux très forts débits d'eau. Sur la Manche, on constate une zone en érosion et des sédiments non cohésif. Les sédiments cohésifs sont cachés dans des zones où il y a un très faible débit marin. Au Nord de Cherbourg, un élément non cohésif va se déplacer avec les courants maximums. Pour les sédiments non cohésif, cela va créer une ligne de divergence.
+
+On va retrouver sur la plateau continental des lignes de divergences et des lignes de convergences. Le déplacement se fait sous forme de charriage. Il y aura une ségrégation granulométrique. Les sédiments fins vont se déplacer en suspension alors que les sédiments grossiers en charriage.  
+
