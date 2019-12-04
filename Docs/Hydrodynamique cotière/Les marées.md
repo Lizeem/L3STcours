@@ -220,17 +220,21 @@ Les mesures acoustique sont font avec le courantomètre. Nous pouvons aussi voir
 
 #### Exercice
 
-1. La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. La turbidité est donc un des facteurs de la couleur de l'eau. Les mesures sont électriques en Volt et on les transforme en NTU. Regarder l'évolution de la MES.
+1. La turbidité est une caractéristique optique de l'eau, à savoir sa capacité à diffuser ou absorber la lumière incidente. Elle est mesurée par des mesures optiques et acoustiques. La turbidité est donc un des facteurs de la couleur de l'eau. Les mesures sont électriques en Volt et on les transforme en NTU. Regarder l'évolution de la MES par rapport au cycle de marée (mesure haute fréquence).
 
-2. Au dessus de la valeur, il y a trop de MES donc il faut changer d'appareil est prendre l'OBS.
+2. On ne pourra jamais mesurer au dessus de 1000 NTU, on aura jamais les mesures supérieur, l'appareil à saturé. 
 
-3.  Morte eau -> entre les grands pics, vive eaux -> les grands pics. Plus de courant en vive eau donc les MES se déplacent dans la surface en eau alors qu'en Morte Eau, les MES restent en fond et donc l'eau sera moins turbide.
+3. Le cycle du graphique est le cycle de la morte eau et vive eau. Plus de courant en vive eau donc les MES se déplacent dans la surface en eau, la turbidité est plus grande. En morte eau, les MES restent en fond et donc l'eau sera moins turbide. Le deuxième cycle est le cycle semi-diurne. Faible turbidité -> peut - être l'étale en pleine mer.
 
-4. La MES sont les matières en suspension, cela dépend des appareils mais il y a un lien entre la MES et la turbidité.
+4. La MES sont les matières en suspension, on la mesure avec un filtre.
 
 5. 
-   a. Lorsque la concentration est forte, les courants sont forts donc on a une dispersion de la MES liée aux courants de marée. Il existe une variabilité de concentration pour une turbidité égale à 1000 NTU car l'eau est trop trouble pour pouvoir faire des mesures de concentration, les données sont faussées.
+   a. Lorsque la concentration est forte, les courants sont forts donc on a une dispersion de MES. On a pas une homogénéité des particules contrairement à une faible concentration. Le prélèvement est intéressant mais comme la concentration n'est pas homogène, on va prélever exactement la masse d'eau qu'on mesure. A 1000 NTU l'appareil ne peut plus mesurer la concentration. 
    
-   c. La concentration est liée à la turbidité, ce qui nous intéresse c'est la concentration de la MES. 
+   c. Le NTU est spécifique à la sonde. Alors qu'on peut comparer les MES plus facilement en mg/L. 
 
-6.  Ainsi, plus une eau sera chargée en biomasse phyto planctonique ou en particules, plus elle sera trouble ou turbide. Je pense que c'est lié aux saisons.
+6. La turbidité est plus forte en morte eau quand vive eau. Pour la salinité les maximum sont plus faible en morte eau. L'eau de mer pénètre moins dans l'estuaire en morte eau. En période de vive eau, l'eau de mer pénètre plus loin dans l'estuaire. Dans la figure 4 on peut déterminer le flot et le jusant car on peut déterminer la pleine mer et la base mer.
+
+7. De mai à novembre on est en période d'étiage. De novembre à mars on est en période de crue. En crue, le débit de la Seine est plus fort donc le bouchon vaseux va se déplacer vers le large. En période d'étiage, le bouchon vaseux va remonter dans l'estuaire.
+   
+    
