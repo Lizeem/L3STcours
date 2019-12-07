@@ -57,3 +57,4 @@ Classement des roches en 4 séquences selon le protolithe :
 - séquence carbonatée
 
 Les pétrologies peuvent différer selon les faciès. La classification est limitée, notamment sur le terrain. Mais cette dernière est logique.
+

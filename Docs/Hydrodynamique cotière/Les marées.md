@@ -48,9 +48,9 @@ Les ondes de marées générer à l'interface océan et atmosphère vont être d
 
 ### 4. Les mesures de marées
 
-Les mesures de marées se fait par marégraphe. On retravaille les données historique. On faisait des enregistrements papier avec un flotteur. Aujourd'hui on a un capteur de pression en profondeur et va déterminer la différence de pression entre la surface et la profondeur. Les fréquences dépendent de la nature des ondes (houle, marées...). Actuellement, on utilise aussi des mesures satellitaires avec une ellipsoïde de référence, la surface du géoïde, et la surface de l'eau qui va être calculé par rapport à l'ellipsoïde de référence. La variation de surface d'eau va dépendre de la marée, météorologie etc et donc il faut retirer des informations de la vraie hauteur d'eau.
+Les mesures de marées se fait par marégraphe. On retravaille les données historique. On faisait des enregistrements papier avec un flotteur. Aujourd' hui on a un capteur de pression en profondeur et va déterminer la différence de pression entre la surface et la profondeur. Les fréquences dépendent de la nature des ondes (houle, marées...). Actuellement, on utilise aussi des mesures satellitaires avec une ellipsoïde de référence, la surface du géoïde, et la surface de l'eau qui va être calculé par rapport à l'ellipsoïde de référence. La variation de surface d'eau va dépendre de la marée, météorologie etc et donc il faut retirer des informations de la vraie hauteur d'eau.
 
-Marnage: hypertidal > 20m  > mésotidal > 4m  > macrotidal > 2m > microtidal   
+Marnage: hyper tidal > 20m  > méso tidal > 4m  > macrotidal > 2m > micro tidal   
 
 **Le coefficient de marée** : pourcentage par rapport à une marée de référence.
 
@@ -91,7 +91,7 @@ Au courant d'un cycle de marée, les courants de marées vont remplir l'estuaire
 
 Les vitesses de courants de flot sont de 2m/s dans l'estuaire de la Seine. A Rouen nous sommes à 1m/s maximum.
 
-Noeud : 0,5 m/s -> 1 852 m/h
+noeud : 0,5 m/s -> 1 852 m/h
 
 ### 2. Mesures eulériennes
 
@@ -136,8 +136,8 @@ Ce systèmes sont aussi influencées par leur position latitudinal, où on aura 
 
 Il existe deux types d'écoulement : 
 
-- écoulement **hypopycnal** : écoulement classique d'un fleuve qui va arriver dans une embouchure où on aura un écoulement en surface et une stratification verticale avec de l'eau douce qui sera au dessus de l'eau salée.
-- écoulement **hyperpycnal** : eau douce sera plus dense que l'eau salée lorsque le flux continental et très froid, ou lorsque qu'il est très chargé en sédiments. L'eau douce s'écoulera en dessous de l'eau salée. Écoulement qu'on va retrouver en période de crue dans les grands fleuves (deltas) ou en Russie ou Canada en période froide. Les matières importantes vont se déposer au fond.
+- écoulement **hypo clynal** : écoulement classique d'un fleuve qui va arriver dans une embouchure où on aura un écoulement en surface et une stratification verticale avec de l'eau douce qui sera au dessus de l'eau salée.
+- écoulement **hyper clynal** : eau douce sera plus dense que l'eau salée lorsque le flux continental et très froid, ou lorsque qu'il est très chargé en sédiments. L'eau douce s'écoulera en dessous de l'eau salée. Écoulement qu'on va retrouver en période de crue dans les grands fleuves (deltas) ou en Russie ou Canada en période froide. Les matières importantes vont se déposer au fond.
 
 A l'avant des rivières, on aura un affrontement de surface **fronts**. Ils sont très visible en imagerie de satellites. A l'avant de ce front les éléments vont être repoussés **ligne de détritus**. A l'avant, les planctons vont éclater et vont donner de la mousse **ligne d'écume**. Ces affrontements se font à quelques kilomètres de la côte.
 
@@ -165,19 +165,19 @@ Les estuaires ont trois forçages principaux (fleuves, marées, houles) qui vont
 
 L'embouchure de la Seine, l'onde de marée va pénétrer jusqu'à un barrage. L'énergie est très importante en amont et va petit à petit diminuer vers l'embouchure, la houle va diminuer en entrant dans l'estuaire. Au milieu, l'énergie de marée va se renforcer et va diminuer vers l'amont.
 
-A marée basse on aura ue petit quantité d'eau et à marée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd'hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
+A marée basse on aura ue petit quantité d'eau et à marée haute une grande couverture d'eau. La différence entre ces deux périodes est le **volume oscillant**. Les aménagements par l'Homme conduit à la diminution de ce volume. On essaye aujourd' hui de ne plus affecter ce volume. Sur l'estuaire de la Seine, les mélange se font moins on a donc moins de biodiversité.
 
 Le **point caractéristique** zone dans lequel, on aura la même basse mer en vive eau et morte eau. Au cours de l'alternance vive eau morte eau, il va y avoir un stockage d'eau à l'amont pendant la période de vive eau. Et va faire que les niveau de basse mer de morte eau auront un niveau au dessus que ce qui est attendu. 
 
 ### 4. Déformation de l'onde
 
-L'onde de marée va se déformer. Au départ, en arrivant à l'estuaire, l'onde sera amplifiée et déformée. Quand on rentre dans l'estuaire, l'onde devient di-symétrique, elle va s'amortir. La période de flot devient plus courte que la période de jusant par frottement de l'onde sur le fond qui va aussi provoquer un ralentissement de l'onde. On aura aussi dn déferlement, la remontée du niveau va être brusque et à des endroits ou on aura une vague de surface ou **tidal wave**. La Seine avait un mascaret de 2 à 3 mètres de haut. Le mascaret n'existe plus aujourd'hui car le port de Rouen a approfondit le chenal pour recevoir les bateaux et supprimer le mascaret. Au maximum aujourd'hui il fait 10cm. La marée n'a pas été supprimée **le coup de flot**. 
+L'onde de marée va se déformer. Au départ, en arrivant à l'estuaire, l'onde sera amplifiée et déformée. Quand on rentre dans l'estuaire, l'onde devient di-symétrique, elle va s'amortir. La période de flot devient plus courte que la période de jusant par frottement de l'onde sur le fond qui va aussi provoquer un ralentissement de l'onde. On aura aussi dn déferlement, la remontée du niveau va être brusque et à des endroits ou on aura une vague de surface ou **tidal wave**. La Seine avait un mascaret de 2 à 3 mètres de haut. Le mascaret n'existe plus aujourd' hui car le port de Rouen a approfondit le chenal pour recevoir les bateaux et supprimer le mascaret. Au maximum aujourd' hui il fait 10cm. La marée n'a pas été supprimée **le coup de flot**. 
 
 Ces ondes arrivent du domaine océanique, le fond va diminuer, amortissement par frottement en fonction du type de fond et de la profondeur et en fonction du débit fluviale elle sera plus ou moins stopper. L'onde sera déformer avec des ressauts car le fond n'est pas plat où on aura un effet de déferlement. L'effet entonnoir, car l'onde va se réduire en rentrant dans l'estuaire, **convergence** qui va dans la partie estuaire moyen où on va augmenter l'amplification de la marée. En fonction des morphologies, l'un ou l'autre va dominer. 
 
 Dans un estuaire **hyposynchrone**, très découpé, le phénomène de frottement sera important. L'onde sera amorti petit à petit.
 
-Dans un estuaire entonnoir, **estuaire hypersynchrone**, la morphologie sera importante donc l'amplitude de marée sera importante en partie moyenne de l'estuaire.
+Dans un estuaire entonnoir, **estuaire hyper synchrone**, la morphologie sera importante donc l'amplitude de marée sera importante en partie moyenne de l'estuaire.
 
 ### 5. Les mécanismes de mélange
 
@@ -239,9 +239,9 @@ On a différents types de transport de MES.
 4. La MES sont les matières en suspension, on la mesure avec un filtre.
 
 5. 
-   a. Lorsque la concentration est forte, les courants sont forts donc on a une dispersion de MES. On a pas une homogénéité des particules contrairement à une faible concentration. Le prélèvement est intéressant mais comme la concentration n'est pas homogène, on va prélever exactement la masse d'eau qu'on mesure. A 1000 NTU l'appareil ne peut plus mesurer la concentration. 
+   a. Lorsque la concentration est forte, les courants sont forts donc on a une dispersion de MES. On a pas une homogénéité des particules contrairement à une faible concentration. Le prélèvement est intéressant mais comme la concentration n'est pas homogène, on va prélever exactement la masse d'eau qu'on mesure. A 1000 NTU l'appareil ne peut plus mesurer la concentration.  
    
-   c. Le NTU est spécifique à la sonde. Alors qu'on peut comparer les MES plus facilement en mg/L. 
+   b. Le NTU est spécifique à la sonde. Alors qu'on peut comparer les MES plus facilement en mg/L. 
 
 6. La turbidité est plus forte en morte eau quand vive eau. Pour la salinité les maximum sont plus faible en morte eau. L'eau de mer pénètre moins dans l'estuaire en morte eau. En période de vive eau, l'eau de mer pénètre plus loin dans l'estuaire. Dans la figure 4 on peut déterminer le flot et le jusant car on peut déterminer la pleine mer et la base mer.
 
@@ -249,7 +249,7 @@ On a différents types de transport de MES.
 
 ## VII. Les effets des mouvements de marées sur le plateau continental 
 
-En Manche, les ondes de marées se déplacent d'ouest en est. La force de Coriolis va provoquer une plus grande onde de marée sur les côtes française. Si on relie les ondes, on a un point amphidromique virtuel. Ils sont situés en fonction de la morphologie des bassins. Ce sont des points fixes. Proche des points amphidromique, il n'y a pas de marée. Dans une même zone macrotidal, dans la baie germanique, des îles sont présentes. Quand l'onde de marée va pénétrer à l'intérieur, elle va passer de microtidal à macrotidal. 
+En Manche, les ondes de marées se déplacent d'ouest en est. La force de Coriolis va provoquer une plus grande onde de marée sur les côtes française. Si on relie les ondes, on a un point amphidromique virtuel. Ils sont situés en fonction de la morphologie des bassins. Ce sont des points fixes. Proche des points amphidromique, il n'y a pas de marée. Dans une même zone macrotidal, dans la baie germanique, des îles sont présentes. Quand l'onde de marée va pénétrer à l'intérieur, elle va passer de micro tidal à macrotidal. 
 
 Les circulations résiduelles des éléments dissous en Manche sont mesurée dans des masses d'eau. On utilise des radios éléments artificielles ou naturelles. Les éléments artificielles sont injectés par les activités anthropiques. L'accident de Tchernobyl avec le Césium nous a servi à créer des traceurs. On prélève des grandes cuves d'eau pour injecter ces traceurs.  
 
