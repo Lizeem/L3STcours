@@ -17,7 +17,7 @@ Différents paramètres influents sur la rhéologie :
 
 Un même champ de contraintes appliqué sur des matériaux de rhéologies différentes déforme différemment les roches de théologie différentes.  Avec le temps, la rhéologie peut devenir homogène.
 
-Déformation ductiles : La
+Déformation ductiles :
 
  - structure mécanique : plans de débit préférentiel : **schistosité**
  - structure minéralogique : plans marqués par des niveaux de composition minéralogique contrastée, ou arrangements de minéraux individuels : **foliation**
