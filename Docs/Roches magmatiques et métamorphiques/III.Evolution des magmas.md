@@ -2,10 +2,7 @@
 
 Les roches magmatiques sont des roches issues de la cristallisation d'un magma. Il en existe deux types :
 
-* roches extrusives, éruptives ou volcaniques. Elles sont cristallisées
-
-1. lentement en profondeur
-2. au moins partiellement rapidement, à la surface terrestre (Basaltes, Trachytes...)
+* roches extrusive, éruptives ou volcaniques. Elles sont cristallisée, lentement en profondeur, au moins partiellement rapidement, à la surface terrestre (Basaltes, Trachytes...)
 
 * roches intrusives ou plutoniques. Elles sont cristallisées dans la croûte terrestre (Granites, Gabbros..)
 
