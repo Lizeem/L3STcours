@@ -81,21 +81,22 @@ Les fluides dans les roches sont à l'état supercritique. Les fluides sont auss
 Il existe quatre types de fluides : 
 
 - les fluides libres
+ 
   - Dans les pores intergranulaires ou dans les inclusions fluides des minéraux
   - Phase vapeur ou fluide dans les para genèse
   - Déplacement en fonction de la perméabilité et du gradient de pression, du m au km
   - Quantifiée en pression partielle de fluides
 
 - les fluides adsorbés
-  - Très fine pellicule (qqs Å) le long des surfaces cristallines
-  - Faiblement mobile
-  - Volume variable, assez faible
-  - Milieu de diffusion intergranulaire qui favorise la diffusion rapide des ions et la déformation
+    - très fine pellicule (qqs Å) le long des surfaces cristallines
+    - Faiblement mobile
+    - Volume variable, assez faible
+    - Milieu de diffusion intergranulaire qui favorise la diffusion rapide des ions et la déformation
 
 - les fluides liés
-  - Groupements hydroxyles dans les minéraux hydratés (micas, amphiboles)
-  - Carbonates (CaCO3)
-  - Libérés sous forme de phase vapeur lors de réaction de  volatilisation (déshydratation ou décarbonatation)
+    - Groupements hydroxyles dans les minéraux hydratés (micas, amphiboles)
+    - Carbonates (CaCO3)
+    - Libérés sous forme de phase vapeur lors de réaction de  volatilisation (déshydratation ou décarbonatation)
 
 - les fluides dissous
     - fusion partielle libère les fluides liées restants, dissous dans les liquides magmatiques → Roches résiduelles anhydres (Granulites)
