@@ -67,3 +67,4 @@ Paléo-zone de subduction alpine, Éocène (~45 Ma)
 - Entre la CO subduite et le manteau serpentinisé
 - Mélange de serpentinites venant de la CO hydratée et du coin mantellique hydraté
 - Blocs exotiques de méta-basaltes, méta-sédiments et méta-gabbros
+
