@@ -37,7 +37,7 @@ Chez les bactéries psychrophiles, bactéries à basse température, on a une au
 Les granules de réserves ont un rôle de stockage de phosphate. Une cellule a besoin d'une grande quantité de phosphore.
  Les granules de réserves stockent aussi du souffre. Ils sont utilisés comme source d'énergie alternative quand la principale source d'H2S est épuisée. Le souffre va être oxydé en sulfate. La bactérie à la capacité de stocker le glucose en glycogène qui est une source de carbone pour la bactérie. Ainsi que de l'azote, granulation cyanophycine.
 
- ## Vacuole à gaz
+## Vacuole à gaz
 
  Les vacuoles à gaz assurent la flottabilité, mobilité verticale en réponse aux facteurs environnementaux. Les vacuoles sont imperméables à l'eau et aux solutés mais pas au gaz. Ils permettent aux phototrophes de se positionner dans la colonne d'eau en fonction de l'intensité lumineuse. Les vacuoles sont constitués d'une fine couche protéique.
 
