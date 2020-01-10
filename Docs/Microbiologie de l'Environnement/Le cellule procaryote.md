@@ -35,7 +35,7 @@ Chez les bactéries psychrophiles, bactéries à basse température, on a une au
 ## Granules de réserves
 
 Les granules de réserves ont un rôle de stockage de phosphate. Une cellule a besoin d'une grande quantité de phosphore.
- Les granules de réserves stockent aussi du souffre. Ils sont utilisés comme source d'énergie alternative quand la principale source d'H2S est épuisée. Le souffre va être oxydé en sulfate. La bactérie à la capacité de stocker le glucose en glycogène qui est une source de carbone pour la bactérie. Ainsi que de l'azote, granulation cyanophycine.
+ Les granules de réserves stockent aussi du souffre. Ils sont utilisés comme source d'énergie alternative quand la principale source d'H<sub>2</sub>S est épuisée. Le souffre va être oxydé en sulfate. La bactérie à la capacité de stocker le glucose en glycogène qui est une source de carbone pour la bactérie. Ainsi que de l'azote, granulation cyanophycine.
 
 ## Vacuole à gaz
 
