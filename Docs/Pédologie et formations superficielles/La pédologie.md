@@ -23,7 +23,7 @@ Le sol se transforme par des processus pédogénétiques avec des transformation
 
 Pour décrire un profil de sol il faut :
 
-1. situer le contexte dans le pédo paysage
+1. situer le contexte dans le pédo-paysage
 2. décrire le profil et horizons (forme d'humus, épaisseur)
 3. description fines des horizons (couleur, consistance, texture, taille)
 4. prélèvements d'échantillons et analyses complémentaires en laboratoire
@@ -33,3 +33,20 @@ Le sol est un milieu menacé. En effet, il existe des dégradations biologiques,
 
 ## Les constituants du sol
 
+### Les différentes fractions
+
+Le sol est un milieu triphasique : 
+
+- solide  50%
+- liquide 26%
+- gazeuse 22%
+
+Le sol possède des constituants organiques, matières organiques fraîches ou des matières humiques. Ainsi que des constituants minérales avec des éléments fins et des éléments grossiers.
+
+#### Fraction gazeuse
+
+Le sol est composé des mêmes gaz que l'atmosphère, avec en plus des gaz provenant de la décomposition de la matière organique. Comme dans l'atmosphère, l'azote et l'oxygène sont les principales gaz dans le sol. En comparaison avec l'atmosphère, le dioxyde de carbone est plus présent dans le sol. Les fluctuations saisonnières sont importantes dues aux variations de l'activité biologique.
+
+#### Fraction organique
+
+Un sol prend naissance dès que la moindre vie végétale et animale vient s'installer dans les débris d'altération de la roche mère.
