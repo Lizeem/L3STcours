@@ -49,4 +49,15 @@ Le sol est composé des mêmes gaz que l'atmosphère, avec en plus des gaz prove
 
 #### Fraction organique
 
-Un sol prend naissance dès que la moindre vie végétale et animale vient s'installer dans les débris d'altération de la roche mère.
+Un sol prend naissance dès que la moindre vie végétale et animale vient s'installer dans les débris d'altération de la roche mère, souvent regroupé sous le terme *matière organique*. La faune est les micro organismes représentent la MO vivantes, les résidus organiques fraîches et évolués représentent la MO facilement décomposable et l'humus représente la MO stable.
+
+Il existe trois type de forme d'humus :
+
+- MULL : les sols forestiers à litière mince
+- MODER : les sols forestiers à litière épaisse
+- MOR : sols siliceux naturellement acides
+
+Une matière organique possède des composés complexes, elle aura plus de mal à se dégrader. Une partie de la MO fraîche se transforme en produit transitoire, **minéralisation primaire** où on passe d'une matière organique à un minéral simple ou un gaz. Cela est provoqué par les micro organismes avec tout d'abord un découpage en petit morceau, puis la matière organique est ingérée par le micro organisme et enfin une respiration dans la cellule microbienne. Pour accélérer la décomposition, il y aura une production d'enzyme. Les produits transitoires vont être perdues dans l'atmosphère (dioxyde de carbone), absorbées par les plantes (azote, phosphore), fixée par l'argile et l'humus (azote, souffre, phosphore), perdues par lessivage ou reprises par les micro organismes (azote, phosphore).
+
+Une partie des matière organique fraîche échappe à la minéralisation primaire. Elle peut être à l'origine de l'humus en formant des complexes avec des minéraux du sol, **humification**. Cet humus peut être dégradé est minéralisé, **minéralisation secondaire** processus plus lent que la minéralisation primaire.
+
