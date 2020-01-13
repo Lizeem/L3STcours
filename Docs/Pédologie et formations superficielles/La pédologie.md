@@ -14,7 +14,22 @@ L'étude des sols comporte 2 aspects complémentaires et indissociables :
 Les sols se forment à l'aide de 5 facteurs différents : 
 
 - la nature de la roche mère
-- les organismes vivants
-- le relief, la topographie
 - le climat
+- la topographie
+- les organismes vivants
+- le temps
+
+Le sol se transforme par des processus pédogénétiques avec des transformations de matière (altération, MO) mais aussi par des transferts de matières liés à l'eau. L'ensemble de ces mécanismes et de ces processus forment la **pédogenèse**.
+
+Pour décrire un profil de sol il faut :
+
+1. situer le contexte dans le pédo paysage
+2. décrire le profil et horizons (forme d'humus, épaisseur)
+3. description fines des horizons (couleur, consistance, texture, taille)
+4. prélèvements d'échantillons et analyses complémentaires en laboratoire
+5. nommer / référencer les horizons et les rattacher à un profil de référence
+
+Le sol est un milieu menacé. En effet, il existe des dégradations biologiques, la perte de matière organique liés à une transformation du milieu. Ainsi que des menaces liés à l'érosion du sol, le sol étant un processus très lent, le tassement, les inondations ou l'imperméabilisation. Mais aussi des contaminations et des pollutions ainsi que la salinisation.
+
+## Les constituants du sol
 
