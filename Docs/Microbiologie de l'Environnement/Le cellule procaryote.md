@@ -45,7 +45,7 @@ Les granules de réserves ont un rôle de stockage de phosphate. Une cellule a b
 
 L'ADN peut être condensé en boucle mais ce dernier n'est pas compacté contrairement aux eucaryotes. Certaines bactéries ont des plasmides, molécule bicaténaire circulaire impliquées dans le transfert de gènes verticales entre bactéries car il n'y a pas de reproduction. 
 
-Les plasmides portent des gènes qui permettent aux mirco organismes de s'adapter à leur environnement :
+Les plasmides portent des gènes qui permettent aux micro organismes de s'adapter à leur environnement :
 
 - résistance aux antibiotiques
 - plasmide de virulence

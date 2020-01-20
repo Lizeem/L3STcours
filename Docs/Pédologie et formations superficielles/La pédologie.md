@@ -65,4 +65,4 @@ Une partie n'est pas décomposé par l'activité microbienne par récalcitrante 
 
 La minéralisation sen montagne sont plus faible lié à l'acidité du sol ainsi que la température qui peut ralentir les processus. Peut de restitution de MO dans les sols dans les zones d'agriculture donc on a plutôt un appauvrissement.
 
-> Les matières organiques du sols sont l'ensemble des substances carbonées provenant des débris de végétaux, des déjections et des cadavres d'animaux. L'humus est la fraction colloïdale de la MO obtenue par synthèse microbienne et physico chimique à partir des MO fraîches. Les termes humification et minéralisation et l'utilisation du terme "humus".
+**Les matières organiques du sols sont l'ensemble des substances carbonées provenant des débris de végétaux, des déjections et des cadavres d'animaux. L'humus est la fraction colloïdale de la MO obtenue par synthèse microbienne et physico chimique à partir des MO fraîches. Les termes humification et minéralisation et l'utilisation du terme "humus".**
