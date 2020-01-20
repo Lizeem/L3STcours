@@ -53,8 +53,6 @@ Altération de la roche mère se fait par :
 
 Pour étudier les constituants minéraux des sols, deux approches possibles : selon leur taille et selon leur nature minéralogique et chimique
 
-1. Séparation selon la taille des éléments
-
 Analyse granulométrique : répartition des éléments minéraux selon leur grosseur et leur pourcentage massique dans un échantillon : définie la texture et renseigne sur les processus de pédogenèse notamment propriétés fonctionnelles.
 
 La granulométrie est en lien avec la structure : facteurs clés de la fertilité/qualité du sol.
@@ -65,9 +63,9 @@ Texture limoneuse: si excès de limon et insuffisance d’argile mauvaises propr
 
 Texture argileuse : sol riche chimiquement, mais imperméable et mal aéré
 
-2. Séparation selon la nature minéralogique des fractions : analyse de géologie plus difficile fonction de l'altération ou la présence de différents minéraux
+Séparation selon la nature minéralogique des fractions : analyse de géologie plus difficile fonction de l'altération ou la présence de différents minéraux
 
-3. Importance des argiles minéralogiques : silicates d'aluminium constitués de feuillets à couche de silice ou d'alumine
+Importance des argiles minéralogiques : silicates d'aluminium constitués de feuillets à couche de silice ou d'alumine
 
 Rôles importants dans la formation des agrégats -> ciment + fertilité chimique
 
