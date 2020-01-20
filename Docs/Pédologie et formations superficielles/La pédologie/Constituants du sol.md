@@ -1,39 +1,6 @@
-# Introduction
+# Les constituants du sol
 
-Un sol est un volume qui s'étend depuis la surface de la Terre jusqu'à une profondeur marquée par l'apparition d'une roche dure ou meuble, peu altérée ou peu marquée par la **pédogenèse**. L'épaisseur du sol peut varier de quelques centimètres à quelques dizaines de mètres. En France, l'épaisseur du sol peut aller jusqu'à 2 mètres. Il comporte le plus souvent plusieurs **horizons** correspondant à une organisation des constituants organiques et /ou minéraux. Il est un lieu d'une **intense activité biologique**. Le sol est aussi un **volume ouvert** en interface avec des échanges qui se passent dans le sol (phase solide, liquide et gazeuse) mais aussi à l'extérieur (atmosphère, litosphère, biosphère et hydrosphère).
-
-On peut étudier le sol à l'échelle du paysage mais aussi de façon plus local avec l'étude de profil de sol (horizon) ou encore l'étude des mycélium, des agrégats ou des pores présentent dans ce sol.
-
-L'horizon est une couche grossièrement parallèle à la surface du sol et dont l'existence est reconnue par l'observateur. Les horizons sont différents les uns des autres par leur constituants, leur organisation et leur comportement. Différents horizons d'un même sol donne un profil de sol.
-
-L'étude des sols comporte 2 aspects complémentaires et indissociables : 
-
-- aspect statique : études des constituants et des propriétés physiques chimiques ou biologiques du sol
-- aspect dynamique : étude de la pédogenèse et la formation des profil de sol
-
-Les sols se forment à l'aide de 5 facteurs différents : 
-
-- la nature de la roche mère
-- le climat
-- la topographie
-- les organismes vivants
-- le temps
-
-Le sol se transforme par des processus pédogénétiques avec des transformations de matière (altération, MO) mais aussi par des transferts de matières liés à l'eau. L'ensemble de ces mécanismes et de ces processus forment la **pédogenèse**.
-
-Pour décrire un profil de sol il faut :
-
-1. situer le contexte dans le pédo-paysage
-2. décrire le profil et horizons (forme d'humus, épaisseur)
-3. description fines des horizons (couleur, consistance, texture, taille)
-4. prélèvements d'échantillons et analyses complémentaires en laboratoire
-5. nommer / référencer les horizons et les rattacher à un profil de référence
-
-Le sol est un milieu menacé. En effet, il existe des dégradations biologiques, la perte de matière organique liés à une transformation du milieu. Ainsi que des menaces liés à l'érosion du sol, le sol étant un processus très lent, le tassement, les inondations ou l'imperméabilisation. Mais aussi des contaminations et des pollutions ainsi que la salinisation.
-
-## Les constituants du sol
-
-### Les différentes fractions
+## Les différentes fractions
 
 Le sol est un milieu triphasique : 
 
@@ -43,11 +10,11 @@ Le sol est un milieu triphasique :
 
 Le sol possède des constituants organiques, matières organiques fraîches ou des matières humiques. Ainsi que des constituants minérales avec des éléments fins et des éléments grossiers.
 
-#### Fraction gazeuse
+### Fraction gazeuse
 
 Le sol est composé des mêmes gaz que l'atmosphère, avec en plus des gaz provenant de la décomposition de la matière organique. Comme dans l'atmosphère, l'azote et l'oxygène sont les principales gaz dans le sol. En comparaison avec l'atmosphère, le dioxyde de carbone est plus présent dans le sol. Les fluctuations saisonnières sont importantes dues aux variations de l'activité biologique.
 
-#### Fraction organique
+### Fraction organique
 
 Un sol prend naissance dès que la moindre vie végétale et animale vient s'installer dans les débris d'altération de la roche mère, souvent regroupé sous le terme *matière organique*. La faune est les micro organismes représentent la MO vivantes, les résidus organiques fraîches et évolués représentent la MO facilement décomposable et l'humus représente la MO stable.
 
@@ -67,7 +34,7 @@ La minéralisation sen montagne sont plus faible lié à l'acidité du sol ainsi
 
 **Les matières organiques du sols sont l'ensemble des substances carbonées provenant des débris de végétaux, des déjections et des cadavres d'animaux. L'humus est la fraction colloïdale de la MO obtenue par synthèse microbienne et physico chimique à partir des MO fraîches. Les termes humification et minéralisation et l'utilisation du terme "humus".**
 
-#### Fraction minérale
+### Fraction minérale
 
 La fraction minérale du sol se compose d'éléments grossiers et d'éléments fins. Les éléments varie en terme de taille et de nature. Ils proviennent de l'altération des roches mères. Présence de minéraux primaires, minéraux pas ou peu altérés ainsi que des minéraux secondaires qui ont eu une transformation plus poussée provenant des minéraux primaires. Les minéraux secondaires forment **le complexe d'altération**, ils sont en association avec des matières organiques. Ils vont nous renseigner sur les processus de pédogenèse. 
 
@@ -81,8 +48,57 @@ Altération de la roche mère se fait par :
 1. hydratation : adjonction de molécules d'eau aux minéraux : fragilisation et ameublissement (hématite (Fe<sub>2</sub>O<sub>3</sub>) -> goethite (FeOOH))
 2. dissolution : altération de la roche mère par l'eau et ses substances dissoutes (roches salines, calcaires)
 3. oxydation : libération de Fe<sup>2+</sup> présent dans certains minéraux sous forme ferrique
-4. réduction : solubilisation de Fe<sub>2+</sub> à partir d'oxydes et d'hydroxydes de fer en milieu mal aérés
+4. réduction : solubilisation de Fe<sup>2+</sup> à partir d'oxydes et d'hydroxydes de fer en milieu mal aérés
 5. hydrolyse : processus le plus important : décomposition de la matière minérale à l'aide de matière organique et d'eau
 
+Pour étudier les constituants minéraux des sols, deux approches possibles : selon leur taille et selon leur nature minéralogique et chimique
 
+1. Séparation selon la taille des éléments
 
+Analyse granulométrique : répartition des éléments minéraux selon leur grosseur et leur pourcentage massique dans un échantillon : définie la texture et renseigne sur les processus de pédogenèse notamment propriétés fonctionnelles.
+
+La granulométrie est en lien avec la structure : facteurs clés de la fertilité/qualité du sol.
+
+Texture sableuse: sol aéré bien équilibré, facile à travailler mais pauvre en réserve en eau et éléments nutritifs
+
+Texture limoneuse: si excès de limon et insuffisance d’argile mauvaises propriétés physiques, structure massive (cf. battance)
+
+Texture argileuse : sol riche chimiquement, mais imperméable et mal aéré
+
+2. Séparation selon la nature minéralogique des fractions : analyse de géologie plus difficile fonction de l'altération ou la présence de différents minéraux
+
+3. Importance des argiles minéralogiques : silicates d'aluminium constitués de feuillets à couche de silice ou d'alumine
+
+Rôles importants dans la formation des agrégats -> ciment + fertilité chimique
+
+### Complexe argilo-humique
+
+Dans les sols, les argiles et l'humus peuvent s'associer et former le complexe argilo-humique. Ce complexe est formée par 3 modes de liaison argile - humus : 
+
+- intermédiaire du calcium : très stable, empêche une minéralisation trop rapide de la MO, s'oppose à la dispersion des argiles, confère au sol une teinte noire
+- intermédiaire du fer : fragile, sols décalcifiés ou riche en fer, colore le sol en brun
+- fixation directe de l'humus sur certaines charges positives de l'argile
+
+### Fraction liquide ou solution du sol
+
+La fraction liquide est très mobile dans le sol et à la surface 
+
+Solution du sol : eau dans laquelle sont dissoutes des substances solubles issues :
+
+- de l'altération des minéraux de la roche-mère
+- de la décomposition des MO
+- des apports par l'Homme
+  
+La solution du sol est soumise à d'importantes variations influençant les formes d'eau disponibles dans le sol.  
+
+Les propriétés et comportements des sols ont pour rôle : 
+
+- un facteur essentiel de l'altération de la roche-mère
+- conditionne l'activité biologique
+- influence les propriétés physiques des sols
+
+Mesures de la quantité d'eau dans les sols : 
+
+- taux d'humidité 
+- eau retenue dans le sol
+- eau libre de la nappe : piézométrie
