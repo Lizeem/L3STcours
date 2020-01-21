@@ -93,5 +93,32 @@ Plusieurs origines de pertes de charge existent :
 - changements de diamètres, courbes 
 - aux accessoires : vannes coudes
 
-### Protection de la tête de forage
+### Suivi du forage et rapport
+
+Une fois que le forage est creusé, il faut faire un suivi réglementaire dans lequel on a un certain nombre d'informations qui doit être disponible dans les rapport d'intervention.
+
+Un forage peut se dégrader dans le temps dû aux mauvaises exploitations. Il existe des réalisation incorrecte, qualité de construction, mode d'exploitation. On peut avoir des problèmes lié aux caractéristiques de l'aquifère.
+
+La corrosion est un processus chimique qui tend à détruire un matériau plongé dans un milieu avec lequel il est en déséquilibre.
+
+L'érosion avec l'usure des crépines si la vitesse de l'eau trop forte du au :
+
+- dimensionnement insuffisant d'ouverture des crépines
+- longueur insuffisante de la colonne de captage
+- mauvais positionnement de la pompe
+
+Le colmatage peut être d'origine différente. Il va réduire la perméabilité du milieu, réduction des performances du forage.
+
+- arrivée de sable dans la colonne de captage
+- colmatage massif filtrant
+- colmatage chimique
+- colmatage biologique
+
+Diagraphie : mesure en continu en fonction de la profondeur d'un paramètre physique.
+
+1. contrôle périodique
+2. des opérations d'entretien
+3. des opération de réhabilitation
+4. essai de pompage régulier
+5. abandon du forage
 

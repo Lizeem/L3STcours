@@ -94,3 +94,4 @@ Lorsque la quantité d'eau diminue dans le sol, la force de rétention F augment
 
 - aux effets de liaison autour des particules solides
 - aux effets de capillarités dans les pores
+
