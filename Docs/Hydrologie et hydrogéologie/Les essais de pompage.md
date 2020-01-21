@@ -38,3 +38,12 @@ Précautions :
 
 Pendant un forage, on met l'eau à delà de 50m du périmètre d'appel pour éviter quelle revienne dans le forage.
 
+Il existe deux types d'essais : 
+
+1. un essai par paliers enchaînés de débit croissants
+2. test par pompage continu
+
+La nature ne varie pas dans l'espace : homogénéité
+
+Isotropie : propriétés physiques, perméabilité, porosité..
+
