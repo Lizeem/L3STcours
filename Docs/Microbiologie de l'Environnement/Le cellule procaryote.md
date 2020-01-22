@@ -86,6 +86,12 @@ Les mycoplasmes proviennent de la classe des mollicutes. Ces bactéries sont pl�
 
 Les mycobactéries ont une paroi très particulière. Il y a la présence d'acide mycolique et de lipides externes. Les acides mycoliques sont de longues chaînes et de courtes chaînes d'acide gras, elle fait une membrane externe très imperméable, ces bactéries ont donc une croissance très lente.
 
+Chez les bactéries ont peu avoir des capsules : polymères synthétiser par les bactéries. Elles piègent les éléments nutritifs. Elles adhèrent aux cellules des tissus de l'hôte. Elles protègent contre les macrophages et protègent contre les agents antimicrobiens. Ce sont des exopolysaccharides bactériens.
+
+Il existe aussi des slime layer : structure lâche et diffuse, couche visqueuse. Va permettre à la cellule de se déplacer par glissement.
+
+Les biofilms sont des polysaccharides avec de l'ADN. Ils peuvent être en forme de tapis microbien, sur une roche ou dans une canalisation ou des objets dans l'eau.
+
 # Les archées
 
 ## La membrane cytoplasmique
@@ -108,4 +114,6 @@ Les parois sont différentes de celles des bactéries. La diversité est importa
 - pseudomuréines : paroi épaisse de 15 nm, elle ressemble au peptidoglycane.
 - polysaccharides (méthanochondroïtine) : polymère analogue au sulfate de chondroïtine
 - glycoprotéines : protéines glycosilé chargés négativement afin d'intéragir avec les ions Na de leur environnement
--    
+- les couches S : réseau paracristallin de glycoprotéines ou exclusivement formée de protéine
+- gaines protéiques : enveloppe externe 
+  
