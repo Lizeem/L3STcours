@@ -74,13 +74,17 @@ Les acides teichoïques sont des polymères de glycérol phosphate comprenant de
 
 Feuillet : succession de chaîne ou il y a des tétrapeptides où on aura des associations entre ces chaînes.
 
-Les bactéries à Gram négatif ont une épaisseur plus faible. Il y a un décollement de la membrane cytoplasmique avec au dessus un peptidoglycane très fin de 2 ou 3 feuillets. Cependant la bactérie à Gram négatif possède une deuxième membrane. Entre les deux membranes on a un espace périplasmique entre la membrane cytoplasmique et la paroi externe.
+Les bactéries à Gram négatif ont une épaisseur plus faible. Il y a un décollement de la membrane cytoplasmique avec au dessus un peptidoglycane très fin de 2 ou 3 feuillets. Cependant la bactérie à Gram négatif possède une deuxième membrane. Entre les deux membranes on a un espace périplasmique entre la membrane cytoplasmique et la paroi externe. Sur la partie extérieur de la paroi externe, on a des des sucres qui varient en fonction des bactéries.
 
 (structure de la paroi des bactéries à Gram négatif)
 
 [paroi bactérienne](https://www.ebiologie.fr/cours/s/7/la-paroi-bacterienne)
 
+## Les mycoplasmes 
 
+Les mycoplasmes proviennent de la classe des mollicutes. Ces bactéries sont pléomorphes car elles n'ont pas de paroi car elles ne savent pas synthétiser les précurseurs de peptidoglycane. Parasites des cellules humaines ou végétales. Elles sont sensibles aux chocs osmotiques mais pas à la pénicilline. 
+
+Les mycobactéries ont une paroi très particulière. Il y a la présence d'acide mycolique et de lipides externes. Les acides mycoliques sont de longues chaînes et de courtes chaînes d'acide gras, elle fait une membrane externe très imperméable, ces bactéries ont donc une croissance très lente.
 
 # Les archées
 
@@ -97,3 +101,11 @@ La membrane des archées est moins perméable aux ions mais permet une meilleure
 
 (différence entre les archées et les bactéries)
 
+## La paroi
+
+Les parois sont différentes de celles des bactéries. La diversité est importante dans la structure des parois. Elles sont résistances aux antibiotiques et aux enzymes lytiques. C'est un système qui peut être composées de 5 différentes éléments présentes ou non.
+
+- pseudomuréines : paroi épaisse de 15 nm, elle ressemble au peptidoglycane.
+- polysaccharides (méthanochondroïtine) : polymère analogue au sulfate de chondroïtine
+- glycoprotéines : protéines glycosilé chargés négativement afin d'intéragir avec les ions Na de leur environnement
+-    
