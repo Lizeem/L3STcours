@@ -90,7 +90,26 @@ Chez les bactéries ont peu avoir des capsules : polymères synthétiser par les
 
 Il existe aussi des slime layer : structure lâche et diffuse, couche visqueuse. Va permettre à la cellule de se déplacer par glissement.
 
-Les biofilms sont des polysaccharides avec de l'ADN. Ils peuvent être en forme de tapis microbien, sur une roche ou dans une canalisation ou des objets dans l'eau.
+Les biofilms sont des polysaccharides avec de l'ADN. Ils peuvent être en forme de tapis microbien, sur une roche ou dans une canalisation ou des objets dans l'eau. 
+
+## La mobilité
+
+Les bactéries peuvent se développer de multiples façon : 
+
+- par le swarming : de manière collective comme un essaim d'abeille. Elles se divisent par période et vont se déplacer toute en même temps. En avançant elle vont synthétiser un biosurfactant qui va diminuer la tension en surface pour le déplacement. 
+- par la nage : présence flagelle, on identifie la bactérie à l'aide de la flagelline sur le flagelle. Différents mode de répartition sur la cellule. Le flagelle est constitué d'un filament flagellaire relié par un strator  et le rotor qui va tourner qui va permettre de faire tourner le flagelle
+- par rétraction : spiderman, retient plusieurs pillis, quand elle lache un pilli elle se déplace dans la direction d'un autre. 
+- par glissement : membrane externe qui va sécréter des polysaccharides qui vont permettre de glisser sur la surface ou char d'assaut -> déplacement des protéines (adhésines) au niveau de la membrane externe. Les adhésines sont reliés par des structures qui bougent.
+
+Les bactéries se déplacent en réponse à un tactisme : signal environnemental par : 
+
+- chimiotactisme
+- magnétotactisme
+- phototactisme, aérotasctisme ..
+
+
+
+
 
 # Les archées
 
