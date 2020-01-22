@@ -55,6 +55,33 @@ Les plasmides portent des gènes qui permettent aux micro organismes de s'adapte
 
 Quand une bactérie à un plasmide, si elle le réplique c'est qu'il y a un avantage pour elle car ça coûte beaucoup d'énergie.
 
+## La paroi des cellules
+
+La paroi sert à : 
+
+- la protection contre les chocs osmotiques
+- confère la forme des micro organismes (25 à 35% du poids total)
+- spécificité antigénique de la bactérie
+- support de l'action d'enzymes exogènes (lysozyme) ou antibiotiques
+
+On distingue la nature de la paroi à l'aide de la coloration de Gram.
+
+Les bactéries à Gram positif, la paroi est épaisse. Jusqu'à 40% du poids sec de la bactérie, le taux peptidoglycane est très important dans la cellule. 
+
+(structure de la paroi des bactéries à Gram positif)
+
+Les acides teichoïques sont des polymères de glycérol phosphate comprenant des résidus glucose et galactose et de la D-alanine. Les acides sont connectés au peptido glycane directement ou aux lipides de la membrane plasmique : acides lipotéichoiques donnent à la paroi leur charge négative. Les différents feuillets compose le peptidoglycane. Ce dernier est hétéropolysaccharide. Feuillets de peptidoglycane reposant les uns sur les autres. Le peptidoglycane est constitué de chaîne de Nam et Nag. Le groupe carboxyle du Nam sont des chaînes latérales de tétrapeptides constituées de 4 acides animés en alternance. Le pontage (liaison) est très important chez les bactéries à Gram positif ou pontage direct chez les Gram négatif.
+
+Feuillet : succession de chaîne ou il y a des tétrapeptides où on aura des associations entre ces chaînes.
+
+Les bactéries à Gram négatif ont une épaisseur plus faible. Il y a un décollement de la membrane cytoplasmique avec au dessus un peptidoglycane très fin de 2 ou 3 feuillets. Cependant la bactérie à Gram négatif possède une deuxième membrane. Entre les deux membranes on a un espace périplasmique entre la membrane cytoplasmique et la paroi externe.
+
+(structure de la paroi des bactéries à Gram négatif)
+
+[paroi bactérienne](https://www.ebiologie.fr/cours/s/7/la-paroi-bacterienne)
+
+
+
 # Les archées
 
 ## La membrane cytoplasmique
