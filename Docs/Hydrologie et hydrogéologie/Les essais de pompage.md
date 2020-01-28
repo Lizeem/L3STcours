@@ -47,3 +47,34 @@ La nature ne varie pas dans l'espace : homogénéité
 
 Isotropie : propriétés physiques, perméabilité, porosité..
 
+## Essais de puits 
+
+Le forage est un instrument qui sera à l'interface entre la nappe et le milieu d'exploitation, ce qui va engendrer une perturbation dans les caractéristiques de l'ouvrage. Le forage est bon si les caractéristiques de l'ouvrage sont proches des caractéristiques du milieu.
+
+Rabattement : différence entre la vitesse statique et vitesse dynamique
+
+Le rabattement de l'aquifère se fait avec la [formule de Jacob](https://www.emse.fr/~bouchardon/enseignement/processus-naturels/up3/web/essais-pompage-2003-e.html#_Remont%E9e_de_la) 
+
+Effet de Skin : perte de charge linéaires générées aux parois du forage suite : 
+
+- au colmatage de la couche aquifère périphérique : skin positif
+- à sa fissuration : skin négatif
+
+Effet de capacité : écart entre l'évolution du rabattement déterminé par le pompage dans un puits idéal dont le diamètre serait négligeable et le rabattement observé dans un puits réel dont le diamètre n'est pas négligeable. C'est un effet de retard des rabattements dont la durée dépend des dimensions du puits et des paramètres de l'aquifère.
+
+Effet de vidange : cette effet résulte de l'absence ou du fonctionnement d'un clapet anti-retour à la base de la colonne de refoulement.
+
+## Détermination des origines des masses d'eau et des limites de l'aquifère
+
+Deux types de limites : 
+
+- étanche : faille 
+- réalimentation :
+  - par la surface
+  - par une autre nappe
+  - par drainage
+
+Mesurer la vitesse permet de définir les régimes permanents (vitesse est stable dans le temps et l'accélération est nulle) et transitoires (vitesse diminue au cours du temps mais l'accélération ne change pas).
+
+Au départ, on a un régime transitoire dû à l'effet de capacité, il faut vider avant de pomper.
+
