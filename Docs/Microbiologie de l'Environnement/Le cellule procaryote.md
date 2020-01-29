@@ -97,7 +97,7 @@ Les biofilms sont des polysaccharides avec de l'ADN. Ils peuvent être en forme 
 Les bactéries peuvent se développer de multiples façon : 
 
 - par le swarming : de manière collective comme un essaim d'abeille. Elles se divisent par période et vont se déplacer toute en même temps. En avançant elle vont synthétiser un biosurfactant qui va diminuer la tension en surface pour le déplacement. 
-- par la nage : présence flagelle, on identifie la bactérie à l'aide de la flagelline sur le flagelle. Différents mode de répartition sur la cellule. Le flagelle est constitué d'un filament flagellaire relié par un strator  et le rotor qui va tourner qui va permettre de faire tourner le flagelle
+- par la nage : présence flagelle, on identifie la bactérie à l'aide de la flagelline sur le flagelle. Différents mode de répartition sur la cellule. Le flagelle est constitué d'un filament flagellaire relié par un stator  et le rotor qui va tourner qui va permettre de faire tourner le flagelle
 - par rétraction : spiderman, retient plusieurs pilis, quand elle lâche un pili elle se déplace dans la direction d'un autre. 
 - par glissement : membrane externe qui va sécréter des polysaccharides qui vont permettre de glisser sur la surface ou char d'assaut -> déplacement des protéines (adhésines) au niveau de la membrane externe. Les adhésines sont reliés par des structures qui bougent.
 
@@ -109,7 +109,31 @@ Les bactéries se déplacent en réponse à un tactisme : signal environnemental
 
 Les pilis sont des appendices protéiques qui sont fréquent chez les Gram négatif. Ils sont beaucoup plus court que les flagelles. Ils ont un rôle d'adhésion. 
 
+## Formes de résistance chez les micro organismes
 
+### L'endospore bactérienne
+
+Certaines genres de bactéries à Gram positif peuvent se différencier en un structure inerte au niveau métabolique. 
+
+Structure d'une spore du centre vers la périphérie : 
+
+- core/noyau où on retrouve le chromosome : milieu très déshydraté, consistance d'un gel.
+
+- membrane interne qui ne laisse rien passer : lipides immobiles, faible perméabilité, protège l'ADN du core (agents chimiques). Fin peptidoglycane entourant la membrane interne qui devient la paroi lors de la germination. Possède des protéines SASPs qui entourent l'ADN et le protège, et sont source de carbone et d'énergie. 
+   
+- cortex, peptidoglycane modifié 
+  
+- membrane externe perméable : ne joue pas le rôle d'une barrière imperméable contrairement à la membrane interne
+  
+- les tuniques sporales
+
+- (exosporium) : couche para cristalline de protéines, entourée par une bordure en brosse formée de filaments externes. Il a un rôle de protection. Elle a un espace important avec les tuniques sporales. Elle est facultative. 
+
+## Autres formes de résistance chez les micro organismes
+
+### Les akinètes des cyanobactéries
+
+Les akinètes des cyanobactéries sont des cellules aux parois épaisses formées en réponse à une carence du milieu, obscurité, dessication ou froid par certains genres de cyanobactéries.
 
 # Les archées
 
