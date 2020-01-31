@@ -138,7 +138,7 @@ Structure d'une spore du centre vers la périphérie :
 
 - (exosporium) : couche para cristalline de protéines, entourée par une bordure en brosse formée de filaments externes. Il a un rôle de protection. Elle a un espace important avec les tuniques sporales. Elle est facultative. 
 
-![Structure d'une spore](Images/structurespore.PNG)
+![Structure d'une spore](Images/structuresspore.PNG)
 
 ## Autres formes de résistance chez les micro organismes
 
