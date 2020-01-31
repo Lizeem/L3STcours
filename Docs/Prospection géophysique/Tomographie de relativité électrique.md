@@ -59,7 +59,7 @@ Le dispositif Wenner - Schlumberger est recommandé à la fois pour les structur
 
 En présence d'un terrain bruité et sans aucune connaissance préalable de la géométrie du corps à étudier, il est conseillé d'utiliser de préférence un dispositif Wenner-Schlumberger. Ce dispositif peut à la fois être utilisé en recherche géologique à grande échelle, en hydrogéologie, en génie-civil, en archéologie et pour des problèmes d'environnement. 
 
-Si l'on recherche des structures verticales dans une zone qui n'est pas trop bruitée, avec un résistivi-mètre est assez sensible et un bon contact avec le sol, il est recommandé d'utiliser un dispositif Dipôle-Dipôle. Ce dispositif peut par exemple convenir en archéologie, en géophysique minière et en génie-civil.
+Si l'on recherche des structures verticales dans une zone qui n'est pas trop bruitée, avec un résistivimètre est assez sensible et un bon contact avec le sol, il est recommandé d'utiliser un dispositif Dipôle-Dipôle. Ce dispositif peut par exemple convenir en archéologie, en géophysique minière et en génie-civil.
 
 Lorsqu' il s'agit de mettre en évidence des structures horizontales, si le terrain n'est pas trop bruité et que l'on dispose de peu de temps, on utilise un dispositif Wenner. 
 
@@ -72,8 +72,6 @@ Il existe deux modes de prospections. Le profilage de la prospection et le sonda
 ### Le profilage
 
 Le profilage est le fait de trouver des anomalies. Pour cela on bouge les électrodes en réalisant plusieurs traînées de même distance. Les résultats d'un ensemble de profils sont représentés sous forme de cartes de résistivités. Une carte de résistivité doit être accompagnée de la longueur de ligne utilisée, de l'échelle, de l'espacement des mesures, d'une légende permettant de localiser l'étude.
-
-![Carte spatiale réalisée par un profilage](Images/profilage.PNG)
 
 On peut faire seulement une traînée afin d'avoir un profil topographique sur cette distance où on réalise une mesure de résistivité sur plusieurs couches. 
 
@@ -89,6 +87,18 @@ Le sondage est un dispositif qui ne va pas bouger en surface. On écarte seuleme
 
 On effectue 10 mesures de résistivité apparente avec une inter mesure de 10m.
 La distance entre A et B est de 30m. 0.11x30 = 3,3m de profondeur d'investigation si on prend Roy. Nous pouvons aussi prendre Barker. On utilise l'abaque pour le cas vertical.
+
+### Profilage et sondage simultanés
+
+On utilise un dispositif de type Wenner où on va profiler le sol en écartant de plus en plus les sondes ce qui va permettre de descendre de plus en plus en profondeur. Cependant plus on descend en profondeur, moins on a de mesure en profondeur. Afin d'en avoir plus, on ajoute des électrodes. Comme cela on a une idée de l'hétérogénéité en latéral mais aussi en profondeur. C'esr la pseudo - section de résistivité apparente.
+
+![Pseudo-section de résistivité apparente](Images/pseudosection.PNG)
+
+Les points d'une image du modèle de résistivité représentent la porosité.
+
+Pour faire l'interprétation, il faut un modèle numérique. On divise les zones de mesures en blocs de mêmes tailles et essayer de trouver la résistivité de chaque bloc. Pour chaque bloc une valeur sera proposée de façon théorique et mathématiques. On va essayer d'avoir le meilleur modèle, celui qui se rapproche le plus de la zone mesurée. La coupe géologique pourra ensuite être interprété.
+
+Plus un milieu est résistant, moins il est conducteur.
 
 
 
