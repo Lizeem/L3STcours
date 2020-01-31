@@ -159,7 +159,7 @@ Chez les archées ont a deux types de membranes,
 
 La membrane des archées est moins perméable aux ions mais permet une meilleure adaptation au stress énergétique. La membrane atypique des archées leur permet de mieux résister aux conditions extrêmes.
 
-![Phospholipide](Images/membranearchéebactéri.PNG.PNG)
+![Phospholipide](Images/membranearchéebactéri.PNG)
 
 ## La paroi
 
