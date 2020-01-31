@@ -2,7 +2,7 @@
 
 Une cellule procaryote n'a pas de noyau, pas d'organites, pas de compartiments intracellulaire. Ce sont des cellules **haploïdes**. Les cellules procaryotes sont les archées et les bactéries. 
 
-![Cellule procaryote](Images/celluleprocaryot.PNG.PNG)
+![Cellule procaryote](Images/celluleprocaryot.PNG)
 
 # Les bactéries 
 
@@ -24,7 +24,7 @@ Elles peuvent être aussi chimiotrophes. [bactéries chimiotrophes](https://www.
 
 La membrane possède une bi couche, une partie hydrophobe et une partie hydrophile constitués de phospholipides qui possède une tête polaire et une queue apolaire constitué d'acide gras. Le D-glycérol, partie de la tête est reliée à deux chaînes d'acide gras par une liaison ester
 
-![Phospholipide](Images/phospholipid.PNG.PNG)
+![Phospholipide](Images/phospholipid.PNG)
 
 La chaîne d'acide gras est constituée de 12 à 18 carbones. Il n'y a pas de stérols, vitaux pour le fonctionnement cellulaire et précurseur de vitamines et d'hormones stéroïdiennes liposolubles, mais une présence d'hopanoïdes, composé organique penta cyclique jouant un rôle similaire aux stérols. Les hopanoïdes ainsi que la composition des acides gras nous permettent de faire la taxonomie.
 
@@ -69,7 +69,7 @@ On distingue la nature de la paroi à l'aide de la coloration de Gram.
 
 Les bactéries à Gram positif ont une paroi épaisse. Jusqu'à 40% du poids sec de la bactérie, le taux peptidoglycane est très important dans la cellule. 
 
-![Structure de la paroi des bactéries à Gram positif](Images/gram++.PNG.PNG)
+![Structure de la paroi des bactéries à Gram positif](Images/gram++.PNG)
 
 Les acides teichoïques sont des polymères de glycérol phosphate comprenant des résidus glucose et galactose et de la D-alanine. Les acides sont connectés au peptido glycane directement ou aux lipides de la membrane plasmique : acides lipotéichoiques donnent à la paroi leur charge négative. Les différents feuillets compose le peptidoglycane. Ce dernier est hétéropolysaccharide. Feuillets de peptidoglycane reposant les uns sur les autres. Le peptidoglycane est constitué de chaîne de Nam et Nag. Le groupe carboxyle du Nam sont des chaînes latérales de tétrapeptides constituées de 4 acides animés en alternance. Le pontage (liaison) est très important chez les bactéries à Gram positif.
 
@@ -77,7 +77,7 @@ Les acides teichoïques sont absents chez les Gram- où le pontage est direct.
 
 Feuillet : succession de chaîne ou il y a des tétrapeptides où on aura des associations entre ces chaînes.
 
-![Le pontage chez les Gram+ et Gram-](Images/pontag.PNG.PNG)
+![Le pontage chez les Gram+ et Gram-](Images/pontag.PNG)
 
 Les bactéries à Gram négatif ont une épaisseur plus faible. Il y a un décollement de la membrane cytoplasmique avec au dessus un peptidoglycane très fin de 2 ou 3 feuillets. Cependant la bactérie à Gram négatif possède une deuxième membrane. Entre les deux membranes on a un espace périplasmique entre la membrane cytoplasmique et la paroi externe. Sur la partie extérieur de la paroi externe, on a des sucres qui varient en fonction des bactéries.
 
