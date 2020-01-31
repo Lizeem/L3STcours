@@ -170,3 +170,4 @@ Les parois sont différentes de celles des bactéries. La diversité est importa
 - glycoprotéines : protéines glycosilé chargés négativement afin d'intéragir avec les ions Na de leur environnement
 - les couches S : réseau para cristallin de glycoprotéines ou exclusivement formée de protéine
 - gaines protéiques : enveloppe externe constitue un fourreau tubulaire composé essentiellement de protéines et de composés glucidique
+
