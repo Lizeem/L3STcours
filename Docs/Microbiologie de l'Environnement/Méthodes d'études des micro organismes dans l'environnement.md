@@ -32,6 +32,47 @@ Deux grandes approches d'extraction des acides nucléiques :
     
 - indirecte : lyse de bactéries isolée, lavages puis extraction des acides nucléiques, moins fragmenté, moins de contaminants co-purifiés
 
+## Représentativité des résultats
+
+On analyse trois fois de suite afin d'avoir le plus de fiabilité possible
+
+## Approche culturales
+
+mésophile : bactérie de culture à température ambiante
+
+psychrophile : bactérie de culture à basse température
+
+thermophile : bactérie de culture à haute température
+
+### Techniques microscopiques
+
+Principe : utilisation de molécules vont rendre la bactérie fluorescente et permettre de quantifier chaque molécule.
+
+Chromophores : molécules excitées à une molécule
+
+Outils : DAPI  mais on ne sait pas si elles sont mortes ou pas
+
+DAPI : fluorochrome spécifique de l'ADN, excité sous la lumière UV émet une lumière bleue. Quand il n'est pas associé à l'ADN, il sera jaune. Mais parfois des particules organo-minérales ont un amas de bactéries. On utilise les ultra sons les bactéries vont être dissociées des particules. On ne peut pas déterminer l'espèce de la bactérie. 
+
+Dénombrement des bactéries viables : DVC en utilisant de l'acide nalidixique qui va inhiber la réplication de l'ADN. La bactérie va rester sous forme très allongée.
+
+Sinon : évaluation de l'intégrité membranaire à l'aide de deux marqueurs fluorescents. Le premier marqueur va colorée toutes les bactéries en vert, le deuxième marqueur va coloré en rouge toutes les bactéries mortes car les parois seront abîmées.
+
+Ne permet pas de donner des informations sur la diversité des bactéries. Fastidieux au niveau du dénombrement. Problème d'association avec les particules.
+
+Anticorps fluorescents : utilisation d'anticorps fluorescents dirigés contre un épitote du micro organisme d'interet et sont couplés à une molécule fluorescente. Intérêt : quantifier spécifiquement certains genres bactéries d'un échantillons de l'environnement. On va dénombrer les bactéries mortes. On a pas les anticorps spécifique de toutes les bactéries, si on ne sait pas les cultivés, on ne va pas les dénombrer.
+
+FISH : utiliser les séquences nucléiques (ADN ou ARNr) pour détecter, quantifier ou identifier les bactéries (toute ou genre ou espèce) d'un échantillon. Séquence cible : ARNr 16S de procaryotes : motifs hautement conservés, motifs variables en fonction de l'espèce moléculaire. Fixation -> perméabilisation. On ne dénombre que les viables car les bactéries mortes ont très peu de ribosomes. Les sondes vont se coller uniquement sur des régions spécifiques des espèces.
+
+Quantification activité enzymatique : permet de quantifier des bactéries viables d'un échantillon d'eau
+
+QPCR : quantification du nombre de copies ADNr 16S par qPCR (amplification de gène) -> copie a partir de fragment d'ADN
+
+
+
+
+
+
 
 
 
