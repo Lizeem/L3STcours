@@ -4,16 +4,25 @@
 
 Les roches sont classées en trois groupes selon leur origine : 
 
-- magmatiques
-- métamorphiques
-- sédimentaires
+- magmatiques : cristallisation totale d’un magma (plutoniques ou intrusives) ou partielle (volcaniques ou effusives)
+- métamorphiques : recristallisation et/ou réarrangement en milieu solide de roches préexistantes
+- sédimentaires : transformation diagénétique plus ou moins intense de sédiments
   
 Les roches sont classées en deux catégories selon leur propriétés mécaniques :
 
-- meubles
-- cohérentes ou indurées
+- meubles : ne présentent aucune cohésion, peuvent s’imprégner d’eau et se déformer par fluage sur les versants
+exemples : sables, limons, argiles, marnes, moraines, cendres volcaniques, …
+- cohérentes ou indurées : résistent bien à l’eau, semblent massives et résistantes
+exemples : grès, calcaires, granites, gneiss, basaltes, …
 
-Les roches cohérentes sont fragilisées par des **discontinuités** qui se matérialisent souvent par des fissures, des fentes, des fractures qui facilitent la circulation des eaux d'infiltration. Les roches sont toutes soumises à des champs de contraintes externes.
+Les roches cohérentes sont fragilisées par des **discontinuités** qui se matérialisent souvent par des fissures, des fentes, des fractures qui facilitent la circulation des eaux d'infiltration. 
+
+- communes à toutes les roches cohérentes : failles, diaclases, schistosité de fracture
+- propres aux roches sédimentaires cohérentes : joints de stratification (interruption), stylolites (surfaces de dissolution)
+- propres aux roches magmatiques : plan de fluidalité
+- propres aux roches métamorphiques : schistosité de flux (réorganisation physique), plans de foliation (recristaliisation)
+
+Les roches sont toutes soumises à des champs de contraintes externes et à la relaxation des contraintes internes.
 
 ## La météorisation
 
@@ -23,16 +32,16 @@ Les principaux agents météoriques :
 
 - l'eau
 - l'air
-- les particules en suspension
+- les particules en suspension et les éléments chimiques
 
 Les mécanismes physiques conduisent les roches à se fragmenter sous l'effet :
 
-- thermoclastie 
-- cryoclastie
-- hygroclastie
-- haloclastie
+- thermoclastie : variation de la température
+- cryoclastie : alternance gel-dégel
+- hygroclastie : variation de la teneur en eau
+- haloclastie : la teneur en sel
 
-L'altération chimique par les agents météorique provoque une transformation profonde à basses pression/température (ce qui exclut la diagenèse et le métamorphisme). Les mécanismes physiques augmentent la perméabilité des roches ainsi que leur surface de contact avec les fluides et favorisent ainsi l'altération chimique.
+L'altération chimique par les agents météorique provoque une transformation profonde à basses pression/température (ce qui exclut la diagenèse et le métamorphisme). Les mécanismes physiques augmentent la perméabilité des roches ainsi que leur surface de contact avec les fluides et favorisent ainsi l'altération chimique et biochimique.
 
 ### La thermoclastie
 
@@ -44,7 +53,7 @@ Elle dépend des paramètres internes (porosité, composition..) et externes (cl
 
 La cryoclastie est définie comme l'action du gel sur les roches a été identifiée depuis très longtemps, aussi bien sur les affleurements rocheux que sur les pierres des bâtiment.
 
-L'ensemble des explications s'accorde à dire que l'action du gel n'est efficace que si le matériau contient une certaine quantité d'eau mais il s'agit d'un mécanisme complexe qui ne se limite pas aux effets de l'expansion volumétrique associé au changement de phase de l'eau
+L'action du gel n'est efficace que si le matériau contient une certaine quantité d'eau mais il s'agit d'un mécanisme complexe qui ne se limite pas aux effets de l'expansion volumétrique associé au changement de phase de l'eau.
 
 ### L'haloclastie
 
