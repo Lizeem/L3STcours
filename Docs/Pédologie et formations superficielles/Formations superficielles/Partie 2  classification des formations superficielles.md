@@ -1,4 +1,4 @@
-# Quelques rappels
+# Partie 2 : Classification des formations superficielles
 
 La classification des formations superficielles est établie en fonction de deux paramètres qui déterminent leur nature
 et leur comportement :
