@@ -50,7 +50,7 @@ Porosité selon leurs origines :
 
 La porosité renseigne sur les capacités hydriques ou atmosphérique d'un sol, en volume ou en flux. La circulation de l'eau dépend aussi des relations entre les vides et de leur mode d'arrangement, la seule mesure de la porosité ne suffit donc pas. Le potentiel général de circulation d'eau est mieux révélé par sa conductivité hydraulique qui reflète la capacité de transfert de l'eau dans le sol en intégrant structure, porosité, forme des connections et degré de relation entre les vides. La circulation de l'air est déterminante pour la croissance racinaire et l'activité de la microflore, très sensible à l'anoxie.
 
-## II. L'eau dans le sol : circulation, rétention et disponibilité
+### 4. L'eau dans le sol : circulation, rétention et disponibilité
 
 Eau du sol : facteur édaphique important aussi bien pour les plantes "aériennes" et les micro-organismes que pour la faune endogée. L'eau intervient dans la nutrition des plantes directement et indirectement, en tant que vecteur des éléments dissous. Bien faire la distinction entre : 
 
@@ -94,4 +94,140 @@ Lorsque la quantité d'eau diminue dans le sol, la force de rétention F augment
 
 - aux effets de liaison autour des particules solides
 - aux effets de capillarités dans les pores
+
+## II. Propriétés chimiques du sol
+
+### 1. Richesse en éléments
+
+Richesse en éléments : réserves en ions potentiellement disponibles pour les végétaux. Il comprend des ions en solution et des ions sur le complexe CAH. Les argiles, l'humus et le complexe argilo-humique déterminent la capacité de rétention sur leur surface des ions de la solution du sol (pouvoir absorbant).
+
+L'échange d'ions obéit à une loi d'équivalence. Un équivalent - gramme de K<sup>+</sup> est échangé contre un équivalent - gramme de Ca<sup>2+</sup>. Les ions ainsi fixés sur le complexe sont échangeables.
+
+Trois valeurs caractéristiques : 
+
+1. **Capacité d'échange cationique totale** (T) : quantité maximale de cations qu'un poids déterminé de sol est capable de retenir. Plus il y aura de minéraux chargés négativement, plus la capacité d'échange cationique sera forte.
+
+2. **Somme des bases échangeables** (S) : quantité de cations échangeables fixés sur le complexe à un moment donné (Ca<sup>2+</sup>, Na<sup>+</sup>, K<sup>+</sup>, Mg<sup>2+</sup>). La différence (T-S) représente  l'acidité d'échange c'est à dire la quantité de H<sup>+</sup> et de Al<sub>3+</sup> fixés.
+
+3. **Taux de saturation en bases** (V) est le rapport V = S/T x 100
+
+- sols calcaires, riches en calcaire actif : V = 80-90% 
+- sols formés sur une roche mère sableuse, gréneuse ou granitique pauvres en bases filtrantes : V = <20%.
+
+Plus les argiles ont des feuillets, plus elles ont la capacité d'échange cationiques. Lorsque qu'on a un sol très acide, celui - ci est désaturé en base contrairement aux sols plus basique où on aura plus de carbonate qui vont fixés l'eau est le Co<sub>2</sub> qui seront saturés en base.
+
+### 2. Le pH du sol
+
+Le pH mesure l'activité du sol par la concentration des ions H<sup>+</sup>. pH = -log10 a(H<sup>+</sup>) (avec a lié à la concentration en proton).
+
+- H<sup>+</sup> présents dans la solution de sol
+- H<sup>+</sup> fixés sur le CAH (adsorbés)
+
+Deux mesures de pH sont distinguées : 
+
+- acidité actuelle pH<sub>eau</sub> : il ne prend pas en compte que les H<sup>+</sup> de la solution du sol (pas d'échange)
+- acidité potentiel pH<sub>KCL</sub> : prend en compte les H<sup>+</sup> de la solution du sol et ceux fixés sur le complexe adsorbant (CAH). Mise en solution des H<sup>+</sup> adsorbés par ajout de KCL ; K<sup>+</sup> remplacement sur les H<sup>+</sup> sur le CAH.
+
+Le pH<sub>eau</sub> est plus utile dans l'étude des relations sol-plante ou pour comprendre des processus fonctionnels à court terme.
+
+pH<sub>KCL</sub> < pH<sub>eau</sub> -> delta pH : acidité d'échange ou réserve sur le complexe adsorbant. Il varie entre 0,2 et 1,5. L'acidité de réserve est plus faible dans un sol où il y a un pH assez important.
+
+Un sol a tendance à se décalcifié à l'aide de l'eau qui est un peu acide. Des H<sup>+</sup> prennent la place des Ca<sup>2+</sup>.
+
+Notion de pouvoir tampon des sols : capacité d'un sol à résister aux variations de pH, en cas d'apports d'acides ou de bases.
+
+La majorité de sols des régions tempérées ont des pH<sub>eau</sub> compris entre 4 et 7,5.
+
+Deux sources principales : 
+
+- teneur en eau du sol -> dilution dans la solution du sol, précipitations
+- activité biologique (émission d'acides organiques, respiration, prélèvement d'ions)
+
+Conséquences : variation saisonnière, pH plus faible en été / pH plus fort en hiver
+
+Mais cela peut être aussi lié aux activité anthropiques agricoles avec les apports d'engrais ainsi que des retombée atmosphériques comme les pluies acides.
+
+Le pH joue un rôle direct dans la solubilité et disponibilité des ions. Plus on aura un pH basique, plus on aura une disponibilité d'azote dans les plantes. Plus les pH seront faible, plus l'azote de type ammonium sera importante. Le nitrate est la forme la plus utiliser par les plantes. Optimum de pH au plan agronomique pour l'assimilabilité des éléments fertilisants et des oligo-éléments : 6,5 < pH < 7,5 (en sols non calcaires). Un seuil à connaître : pH<sub>eau</sub> < 5 -> présence de Al<sup>3+</sup> (risque de toxicité aluminique pour cultures type blé, orge, maïs, luzerne). Mobilité et disponibilité des éléments-traces métalliques (ETM) : rétention du cadmium par phase solide croît exponentiellement avec les pH croissants (très forte si pH > 6,5). Facteur important pour les organismes (vers de terre, bactéries -> patrons globaux de distribution).
+
+### 3. Potentiel d'oxydo - réduction
+
+Potentiel d'oxydo - réduction (Eh) indique le degré auquel une substance peut oxyder ou réduire une autre substance. Valeur qui reflète les transferts quantitatifs d'électrons des donneurs vers les accepteurs, mesurée au moyen d'un électrode de platine combinée exprimée en mV. Il dépend de la disponibilité de l'oxygène dans les sols : indication sur les processus et l'activité biologique.
+
+Le Eh du sol se répartit en 4 domaines :
+
+- de 800 à 450 mV : O<sub>2</sub> est fortement présent et la nitrification active, la MO est décomposée plus ou moins rapidement
+- de 0 à -200 mV : milieu anoxique, la MO se décompose par fermentation anaérobie, des sels ferreux s'accumulent, teintant le matériau en gris bleuâtre - verdâtre (sol hydromorphe).
+  
+## III. Les propriétés biologiques du sol
+
+### 1. Biodiversité des sols
+
+La diversité biologique décrit la variété de l'ensemble des organismes vivants dans tous les environnements à différents niveaux d'organisation du gène à la biosphère en passant par l'espèces, la communauté et le paysage.  Biodiversité des sols : le sol est le compartiment des écosystèmes terrestres le plus riche en espèces, donc potentiellement un des plus vulnérables. Les atteintes au sol dont l'érosion de sa biodiversité sont prises en compte dans la stratégie européenne de protection des sols.
+
+Un organisme du sol est un organismes qui a au moins un stade de leur cycle de vie dans le sol.
+
+Classification par taille : 
+
+- microfaune : organisme aquatique de taille < 0,2 mm
+- mésofaune : organisme aérien 0,2 < taille < 2 mm
+- macrofaune : organisme qui vivent dans la litière ou les galeries 2mm < taille < 10 cm
+- mégafaune : organisme de taille > 10 cm
+
+Classification écomorphologique : 
+
+- espèces endogées : vivent dans le sol en permanence et creuse des galeries horizontales, importance dans la dynamique de la MO dans le sol
+- espèces épigées : vivent en surface dans de la MO. Ils consomment les litières mortes, plus petits, plus colorés et vot fragmenter la litière 
+- espèces anéciques : vivent dans le sol mais creuse des galeries verticales pour revenir à la surface, incorpores la MO dans le sol
+
+Classification trophique est réseaux d'interactions : classement selon les préférences trophiques
+
+
+La racine absorbent les nutriments et l'eau dans le sol est va l'acidifié. Mais elle va aussi rejeter des sucres qui vont nourrir les organismes du sol, cette exsudation de composé organique permet aux bactéries d'être très présentes dans ces zones. Il existe différents points chauds d'activité dans le sol en fonction de l'apport d'énergie.
+
+Les organismes du sol participent à un certain nombre des fonctions du sol. La parte de ces organismes génère un dérèglement du fonctionnement du sol. Les fonctions assumées par les organismes du sol sont la base des différentes classifications fonctionnelles. Les principales fonctions édaphiques assumées par les organismes du sol : 
+
+- formation des sols, régulation de la structure des sols et de l'érosion
+- régulation de la décomposition des détritus organiques et des cycles des éléments nutritifs 
+- régulation des propriétés hydrique des sols
+- régulation des échanges de gaz avec l'atmosphère
+- régulation des propriétés primaires
+- régulation ou contrôle biologique de certains organismes ravageurs, pathogènes
+- pollinisation
+
+
+### 2. Rôles et importance dans les sols
+
+1. Rôle dans la structuration des sols
+
+Agrégatosphère : interactions micro organismes et formations des agrégats du sol. Les vers de terre, via leur galeries vont permettre d'aérer le sol.
+
+2. Régulation des propriétés hydriques du sol
+
+L'impact de la faune du sol sur l'infiltration et le stockage de l'eau dans le sol est mal connue. Agit en modifiant la rugosité et la porosité du sol. Effets très variables en fonction des espèces et des groupes fonctionnels.
+
+3. Décomposition des MOS et recyclages des éléments minéraux 
+
+Les sols assurent 60-90% de la décomposition de la MO de la production primaire des écosystèmes terrestres. Le organismes décomposeurs ont 3 types d'actions sur la MO : 
+
+- fragmentation (méso et macrofaune)
+- digestion (transformations chimiques : enzymes des champignons et bactéries, sucs digestifs)
+- incorporation de la MO à la matière minérale (macrofaune)
+
+La faune du sol peut aussi sélectionner l'activité de la microflore.
+
+Les ingénieurs écologiques du sol modulent également la dynamique des MOS en : 
+
+- produisant des biostructures organo-minérales
+- modifiant le rapport minéralisation vs. humification
+- en protégeant physiquement la MO
+- en l'exposant à l'activité des micro organismes
+
+4. Stockage du C et régulation climatique
+   
+Stockage ou séquestration du carbone : processus au travers duquel le CO<sub>2</sub> atmosphérique est transféré dans le pool de carbone résilient. Sujet d'actualité car il pourrait contrebalancer les émission de CO<sub>2</sub> liées à l'utilisation des énergies fossiles. Le CO<sub>2</sub> est fixé par la photosynthèse et intègre le sol par l'intermédiaire de la décomposition des tissus végétaux morts.
+
+5. Productivé primaire
+
+6. Contrôle biologique
+
 
