@@ -46,4 +46,11 @@ Le phosphore est apporté sous forme de sulfate.
 
  indispensables à la vie des micro organismes mais en **faible quantité** : oligoéléments. Apportés sous forme de traces dans les produits chimiques ou l'eau qui servent à la préparation des milieux de culture. 
 
+### III. Les types trophiques
+
+photosynthèse oxygénique : H<sub>2</sub>O -> production d'O<sub>2</sub>
+
+photosynthèse anoxygénique : H<sub>2</sub>S -> pas de production d'O2
+
+Phototropie sans photosynthèse : archées
 
