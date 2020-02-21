@@ -98,7 +98,7 @@ La minéralogie des arènes témoigne d’une altération peu avancée (très pe
 pourrait être mettre au compte d’une durée très courte depuis le retrait des glaciers
 pléistocènes, d’autant que cette météorisation chimique opère dans un contexte peu favorable.
 
-Des conditions particulières peuvent entrainer un épaississement du manteau d’arènes, comme
+Des conditions particulières peuvent entraîner un épaississement du manteau d’arènes, comme
 dans les zones littorales où l’haloclastie (action des sels) est combinée à la cryoclastie
 (alternance gel-dégel) et provoque une micro fissuration qui facilite l’altération des roches.
 
@@ -129,7 +129,7 @@ d’altération : le bilan privilégie l’évacuation par rapport à la désagr
 
 Les manteaux d’arènes sont en général plus minces et moins continus qu’en domaine tempéré,
 et présentent une granulométrie sableuse à sablo-limoneuse et peu d’argiles (<10%). Les
-néogenèse sont de type illite, vermiculite et interstratifiés, la kaolinite restant peu abondante. La mobilisation géochimique est faible et s’effectue au détriment des plagioclases et des micas.
+néogenèse sont de type illites, vermiculite et interstratifiés, la kaolinite restant peu abondante. La mobilisation géochimique est faible et s’effectue au détriment des plagioclases et des micas.
 
 ## Arènes des milieux tropicaux secs
 
@@ -158,14 +158,14 @@ Elles constituent souvent le substrat de sols de formation récente (ranker, ren
 Une évolution pédologique plus poussée conduit à la formation :
 
 - de terra fusca constituée d’argiles et de limons, de couleur ocre, de même origine mais plus évoluée avec
-formation d’hydroxydes de fer (limonite, ghoetite) sous l’action d’une altération plus longue successivement sous climat chaud, puis en milieu froid et humide. Elle est considérée comme une formation superficielle autochtone fossile ;
+formation d’hydroxydes de fer (limonite, goethite) sous l’action d’une altération plus longue successivement sous climat chaud, puis en milieu froid et humide. Elle est considérée comme une formation superficielle autochtone fossile ;
 
 - de terra rosa constituée d’argile résiduelle de couleur rouge, riche en hématite et en kaolinite qui se
 formerait sous climat chaud, à saison sèche marquée, à saison humide individualisée avec de fortes
 précipitations. Elle est considérée comme un sol fersiallitique fossile.
 
 Dans les milieux tropicaux humides, les sables et les argiles résiduelles des karsts ont évolué et
-évoluent vers des sols fersiallitiques et ferralitiques rouges, profonds et riches en argiles.
+évoluent vers des sols fersiallitiques et ferrallitiques rouges, profonds et riches en argiles.
 
 ## Les argiles à silex
 
@@ -206,7 +206,7 @@ pour la sidérurgie, rattachée à des périodes géologiques déférentes (Cré
 
 Il est possible de distinguer deux sidérolithiques distincts :
 
-- le sidérolithique in situ : formation autochtone constituée par altération profondes des roches granitiques et métamorphiques, ou carbonatées, sous climat chaud et humide de type fersialitique ou ferralitique. A noter l’absence d’hydroxydes d’alumine libres ce qui semble indiquer aller à l’encontre d’un climat allitisant ;
+- le sidérolithique in situ : formation autochtone constituée par altération profondes des roches granitiques et métamorphiques, ou carbonatées, sous climat chaud et humide de type fersialitique ou ferrallitique. A noter l’absence d’hydroxydes d’alumine libres ce qui semble indiquer aller à l’encontre d’un climat allitisant ;
 
 - le sidérolithique de transport : formation détritique allochtone constituée de vastes épandages issus du démantèlement
 des cuirassés ferrugineuses, dont les matériaux ont subit, après immobilisation, une évolution secondaire par sous
@@ -313,3 +313,103 @@ Coulées de boue (« mud flows ») : écoulement à l’état fluide ou faibleme
 
 Coulées de boue avec blocs ou laves torrentielles : matériaux hétérométriques déposés dans un
 chenal et pouvant aboutir à son obstruction par un bouchon chaotique
+
+Aléa naturel : description du phénomène (occurrence, fréquence, intensité, emprise géographique)
+
+Risque naturel : aléa x enjeu (x) (un ou plusieurs enjeux sont exposés à l'aléa naturel)
+
+Le risque correspond à la superposition spatiale et temporelle d'un enjeu (par exemple une habitation) caractérisé par sa vulnérabilité et d'un aléa. L'aléa est le croisement (la combinaison) de l'intensité d'un phénomène et de sa probabilité d'occurrence. Dans le cas des chutes de blocs, l'aléas provient de la rupture de blocs depuis la falaise et de leur propagation jusqu'aux zones habitées. C'est de la superposition d'un enjeu à un aléa que naît la notion de risque. Sans enjeux, quelle que soit l'importance de l'aléa, il n'existe pas de risque.
+
+## Formations superficielles : versants à *head*
+
+cryoreptation : déplacement par le gel 
+
+gélifluxion : au moment du dégel, déformation de la roche qui devient malléable, écoulement lent de l'objet du au gel, dégel.
+
+Cela se déroule plutôt en début de phase de début glacière car en phase glacière, le sol devient un **pergélisol**, sol qui est en permanence gelé.
+
+polygénique : plusieurs origines
+
+hétéro métrique : dimension variable
+
+Déplacement en hauteur d'un matériel grossier et fin, les gros blocs vont être tendance à être déplacer moins vite et moins loin que les plus petits par cryoreptation et gélifluxion
+
+## Formations de versants : versants à grèzes
+
+cryorivale : déplacement par la fonte de neige
+
+ruissellement : eau qui s'écoule dans un espace libre
+
+écoulement : eau qui s'écoule dans un espace limité
+
+La différence entre le *head* et les grèzes serait la roche mère, roche mère qui se fragmente très grossièrement pour les *head* et le type de pente où le type de pente sera plus forte pour les grèzes.
+
+faille dystrique : faille normale avec un arrondi à la base
+
+érosion différentielle : érosion différente en fonction de la nature du dépôt.
+
+cône d'éboulis : structure lié aux éboulis
+
+## Formations de versants : versants à arène
+
+morphogenèse : altération puis érosion qui va mettre à nu un chaos granitique
+
+deux processus sur les tors : altération et érosion
+
+## Glacis ou pédiment
+
+Il y a deux types de pente dans un glacis :
+
+- glacis à érosion de front
+- glacis d'érosion de revers
+
+On a tout d'abord une altération, ensuite nous avons une diminution du volume par exportation de la roche altérée. La croûte va se fragmenter, on va retrouver des sédiments en jaune pâle où on va retrouver des fragments de la croûte et de la roche mère. Ensuite, ce matériel va subir une nouvelle altération qui va durcir le matériel du glacis. A la fin on retrouve la roche mer avec une croûte contenant la roche mère, la première croûte et les sédiments de la première phase d'altération ainsi que la les sédiments de la deuxième phase d'altération.
+
+# Chapitre 3 : Les formations superficielles allochtones
+
+attrition : matériel transporté qui va se réduire pas l'usure
+
+## Systèmes glaciaires
+
+moraine latérale formée par les phénomènes d'érosion et les chutes qui se font à la surface
+
+## Érosion glaciaire
+
+## Formation superficielles glaciaire, les dépôts morainiques
+
+
+## Formation superficielles glaciaire, les dépôts fluvio-glaciaire 
+
+marge pro-glacaire : en avant de l'ablation glaciaire
+
+esker : dépôts fluviatiles sous le glacier 
+
+## Dynamiques éoliennes
+
+défliation : zone où tout est partie par le vent
+
+## Formations éoliennes sableuses en zone périglaciaire
+
+Loess : dépot de silt
+
+## Formations loessiques en zone périglaciaire
+
+malacologique : mollusques
+
+sable de couverture : sable plutôt grossier
+
+## Loess péridésertique
+
+angle que forme les lamines sont de 34° de dépôt éolien.
+
+sif : dune linéaire
+
+barcade : forme de croissant
+
+silk : dunaire longitudinale
+
+
+
+
+
+
