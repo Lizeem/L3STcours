@@ -156,31 +156,99 @@ Potentiel d'oxydo - réduction (Eh) indique le degré auquel une substance peut 
 Le Eh du sol se répartit en 4 domaines :
 
 - de 800 à 450 mV : O<sub>2</sub> est fortement présent et la nitrification active, la MO est décomposée plus ou moins rapidement
+
+- de 450 à 0 mV : le milieu devient pauvre en O<sub>2</sub>, ralentissement de la décomposition de la MO. Si le pH est bas, les processus de réduction débutent rapidement.
+
 - de 0 à -200 mV : milieu anoxique, la MO se décompose par fermentation anaérobie, des sels ferreux s'accumulent, teintant le matériau en gris bleuâtre - verdâtre (sol hydromorphe).
-  
+
+- de 200 mV à - 300 mV : la réduction est totale -> la MO fermente en dégageant de l'hydrogène sulfuré ou du méthane (tourbière).
+
 ## III. Les propriétés biologiques du sol
 
 ### 1. Biodiversité des sols
 
-La diversité biologique décrit la variété de l'ensemble des organismes vivants dans tous les environnements à différents niveaux d'organisation du gène à la biosphère en passant par l'espèces, la communauté et le paysage.  Biodiversité des sols : le sol est le compartiment des écosystèmes terrestres le plus riche en espèces, donc potentiellement un des plus vulnérables. Les atteintes au sol dont l'érosion de sa biodiversité sont prises en compte dans la stratégie européenne de protection des sols.
+La diversité biologique décrit la variété de l'ensemble des organismes vivants dans tous les environnements à différents niveaux d'organisation du gène à la biosphère en passant par l'espèces, la communauté et le paysage. 
 
-Un organisme du sol est un organismes qui a au moins un stade de leur cycle de vie dans le sol.
+Biodiversité des sols : le sol est le compartiment des écosystèmes terrestres le plus riche en espèces, donc potentiellement un des plus vulnérables. Les atteintes au sol dont l'érosion de sa biodiversité sont prises en compte dans la stratégie européenne de protection des sols. Cependant, il existe encore un manque de connaissances sur la biodiversité du sol. Cette connaissance est primordiale dans l'optique d'un développement durable visant à la préservation des sols. 
+
+Un organisme du sol est un organismes qui a au moins un stade de leur cycle de vie dans le sol. 
+
+Faible prise en compte des organismes du sol dans les revues de taxonomie ou systématique. Le nombre de publications ne reflète pas l'importance quantitative des organismes édaphiques. Les organismes édaphiques ne sont pas concernés par l'augmentation générale des publications. Le nombre estimé d'espèces d'arthropodes dans la litière et dans le sol dépasserait considérablement celui proposé par Erwin (1983) pour les canopées (30 millions d'espèces..).
 
 Classification par taille : 
 
-- microfaune : organisme aquatique de taille < 0,2 mm
-- mésofaune : organisme aérien 0,2 < taille < 2 mm
-- macrofaune : organisme qui vivent dans la litière ou les galeries 2mm < taille < 10 cm
-- mégafaune : organisme de taille > 10 cm
+- **microfaune** : 
+  - organisme aquatique de taille < 0,2 mm
+  - vie aquatique
+  - capacité de déplacement très faible
+  - capacité de résistance très forte
 
-Classification écomorphologique : 
+- **mésofaune** : 
+  - organisme aérien 0,2 < taille < 2 mm
+  - vie dans les accumulations de MO
+  - capacité de déplacement faible
+  - capacité de résistance forte
 
-- espèces endogées : vivent dans le sol en permanence et creuse des galeries horizontales, importance dans la dynamique de la MO dans le sol
-- espèces épigées : vivent en surface dans de la MO. Ils consomment les litières mortes, plus petits, plus colorés et vot fragmenter la litière 
-- espèces anéciques : vivent dans le sol mais creuse des galeries verticales pour revenir à la surface, incorpores la MO dans le sol
+- **macrofaune** : 
+  - organisme 2mm < taille < 10 cm
+  - vie dans la litière ou dans les galeries endogées
+  - capacité de déplacement forte
+  - capacité de résistance faible
 
-Classification trophique est réseaux d'interactions : classement selon les préférences trophiques
+- **mégafaune** : 
+  - organisme de taille > 10 cm
+  - vie dans les galeries endogées
+  - capacité de déplacement très forte
+  - capacité de résistance forte
 
+Cette classification est simple et informatif même si certains organismes appartiennent à plusieurs classes de taille. Reflète également les exigences matérielles d'extraction.
+
+**Classification éco morphologique**  
+
+- **espèces endogées** : 
+  - taille variable
+  - vie dans le sol
+  - ressources trophiques : MOS
+  - réseaux de galeries horizontales
+  - production d'agrégats organo-minéraux
+  - impacts sur la dynamique des MOS
+
+- **espèces épigées** : 
+  -  taille réduite
+  -  vie dans la litière
+  -  ressources trophiques : litière, déjections de mammifères
+  -  pas de galeries
+  -  impacts liés à la fragmentation de la litière fraîche
+
+- **espèces anéciques** : 
+  - grande taille
+  - vie dans le sol
+  - ressources trophiques : litière + MOS
+  - réseau de galeries verticales
+  - production d'agrégats
+  - impact sur l'hydrologie du sol sur la dynamique des MOS
+
+Classification trophique est réseaux d'interactions : classement selon les préférences trophiques (herbivores, prédateurs, saprophages, parasites, polyphages, mycophages, rhizophages, nécrophages, xylophages..)
+
+**Classification fonctionnelle**
+
+- **micro prédateurs** : 
+  - interactions avec le microflore : prédation
+  - bio structures : aucunes
+  - fonctions : espèces clef de voûte, régulent les activités microbienne par leur prédation, stimulent la minéralisation de la MO
+  - principalement des micro invertébrés (nématodes et protozoaires)
+
+- **les transformateurs de litière** :
+  - interactions avec microflore : rhumen externe (digestion externe)
+  - bio structures : holorganiques (pelotes fécales)
+  - fonctions :fragmentation de la MO fraîche, stimulation de l'activité microbienne
+  - principalement des méso - macro invertébrés (collemboles, oribates, vers épigés, diplopodes etc.)
+  
+- **les ingénieurs du sol**
+  - interaction avec le microflore : symbiose digestive (digestion interne)
+  - bio structures principalement organo - minérales
+  - fonctions : production d'agrégats, contrôle de la dynamique de la MO
+  - principalement des macro invertébrés (vers de terre, termites, fourmis) et des vertébrés 
 
 La racine absorbent les nutriments et l'eau dans le sol est va l'acidifié. Mais elle va aussi rejeter des sucres qui vont nourrir les organismes du sol, cette exsudation de composé organique permet aux bactéries d'être très présentes dans ces zones. Il existe différents points chauds d'activité dans le sol en fonction de l'apport d'énergie.
 
@@ -194,6 +262,7 @@ Les organismes du sol participent à un certain nombre des fonctions du sol. La 
 - régulation ou contrôle biologique de certains organismes ravageurs, pathogènes
 - pollinisation
 
+Les activités de la faune interviennent à des échelles spatio-temporelles fines. La pédogénèse est au contraire un processus lent : il faut environ 1 000 ans pour former 1 cm de sol en zone tempérée. Sur une telle période de temps, les effets de la faune s'accumulent et ont des effets importants. 
 
 ### 2. Rôles et importance dans les sols
 
@@ -209,11 +278,16 @@ L'impact de la faune du sol sur l'infiltration et le stockage de l'eau dans le s
 
 Les sols assurent 60-90% de la décomposition de la MO de la production primaire des écosystèmes terrestres. Le organismes décomposeurs ont 3 types d'actions sur la MO : 
 
-- fragmentation (méso et macrofaune)
-- digestion (transformations chimiques : enzymes des champignons et bactéries, sucs digestifs)
-- incorporation de la MO à la matière minérale (macrofaune)
+- **fragmentation** (méso et macrofaune)
+- **digestion** (transformations chimiques : enzymes des champignons et bactéries, sucs digestifs)
+- **incorporation** de la MO à la matière minérale (macrofaune)
 
 La faune du sol peut aussi sélectionner l'activité de la microflore.
+
+Les résultats des actions des organismes décomposeurs peuvent être étudiés sous 2 aspects : 
+
+- **transformations morphologiques des retombées** -> individualisation des horizons O et A dont la succession définit les formes d'humus
+- **devenir des constituants de la MO fraîche** -> minéralisation de la cellulose, de la lignine, des sucres etc... en ions et molécules simples, formation des molécules organiques complexes (=humification), plus ou moins liées aux argiles, formant l'humus *sensu stricto*.
 
 Les ingénieurs écologiques du sol modulent également la dynamique des MOS en : 
 
@@ -224,10 +298,57 @@ Les ingénieurs écologiques du sol modulent également la dynamique des MOS en 
 
 4. Stockage du C et régulation climatique
    
-Stockage ou séquestration du carbone : processus au travers duquel le CO<sub>2</sub> atmosphérique est transféré dans le pool de carbone résilient. Sujet d'actualité car il pourrait contrebalancer les émission de CO<sub>2</sub> liées à l'utilisation des énergies fossiles. Le CO<sub>2</sub> est fixé par la photosynthèse et intègre le sol par l'intermédiaire de la décomposition des tissus végétaux morts.
+Stockage ou séquestration du carbone : processus au travers duquel le CO<sub>2</sub> atmosphérique est transféré dans le pool de carbone résilient. Sujet d'actualité car il pourrait contrebalancer les émission de CO<sub>2</sub> liées à l'utilisation des énergies fossiles. Le CO<sub>2</sub> est fixé par la photosynthèse et intègre le sol par l'intermédiaire de la décomposition des tissus végétaux morts. Les structures produites par les invertébrés du sol (agrégats, boulettes fécales) protègent la MO et augmente le temps de résidence du carbone. L'action des micro organismes participent à la création d'humus : les molécules humiques ont un temps de résidence important dans le sol (plusieurs milliers d'années pour certaines). Les sols sont siège de nombreux processus impliqués dans le dynamique des MOS (biodégradation, incorporation...). Les sols constituent un réservoir de carbone considérable.
 
 5. Productivé primaire
 
+Suivant les organismes concernés :
+
+Les espèces parasites ou rhizophages utilisent directement le carbone fixé dans les tissus végétaux. La faune saprophage a un effet généralement positif par l’intermédiaire de 5 mécanismes:
+
+- Stimulation de la libération d’éléments nutritifs dans la rhizosphère
+- Stimulation des micro-organismes mutualistes (mycorhizes et organismes fixateurs d’azote),
+- Stimulation de la vigueur des plantes et protection contre les pathogènes et ravageurs
+- Effets positifs sur la structure du sol
+- Production d’hormones de croissance
+
+Modification des cortèges de plantes (e.g. banques de graines) Conséquences pour les communautés végétales
+
 6. Contrôle biologique
 
+Certains organismes du sol sont des ravageurs des cultures ( Melolontidae, Chrysomelidae) D’autres sont des prédateurs impliqués dans le contrôle de certains phytophages ravageurs. (ex. Nématodes à kystes / Présence Vers de terre
 
+La drilosphère : le domaine fonctionnel des vers de terre, lieu d’interactions et de nombreux processus
+
+### 3. Liens avec les services écosystémiques
+
+Les populations humaines tirent bénéfice d'une multitude de ressources et de processus assurés par les écosystèmes naturels ou anthropisés. Ces bénéfices sont les "services écosystémiques". Ils incluent la mise à disposition de biens écosystémiques (ex. décomposition des déchets organiques). Ils sont rattachés à la notion de valeur instrumentale de la biodiversité car ils correspondent à des besoins concrets de la part des populations humaines. 
+
+Valeurs des organismes du sol : 
+
+- **valeur intrinsèque** (valeurs éthiques ou religieuses)
+- **valeur instrumentales** (usages effectifs ou potentiels)
+  - **valeurs économiques directes** : (usages effectifs directement utilisées (ex. comme nourriture, etc..))
+  - **valeurs économiques indirectes** : espèces qui procurent des bénéfices sans être directement prélevées (ex. services écosystémiques, potentiel touristique, etc..)
+
+### 4. Conclusions
+
+Les challenges d’actualité:
+
+- Stimuler la recherche en taxonomie / systématique des organismes édaphiques
+- Donner un véritable statut de conservation aux organismes du sol
+- Décrire l’importance de la diversité endogée pour le fonctionnement des écosystèmes terrestres
+- Évaluer l’implication de la faune du sol dans la mise à disposition de biens et services écosystémiques
+- Mettre au point des indices biologiques d’indication de la qualité des sols
+- Estimer les niveaux d’érosion de la biodiversité endogée et ses conséquences fonctionnelles
+- Recherche de systèmes de culture intégrés permettant de conserver les niveaux de biodiversité édaphique
+
+Un développement durable implique:
+
+- Une gestion adéquate des ressources naturelles et agricoles
+- La satisfaction des besoins des populations humaines
+- Le maintien de la qualité de l’environnement
+- La conservation des ressources naturelles pour les générations futures
+
+Le sol est une ressource fondamentale : conservation des sols = enjeu planétaire selon la FAO
+L’activité biologique et la biodiversité des sols sont également des éléments clefs
