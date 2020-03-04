@@ -54,3 +54,36 @@ photosynthèse anoxygénique : H<sub>2</sub>S -> pas de production d'O2
 
 Phototropie sans photosynthèse : archées
 
+#### Métabolisme énergétique
+
+Métabolisme énergétique (respiration, fermentation, photosynthèse) basé sur des processus oxydo-réduction entre couples donneurs d'électron (bas potentiel redox) et accepteurs d'electron (haut potentiel redox).
+
+Phosphorylation au niveau du substrat : synthèse d'ATP couplée à l'oxydation d'un substrat organique
+
+Phosphorylation oxydative (respiration et photosynthèse) : au cours du transfert des électrons, ceux-ci perdent de l'énergie qui est récupérée pour former l'ATP au niveau des ATP synthases
+
+Somme des transporteurs d'électrons : chaîne respiratoire
+
+#### Les respirations chez les micro organismes 
+
+Donne d'électron (source d'énergie) : organique (chimio-organotrophes) ou minérale (chimiolithotrophes)
+
+Diversité d'accepteur d'électrons chez les procaryotes O<sub>2</sub> (aérobie)
+
+Synthèse de l'énergie lors de la respiration aérobie principalement formée lors du transfert des électrons le long de la chaîne respiratoire (membrane cytoplasmique) vers l'accepteur final d'électrons : O<sub>2</sub>
+
+Chimiolithotrophes : oxydation de composées minéraux pour produire de l'énergie en transférant les électrons vers l'O<sub>2</sub>. Le donneur d'électron est l'ammonium qui est oxydé en nitrite, l'accepteur d'électron est l'oxygène. -> nitrosome
+
+Deuxième étape : nitrite devient nitrate et l'oxygène est l'accepteur d'électron -> nitro
+
+Respiration anaérobie : l'oxygène n'est plus accepteur d'électron, **réduction dissimilatrice** des accepteurs terminaux d'électrons 
+
+La dénitrification se fait des les endroits où on est en anoxie en zone humide (zone tampon avec zone d'épuration où on a un risque d'eutrophisation, il faut donc éliminer les concentrations d'ammonium dans l'eau, NH<sup>4+</sup> va être transformée en N<sub>2</sub> car les nitrates sert d'accepteur d'électrons qu'on obtient en milieu aérobie par la dénitrification)
+
+La respiration anaérobie se fait après la respiration aérobie. Car elle ne fonctionne pas si on a des nitrates.
+
+Respiration sulfate : les sulfates, accepteurs d'électrons, vont produire des sulfures
+
+Chimio - organothrophe en condition anaérobie : la fermentation. Molécule organique qui sert d'accepteur d'électron provient de l'oxydation partielle du donneur d'électron), pas d'accepteur d'électrons
+
+Oxydation partielle du donneur d'électron : produits (acides organiques, alcools) caractérisant la fermentation. Pour pouvoir transféré à des enzymes qui s'oxydent à nouveau en cédant les électrons à l'un des composés organiques (accepteur final d'électron). 
