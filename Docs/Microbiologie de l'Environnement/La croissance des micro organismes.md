@@ -1,6 +1,6 @@
 # La croissance des micro organismes
 
-## Introduction
+## I. Introduction
 
 Croissance bactérienne : augmentation du nombre de cellules et non pas la taille des cellules comme les eucaryotes. Reproduction est asexuée : scissiparité ou fission binaire. Il se forme un clone, c'est à dire un ensemble de cellules descendant d'une même cellule mère et génétiquement identiques les unes aux autres. On parle donc de la croissance d'une population.
 
@@ -54,8 +54,6 @@ Influence du pH sur la croissance des bactéries :
 
 Milieux de culture en laboratoire -> nécessité de tamponner le milieu (pour conserver pH proche neutralité -> K<sub>2+</sub>HPO<sub>4</sub> / KH<sub>2</sub>PO<sub>4</sub>).
 
-
-
 ### 4. L'activité de l'eau 
 
 L'eau est indispensable :
@@ -81,14 +79,14 @@ Xérophile : se dit tout micro organisme susceptible de se développer dans des 
 
 Osmophile : se dit tout micro organisme capable de croître dans des milieux présentant des concentrations élevées de substances à pouvoir osmotique c'est à dire milieu très sucré (ex. milieu riche en glucide)
 
-### 4. La pression osmotique
+### 5. La pression osmotique
 
 La **pression osmotique** est relative à la concentration ionique d'un milieu (ou une forte concentration en soluté comme les glucides) et s'exprime en équivalents NaCl. p est inversement proportionnel à a<sub>w</sub>. En augmentant la pression osmotique interne élevée (concentration interne en composés dissous) par :
 
 - synthèse ou transport de solutés organiques : solutés compatibles ou osmorégulateur 
 - accumulation de composés inorganiques
 
-### 5. Le type respiratoire
+### 6. Le type respiratoire
 
 Chimio-organotrophes et **uniquement pour eux** déterminé à l'aide du milieu VF (glucose et peptones) conditionné en tube et long (tube Prevost) : gradient de O<sub>2</sub> le long du tube.
 

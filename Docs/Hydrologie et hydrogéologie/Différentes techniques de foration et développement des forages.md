@@ -13,7 +13,9 @@ Foreuse : machine semi - automatique qui permet la progression d'un train de tig
 - une force verticale qui pousse sur le train de tige au trépan
 - une force de rotation qui fait tourner le trépan
   
-Cela assure la progression du trépan qui concasse la matière
+Cela assure la progression du trépan qui concasse la matière et l'évacuation des débris (cuttings) par un fluide de forage : ari comprimé ou boue de forage
+
+Le fluide propulsé descend par le conduit central des tiges, se charge de sédiments produits par le travail du trépan et remonte par l'espace annulaire situé entre le train de tige et la galerie de foration.
 
 #### Battage 
 
@@ -39,7 +41,7 @@ Une méthode de forage pour prélever in situ et en continu des échantillons de
 
 Permet de faire des forage en grand diamètre, utilisé en géotechnique pour faire des pilles de parking souterrain d'immeuble ou de pont. Technique de forage utilisant l'air comprimé à haute pression pour alimenter un marteau avec taillant disposé en bas de tiges. L'échappement de l'air à la base de marteau fair remonter les éléments rocheux en surface et le cas échéant l'eau souterraine.
 
-#### Le marteau hors trou
+#### Le marteau hors du trou
 
 Technique qui va permettre de créer des forages obliques. Méthode de forage rapide mais limité en diamètre de taillant. Forage impossible dans les terrains non consolidés. Utilisé pour forcer les trous de mines, en prospection minière rapide et dans la pose de tirants dans les rochers. Possibilité de forer dans n'importe qu'elle direction.
 
