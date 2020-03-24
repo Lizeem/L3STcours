@@ -499,7 +499,7 @@ et anguleuses à l'aval des obstacles, là où le glacier se décolle de la roch
 Les glaciers constituent un puissant agent de transport. Les formes d'accumulation sont donc particulièrement développées à l'aval des glaciers. On distingue deux grands types de dépôts :
 
 - les **dépôts glaciaires**, constitués par les moraines (terme créé par H.-B. de Saussure à la fin du XVIIIe siècle) ;
-- 
+ 
   - **till basal** (« lodgment till ») ou **moraine de fond**, de nature variable selon le substrat, mais généralement formée de matériel limoneux et plus ou moins riche en clastes (diamicton) et affectée de déformations (glaci-tectonique) ;
   - **till d’ablation** qui correspond à un dépôt morainique abandonné lors du retrait du glacier, formé de matériel hétéroclites, hétéro métrique et non-consolidé ;
 
@@ -514,8 +514,7 @@ Les glaciers constituent un puissant agent de transport. Les formes d'accumulati
   
   - pro-glaciaires : liés aux écoulements sous-glaciaires, pauvres en fines, chenaux en tresses / cônes de graviers ;
   - supra-glaciaires : sables et graviers, déposés sur le glacier (vent, éboulis, …) et abandonnées par la fonte ;
-  - sous-glaciaires : accumulations de galets très arrondies et de sables (eskers) ou d’incisions remplis de matériel
-plus grossier que l’encaissant (vallées tunnels) ;
+  - sous-glaciaires : accumulations de galets très arrondies et de sables (eskers) ou d’incisions remplis de matériel plus grossier que l’encaissant (vallées tunnels) ;
   - fluvio-glaciaires s.s. en aval du glacier : système à écoulement en tresse occupant l’ensemble du lit majeur.
 
 + des **dépôts glacio-lacustres** liés un transport en suspension puis de décantation
