@@ -4,9 +4,10 @@ La classification des formations superficielles est établie en fonction de deux
 et leur comportement :
 
 - la **topographie**
-  - plane ou sub-plane : les formations superficielles évoluent sur place selon la nature de la roche initiale, le climat, le régime hydrique, l’action des organismes et la durée : **formations superficielles autochtones**
+
+ - plane ou sub-plane : les formations superficielles évoluent sur place selon la nature de la roche initiale, le climat, le régime hydrique, l’action des organismes et la durée : **formations superficielles autochtones**
   
-  - sur versants : les formations superficielles subissent la dynamique gravitaire, qu’elle soit « libre » (éboulis, effondrements) ou assistée par un agent (eau, neige, glace,…) et sont tributaires de la pente (valeur, longueur, concavité/convexité) et de toutes les dynamiques qui s’y exercent, simultanément ou successivement : **formations superficielles sub-autochtones** ou « colluvions de versants »
+ - sur versants : les formations superficielles subissent la dynamique gravitaire, qu’elle soit « libre » (éboulis, effondrements) ou assistée par un agent (eau, neige, glace,…) et sont tributaires de la pente (valeur, longueur, concavité/convexité) et de toutes les dynamiques qui s’y exercent, simultanément ou successivement : **formations superficielles sub-autochtones** ou « colluvions de versants »
 
 - les **dynamiques externes** s’exercent sur tout matériel meuble qu’elle peuvent prendre en
 charge et déplacer sur de plus ou moins longues distances
@@ -34,6 +35,8 @@ Le cas des sols est traité dans un cours spécifique, et nous traiterons ici de
 après érosion et transport les formations superficielles sub autochtones et allochtones et les bassin sédimentaires ;
 
 - les argiles sur karsts, les argiles à silex et le sidérolithique qui témoignent de paléo altérations (et de paléo pédogenèses) associant argiles résiduelles et/ou néoformées et oxydes de fer jusqu’à former des gisements minéraux exploitables.
+
+![Arène granitique](Images/arènegranitique.PNG)
 
 ## Manteaux d'arènes en place
 
@@ -414,7 +417,7 @@ des témoins de surfaces plus anciennes.
 
 # Chapitre 3 : Les formations superficielles allochtones
 
-attrition : matériel transporté qui va se réduire pas l'usure
+attrition : matériel transporté qui va se réduire par l'usure
 
 ## Formations fluviatiles
 
@@ -426,12 +429,16 @@ Le matériel transporté par une rivière est appelé son **charge sédimentaire
 - la **charge en suspension** : il s'agit de sédiments qui ont été brassées par l'eau
 - la **charge de fond** : les matériaux trop lourds pour être en suspension peuvent être roulées le long du lit d'un rivière
 
+![Transport sédimentaire](Images/transportsédimentaire.PNG)
+
 ### Processus d'érosion
 
 - **abrasion** ou **corrosion** : usure du lit et de la berge par la charge transportée par une rivière. C'est le type d'érosion le plus important dans la plupart des rivières. L'abrasion augmente avec la vitesse
 - **attrition** : usure de la charge transportée par une rivière. Elle crée des particules plus petites et plus rondes.
 - **dissolution** : l'eau contient du dioxyde de carbone dissous, qui peut réagir avec le calcaire et la craie, entraînant sa dissolution
 - **action hydraulique** : c'est la puissance de l'eau qui s'écrase sur le lit ou contre les berges. Des bulles d'air peuvent éclater dans les zones de grandes turbulences, ce qui provoque des ondes de choc susceptibles d'accroître l'érosion. C'est ce qu'on appelle la cavitation.
+
+![Processus d'érosion](Images/processusérosion.PNG)
 
 **Diagramme de Hjulstrom** : relation entre la taille des particules et la vitesse d'écoulement
 
@@ -469,6 +476,8 @@ flancs d'une montagne.
 **Lac supra-glaciaire** : formé à la surface d'un glacier, sa durée de vie peut varier de plusieurs heures à plusieurs décennies. Il peut atteindre plusieurs mètres de largeur et de profondeur. Il
 est issu de la fonte de la glace en été ou de fortes pluies pendant la mousson.
 
+![Système glaciaire](Images/glacier.PNG)
+
 ## Érosion glaciaire
 
 les blocs de toute taille déposés au front du glacier. Le pouvoir érosif d’un glacier sur le paysage s’exerce de deux
@@ -490,16 +499,19 @@ et anguleuses à l'aval des obstacles, là où le glacier se décolle de la roch
 Les glaciers constituent un puissant agent de transport. Les formes d'accumulation sont donc particulièrement développées à l'aval des glaciers. On distingue deux grands types de dépôts :
 
 - les **dépôts glaciaires**, constitués par les moraines (terme créé par H.-B. de Saussure à la fin du XVIIIe siècle) ;
+- 
   - **till basal** (« lodgment till ») ou **moraine de fond**, de nature variable selon le substrat, mais généralement formée de matériel limoneux et plus ou moins riche en clastes (diamicton) et affectée de déformations (glaci-tectonique) ;
   - **till d’ablation** qui correspond à un dépôt morainique abandonné lors du retrait du glacier, formé de matériel hétéroclites, hétéro métrique et non-consolidé ;
 
 - des **dépôts morainiques** divers et d’importance variable :
+  
   - arcs morainiques frontaux : matériel hétéro métrique, riche en blocs métriques dans une matrice limoneuse ;
   - moraines latérales : idem … mais sa composition n’est représentative que d’une partie du bassin-versant ;
   - moraines centrales : il s’agit de moraines latérales jointives (coalescence de de 2 émissaires glaciaires) ;
   - moraines de poussée : matériel sédimentaire que le glacier charrie devant lui.
   
 - les **dépôts fluvio-glaciaires**, liés à la double activité de processus glaciaires et fluviatiles
+  
   - pro-glaciaires : liés aux écoulements sous-glaciaires, pauvres en fines, chenaux en tresses / cônes de graviers ;
   - supra-glaciaires : sables et graviers, déposés sur le glacier (vent, éboulis, …) et abandonnées par la fonte ;
   - sous-glaciaires : accumulations de galets très arrondies et de sables (eskers) ou d’incisions remplis de matériel
@@ -539,6 +551,7 @@ dissymétrique, la largeur déclinant vers l'aval. Les drumlins sont souvent dis
 Les tables glaciaires sont des formes éphémères, qui se développent à la surface du glacier par protection de la glace par un
 gros bloc, qui se retrouvera ainsi surélevé sur un socle de glace pouvant atteindre quelques dizaines de centimètres de haut.
 
+![dépôts morainiques](Images/moraine.PNG)
 
 ## Formation superficielles glaciaire, les dépôts fluvio-glaciaire 
 
@@ -575,6 +588,8 @@ remplissage de tunnels intra- ou sous-glaciaires.
 dépression du glacier qui, après la fonte forme de petits monticules.
 
 **Kettle** : dépression dans une moraine ou un dépôt fluvio glaciaire créée par la fonte d'un bloc de glace emprisonné dans les matériaux.
+
+![Aval du glacier](Images/avalduglacier.PNG)
 
 ## Processus para glaciaires
 
@@ -794,12 +809,6 @@ particulier près des barrières naturelles.
 
 - **Dune parabolique** : dune dissymétrique en forme de fer à cheval à concavité au vent souvent plus ou moins fixée par la végétation (figure 9 a). Sa disposition par rapport à la direction du vent est inverse de celle de la barkhane. (figure 9 b). La dune parabolique est peu mobile et généralement ne migre guère une fois qu'elle est formée.
 
-sif : dune linéaire
-
-barcade : forme de croissant
-
-silk : dunaire longitudinale
-
 Dunes **linéaires** ou **transverses** : crêtes de sable en forme de vagues
 perpendiculaires à la direction du vent dominant. Se forment dans les zones
 où le sable est abondant, la végétation rare et les vents modérés et
@@ -826,6 +835,8 @@ des sols désertiques arides où la direction du vent dominant est constante,
 la végétation est rare et l'approvisionnement en sable est faible. Elles
 peuvent se former seules ou en groupes, où elles peuvent se rejoindre pour
 former des formes plus complexes.
+
+![Types de dunes](Images/typesdedunes.PNG)
 
 ### Petits édifices liés aux obstacles
 

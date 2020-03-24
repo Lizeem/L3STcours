@@ -51,11 +51,15 @@ La thermoclastie est la désagrégation mécanique des roches sous l'action des 
 
 Elle dépend des paramètres internes (porosité, composition..) et externes (climat, nombre de cycles) et apparaît davantage comme un processus d'affaiblissement progressif de la résistance mécanique des roches qui peut favoriser l'action d'autres processus associés
 
+![thermoclastie](Images/thermoclastie.PNG)
+
 ### La cryoclastie
 
 La cryoclastie est définie comme l'action du gel sur les roches a été identifiée depuis très longtemps, aussi bien sur les affleurements rocheux que sur les pierres des bâtiment.
 
 L'action du gel n'est efficace que si le matériau contient une certaine quantité d'eau mais il s'agit d'un mécanisme complexe qui ne se limite pas aux effets de l'expansion volumétrique associé au changement de phase de l'eau.
+
+![cryoclastie](Images/cryoclastie.PNG)
 
 ### L'haloclastie
 
@@ -100,12 +104,8 @@ Tous les mécanismes physiques n’ont pas la même efficacité :
 - thermoclastie : rôle mineur même sur des roches hétérogènes où les écart des coefficient de dilatation entre les minéraux
 jouent en faveur d’une dissociation (quartz versus feldspaths, par exemple) ;
 
-![thermoclastie](Images/thermoclastie.PNG)
-
 - cryoclastie : roches plutoniques et grès peu vulnérables en raison de leur faible porosité et de leur isotropie, mais
 sensibilité accrue avec l’augmentation de la porosité en lien avec les premiers stade d’altération chimique
-
-![cryoclastie](Images/cryoclastie.PNG)
 
 - haloclastie : beaucoup plus efficace mais extension géographique réduite aux milieux favorables aux efflorescences
 salines : poussières des déserts continentaux, embruns des franges littorales, …
@@ -240,7 +240,7 @@ Les ions H<sup>+</sup> nécessaires aux réaction d’hydrolyse sont fournis par
 
 - essentiellement, par la dissolution du CO<sub>2</sub> (diacide) : CO<sub>2</sub> + H<sub>2</sub>O -> H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> et HCO<sub>3</sub><sup>-</sup> + H<sub>2</sub>O -> H<sup>+</sup> + CO<sub>3</sub><sup>2-</sup>
 - dans une moindre mesure, par la pompe à protons racinaire
-- et par les réaction d’oxydation des composés azotés (nitrification) et soufrés.
+- et par les réactions d’oxydation des composés azotés (nitrification) et soufrés.
 
 L'hydrolyse des minéraux est la réaction majeure de consommation des protons. Pour
 équilibrer chaque charge électrique d’un ion en solution libéré 1 H<sup>+</sup> est consommé.
