@@ -26,7 +26,7 @@ Avec la conductivité, nous allons avoir l'hétérogénéité du sol et non pas 
 
 La profondeur d'investigation annoncée par les constructeurs est la profondeur pour laquelle le dispositif est sensible en champ proche à la présence d'une couche  conductrice. Elle est indicative et dépend fortement de la structure interne de la nature du sous sol. La distance s entre bobines et leur orientation par rapport à la surface influent sur la profondeur d'investigation.
 
-**Dipôles magnétiques verticaux** : les bobines coplanaires sont horizontales par rapport au sol (configuration encore appelée HCP. La profondeur d’investigation théorique est de l’ordre de 1,5 x distance émetteur-récepteur.
+**Dipôles magnétiques verticaux** : les bobines coplanaires sont horizontales par rapport au sol, configuration encore appelée HCP. La profondeur d’investigation théorique est de l’ordre de 1,5 x distance émetteur-récepteur.
 
 **Dipôles magnétiques horizontaux** : les bobines coplanaires sont verticales par rapport au sol et les couches superficielles contribuent majoritairement à la réponse du système. La profondeur d’investigation théorique est  0, 5x distance émetteur-récepteur.
 
