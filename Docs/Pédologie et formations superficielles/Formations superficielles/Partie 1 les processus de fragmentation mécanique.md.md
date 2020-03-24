@@ -100,8 +100,12 @@ Tous les mécanismes physiques n’ont pas la même efficacité :
 - thermoclastie : rôle mineur même sur des roches hétérogènes où les écart des coefficient de dilatation entre les minéraux
 jouent en faveur d’une dissociation (quartz versus feldspaths, par exemple) ;
 
+![thermoclastie](Images/thermoclastie.PNG)
+
 - cryoclastie : roches plutoniques et grès peu vulnérables en raison de leur faible porosité et de leur isotropie, mais
 sensibilité accrue avec l’augmentation de la porosité en lien avec les premiers stade d’altération chimique
+
+![cryoclastie](Images/cryoclastie.PNG)
 
 - haloclastie : beaucoup plus efficace mais extension géographique réduite aux milieux favorables aux efflorescences
 salines : poussières des déserts continentaux, embruns des franges littorales, …
@@ -151,6 +155,8 @@ Argile : transformation des micas ou recombiné des feldspath
 
 Saprolite : roche pourrie  
 
+![Altération](Images/altération.PNG)
+
 # Chapitre 3 : Les processus d'altération chimique
 
 ## Quelques généralités 
@@ -188,7 +194,7 @@ Les réactions d'altération sont de 5 types que l'on peut distinguer par la nat
 - oxydo-réduction : qui consomment à la fois de l’eau, des ions H+, des
 oxydants (surtout l'oxygène) et des réducteurs (surtout la matière organique)
 
-L’eau a des propriétés acido-basiques et oxydo-réductrices qui limitent les formes souslesquelles
+L’eau a des propriétés acido-basiques et oxydo-réductrices qui limitent les formes sous lesquelles
 les éléments peuvent exister de manière stable en solution :
 
 - acides et bases plus forts que H2O : dissociés sous forme d’anions et de cations ;
@@ -197,10 +203,11 @@ les éléments peuvent exister de manière stable en solution :
 - réactions acido-basiques sont très rapides : les équilibres sont considérés comme réalisés ;
 - réaction oxydo-réductrices sont plus lentes : formes différentes peuvent coexister.
 
-
 ## Cinétique d'altération
 
 La vitesse d'altération des minéraux obéit à des lois différentes selon le niveau d'organisation considéré du minéral à l'assemblage élémentaire de minéraux et de constituants organiques jusqu'au niveau du bassin versant.
+
+![Transformation des roches en minéraux](Images/transformation.PNG)
 
 La dissolution d’un minéral isolé implique 3 étapes successives :
 
@@ -222,23 +229,25 @@ A une température et pH donnés, la vitesse d’altération des minéraux dépe
 leur composition chimique et non de leur structure. Dans une roche, les minéraux sont altérés simultanément et libèrent des éléments communs,
 dans une chaîne de réactions parfois complexes, les unes alimentant les autres …
 
+![Schéma récapitulatif](Images/schémarécapitulatif.PNG)
+
 ## Altération chimique et puits de CO<sub>2</sub>
 
 L’altération chimique consomme des H<sup>+</sup> et met enjeu des réaction d’oxydo-réduction ce qui
 entraîne un couplage altération - oxydation la MO (donc avec les cycles C et O).
 
-Les ions H+ nécessaires aux réaction d’hydrolyse sont fournis par :
+Les ions H<sup>+</sup> nécessaires aux réaction d’hydrolyse sont fournis par :
 
-- essentiellement, par la dissolution du CO2 (diacide) : CO<sub>2</sub> + H<sub>2</sub>O -> H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> et HCO<sub>3</sub><sup>-</sup> + H<sub>2</sub>O -> H<sup>+</sup> + CO<sub>3</sub><sup>2-</sup>
+- essentiellement, par la dissolution du CO<sub>2</sub> (diacide) : CO<sub>2</sub> + H<sub>2</sub>O -> H<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> et HCO<sub>3</sub><sup>-</sup> + H<sub>2</sub>O -> H<sup>+</sup> + CO<sub>3</sub><sup>2-</sup>
 - dans une moindre mesure, par la pompe à protons racinaire
 - et par les réaction d’oxydation des composés azotés (nitrification) et soufrés.
 
 L'hydrolyse des minéraux est la réaction majeure de consommation des protons. Pour
-équilibrer chaque charge électrique d’un ion en solution libéré 1 H+ est consommé.
+équilibrer chaque charge électrique d’un ion en solution libéré 1 H<sup>+</sup> est consommé.
 
 Si<sub>3</sub>AlO<sub>8</sub>Na + CO<sub>2</sub> + 11/2H<sub>2</sub>O -> 1/2Si<sub>2</sub>Al<sub>2</sub>O<sub>5</sub>(OH)<sub>4</sub> + Na<sup>+</sup> + HCO<sub>3</sub><sup>-</sup> + 2Si(OH)<sub>4</sub>
 
-- la libération d’un ion Na+ nécessite la neutralisation par 1 H<sup>+</sup>
+- la libération d’un ion Na<sup>+</sup> nécessite la neutralisation par 1 H<sup>+</sup>
 - la libération d’un ion Al<sub>3</sub><sup>+</sup> nécessite la neutralisation par 3 H<sup>+</sup>
 - la très faible solubilité de l’aluminium entraîne la précipitation d’hydroxyde l’aluminium ou d’aluminosilicate
 - au final, cette réaction ne consomme donc qu'un seul proton (H<sup>+</sup>) et une molécule de CO<sub>2</sub>.
