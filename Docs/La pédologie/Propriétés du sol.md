@@ -11,14 +11,14 @@ La texture conditionne directement la structure du sol, et donc la **porosité**
 - sols où dominent les sables grossiers sont perméables et "filtrants", se réchauffent vite et ne s'agglomèrent pas en mottes
 - si aux sables grossiers sont associés beaucoup d'éléments fins, ceux-ci ont tendance à les colmater, rendant le sol imperméable en surface et "battant"
 - si aux sables fins et limons sont associés suffisamment d'argile, les éléments se structurent, donnant au sol une bonne perméabilité
-- 
+
 **Texture minérale** : composition granulométrique définie d’après la proportion des particules minérales du sol inférieures à 2mm, classées, après destruction des agrégats,par catégories de grosseurs en fractions principales correspondant à une échelle internationale
 
 **Texture organique** : reflet de la proportion de fibres et de matériel fin micro-agrégé dans les matériaux holorganiques (uniquement constitués d'organique).
 
 ### 2. La structure du sol
 
-La **structure d'un sol** est un mode d'assemblage, à un moment donné, de ses constituants solides (minéraux et organiques). C'est un état qui peut donc **évoluer dans le temps**. La solidité de la structure, sa résistance aux agents de dégradation est évaluée par des **tests de stabilité structurale**. La structure d'un sol s'observe aux échelles macroscopiques ou microscopiques. Elle dépend directement de la **texture** et aussi de l'**état des colloïdes**, du **taux humidité** ou de **matière organique** et, dans une large mesure, de l'activité de la faune.
+La **structure d'un sol** est un mode d'assemblage, à un moment donné, de ses constituants solides (minéraux et organiques). C'est un état qui peut donc **évoluer dans le temps**. La solidité de la structure, sa résistance aux agents de dégradation est évaluée par des **tests de stabilité structurale**. La structure d'un sol s'observe aux échelles macroscopiques ou microscopiques. Elle dépend directement de la **texture** et aussi de l'**état des colloïdes**, du **taux d'humidité** ou de **matière organique** et, dans une large mesure, de l'activité de la faune.
 
 **Colloïde** : substance formée d'éléments de très petite taille, les micelles capables de floculer ou de se disperser dans un liquide : argiles, humus, silice, alumine ou fer. 
 
@@ -31,31 +31,28 @@ La **structure d'un sol** est un mode d'assemblage, à un moment donné, de ses 
 
 Il existe 5 catégories de structures : 
 
-1. absence d'agrégats -> **structure lithiques ou lithologiques** héritées de la roche mère
+- absence d'agrégats -> **structure lithiques ou lithologiques** héritées de la roche mère
 
-2. absence d'agrégats, structures observées dans les matériaux minéraux ou organo-minéraux :
+- absence d'agrégats, structures observées dans les matériaux minéraux ou organo-minéraux :
 
-- **structure massive, continue ou compacte** : matériau cohérent = les éléments sont noyés/fondus dans une masse d'argile dispersée formant un bloc homogène
-- **structure particulaire** : matériau formé de particules libres et individualisés, les éléments sont juxtaposés sans liaison colloïdales (sans cohésion, ex. sables, graviers)
+      - **structure massive, continue ou compacte** : matériau cohérent = les éléments sont noyés/fondus dans une masse d'argile dispersée formant un bloc homogène
+      - **structure particulaire** : matériau formé de particules libres et individualisés, les éléments sont juxtaposés sans liaison colloïdales (sans cohésion, ex. sables, graviers)
 
-3. présence d'agrégats arrondis
+- présence d'agrégats arrondis
+      - **structure grenue** : agrégats plus ou moins sphériques
+      - **structure grumeleuse** : agrégats irréguliers plus ou moins agglomérés
+      - **structure micro grumeleuse ou floconneuse** : agrégats grumuleux < 1mm
 
-- **structure grenue** : agrégats plus ou moins sphériques
-- **structure grumeleuse** : agrégats irréguliers plus ou moins agglomérés
-- **structure micro grumeleuse ou floconneuse** : agrégats grumuleux < 1mm
+- présence d'agrégats à arêtes anguleuses 
+    - orientation horizontale des agrégats : **structure lamellaire**
+    - orientation verticale, agrégats allongés : **structure prismatique**
+    - faces planes nombreuses, arêtes vives inégales :**structure polyédrique anguleuse**
+    - faces planes nombreuses, arêtes émoussées : **structure polyédrique sub anguleuse**
 
-4. présence d'agrégats à arêtes anguleuses 
-
-- orientation horizontale des agrégats : **structure lamellaire**
-- orientation verticale, agrégats allongés : **structure prismatique**
-- faces planes nombreuses, arêtes vives inégales :**structure polyédrique anguleuse**
-- faces planes nombreuses, arêtes émoussées : **structure polyédrique sub anguleuse**
-
-5. structure formées à partir d'un matériel surtout végétal 
-
-- **structure fibreuse** : résidus organiques bruts, fibreux (mousses, tourbe, compost)
-- **structure feuilletée** : résidus organiques issus de feuilles d'aiguilles, arrangés horizontalement
-- **structure coprogène ou granulaire** : amas millimétriques globulaires (déjections) individualisés
+- structure formées à partir d'un matériel surtout végétal 
+    - **structure fibreuse** : résidus organiques bruts, fibreux (mousses, tourbe, compost)
+    - **structure feuilletée** : résidus organiques issus de feuilles d'aiguilles, arrangés horizontalement
+    - **structure coprogène ou granulaire** : amas millimétriques globulaires (déjections) individualisés
 
 Les différents structures influence indirectement la fertilité des sols.
 

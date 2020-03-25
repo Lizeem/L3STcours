@@ -17,7 +17,7 @@ L'étude des sols comporte 2 aspects complémentaires et indissociables :
 - **aspect statique** : étude des constituants et des propriétés physiques chimiques ou biologiques du sol qui permet d'aborder le *fonctionnement actuel des sol*;
 - **aspect dynamique** : étude de la pédogenèse et la formation des profils qui permet d'appréhender *l'évolution des sols*
 
-La **pédogenèse** est l'**ensemble des processus physiques**, chimiques et biologiques qui, en interaction les uns avec les autres, aboutissent à la formation, la transformation ou la différenciation des sols.
+La **pédogenèse** est l'**ensemble des processus physiques, chimiques et biologiques** qui, en interaction les uns avec les autres, aboutissent à la formation, la transformation ou la différenciation des sols.
 
 Les sols se forment à l'aide de 5 facteurs différents : 
 

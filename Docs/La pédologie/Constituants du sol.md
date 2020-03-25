@@ -63,15 +63,13 @@ Conséquences : création d'un mélange de constituants variables en taille et q
 
 ![Minéraux secondaires](Images/minérauxsecondaires.PNG)
 
-Pour étudier les constituants minéraux des sols, deux approches possibles : 
+Pour étudier les constituants minéraux des sols, trois approches possibles : 
 
-1. **selon la taille**
-
-Analyse granulométrique : répartition des éléments minéraux selon leur grosseur et leur pourcentage massique dans un échantillon 
-
-- définie la texture 
-- renseigne sur les processus de pédogenèse notamment propriétés fonctionnelles. 
-- est en lien avec la structure -> facteurs clés de la fertilité/qualité du sol.
+- **selon la taille**
+    
+      - définie la texture 
+      - renseigne sur les processus de pédogenèse notamment propriétés fonctionnelles. 
+      - est en lien avec la structure -> facteurs clés de la fertilité/qualité du sol.
 
 La texture peut être différente :
 
@@ -79,11 +77,11 @@ La texture peut être différente :
 - **texture limoneuse**: si excès de limon et insuffisance d’argile mauvaises propriétés physiques, structure massive (cf. battance)
 - **texture argileuse**: sol riche chimiquement, mais imperméable et mal aéré
 
-2. **selon la nature minéralogique des fractions** : 
+- **selon la nature minéralogique des fractions**
 
 L'analyse de géologie plus difficile fonction de l'altération ou la présence de différents minéraux. 
 
-3. **selon l'importance des argiles minéralogiques** : 
+- **selon l'importance des argiles minéralogiques** 
 
 Phyllosilicates d'aluminium organisés en feuillets constitués de couches de silice (tétraèdre silicium-oxygène) ou d'alumine (octaèdres, aluminium-oxygène).
 
@@ -98,7 +96,7 @@ Ces derniers ont des rôles importants dans la **formation des agrégats**.
 ## V. Complexe argilo-humique
 
 Dans les sols, les argiles et l'humus peuvent s'associer et former le **complexe argilo-humique**.
-Il constitue l'ensemble des substances du sol formées par l'association des molécules organiques humifiées et des argiles.
+Il constitue l'**ensemble des substances du sol** formées par l'**association des molécules organiques humifiées et des argiles**.
 
 Ce complexe est formée par 3 modes de liaison argile - humus : 
 
