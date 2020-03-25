@@ -5,9 +5,9 @@ et leur comportement :
 
 - la **topographie**
 
- - plane ou sub-plane : les formations superficielles évoluent sur place selon la nature de la roche initiale, le climat, le régime hydrique, l’action des organismes et la durée : **formations superficielles autochtones**
+   - plane ou sub-plane : les formations superficielles évoluent sur place selon la nature de la roche initiale, le climat, le régime hydrique, l’action des organismes et la durée : **formations superficielles autochtones**
   
- - sur versants : les formations superficielles subissent la dynamique gravitaire, qu’elle soit « libre » (éboulis, effondrements) ou assistée par un agent (eau, neige, glace,…) et sont tributaires de la pente (valeur, longueur, concavité/convexité) et de toutes les dynamiques qui s’y exercent, simultanément ou successivement : **formations superficielles sub-autochtones** ou « colluvions de versants »
+   - sur versants : les formations superficielles subissent la dynamique gravitaire, qu’elle soit « libre » (éboulis, effondrements) ou assistée par un agent (eau, neige, glace,…) et sont tributaires de la pente (valeur, longueur, concavité/convexité) et de toutes les dynamiques qui s’y exercent, simultanément ou successivement : **formations superficielles sub-autochtones** ou « colluvions de versants »
 
 - les **dynamiques externes** s’exercent sur tout matériel meuble qu’elle peuvent prendre en
 charge et déplacer sur de plus ou moins longues distances
@@ -262,8 +262,8 @@ L’influence du contexte géologique s’exprime à travers :
 
 - la cohésion de la roche, comme les discontinuités de la roche (failles, diaclases), par exemple ;
 - la disposition structurale, en particulier le pendage, la schistosité, l’orientation des diaclases. On distingue notamment :
-  - les versants à contre-pendage où les formations détritiques s’accumulent lentement vers le talweg ;
-  - les versants dans le sens du pendage où les glissement en masse s’effectuent banc sur banc.
+    - les versants à contre-pendage où les formations détritiques s’accumulent lentement vers le talweg ;
+    - les versants dans le sens du pendage où les glissement en masse s’effectuent banc sur banc.
 
 Les transit des formations superficielles de versant
 
@@ -498,22 +498,22 @@ Les glaciers constituent un puissant agent de transport. Les formes d'accumulati
 
 - les **dépôts glaciaires**, constitués par les moraines (terme créé par H.-B. de Saussure à la fin du XVIIIe siècle) ;
  
-  - **till basal** (« lodgment till ») ou **moraine de fond**, de nature variable selon le substrat, mais généralement formée de matériel limoneux et plus ou moins riche en clastes (diamicton) et affectée de déformations (glaci-tectonique) ;
-  - **till d’ablation** qui correspond à un dépôt morainique abandonné lors du retrait du glacier, formé de matériel hétéroclites, hétéro métrique et non-consolidé ;
+    - **till basal** (« lodgment till ») ou **moraine de fond**, de nature variable selon le substrat, mais généralement formée de matériel limoneux et plus ou moins riche en clastes (diamicton) et affectée de déformations (glaci-tectonique) ;
+    - **till d’ablation** qui correspond à un dépôt morainique abandonné lors du retrait du glacier, formé de matériel hétéroclites, hétéro métrique et non-consolidé ;
 
 - des **dépôts morainiques** divers et d’importance variable :
   
-  - arcs morainiques frontaux : matériel hétéro métrique, riche en blocs métriques dans une matrice limoneuse ;
-  - moraines latérales : idem … mais sa composition n’est représentative que d’une partie du bassin-versant ;
-  - moraines centrales : il s’agit de moraines latérales jointives (coalescence de de 2 émissaires glaciaires) ;
-  - moraines de poussée : matériel sédimentaire que le glacier charrie devant lui.
+    - arcs morainiques frontaux : matériel hétéro métrique, riche en blocs métriques dans une matrice limoneuse ;
+    - moraines latérales : idem … mais sa composition n’est représentative que d’une partie du bassin-versant ;
+    - moraines centrales : il s’agit de moraines latérales jointives (coalescence de de 2 émissaires glaciaires) ;
+    - moraines de poussée : matériel sédimentaire que le glacier charrie devant lui.
   
 - les **dépôts fluvio-glaciaires**, liés à la double activité de processus glaciaires et fluviatiles
   
-  - pro-glaciaires : liés aux écoulements sous-glaciaires, pauvres en fines, chenaux en tresses / cônes de graviers ;
-  - supra-glaciaires : sables et graviers, déposés sur le glacier (vent, éboulis, …) et abandonnées par la fonte ;
-  - sous-glaciaires : accumulations de galets très arrondies et de sables (eskers) ou d’incisions remplis de matériel plus grossier que l’encaissant (vallées tunnels) ;
-  - fluvio-glaciaires s.s. en aval du glacier : système à écoulement en tresse occupant l’ensemble du lit majeur.
+    - pro-glaciaires : liés aux écoulements sous-glaciaires, pauvres en fines, chenaux en tresses / cônes de graviers ;
+    - supra-glaciaires : sables et graviers, déposés sur le glacier (vent, éboulis, …) et abandonnées par la fonte ;
+    - sous-glaciaires : accumulations de galets très arrondies et de sables (eskers) ou d’incisions remplis de matériel plus grossier que l’encaissant (vallées tunnels) ;
+    - fluvio-glaciaires s.s. en aval du glacier : système à écoulement en tresse occupant l’ensemble du lit majeur.
 
 + des **dépôts glacio-lacustres** liés un transport en suspension puis de décantation
 

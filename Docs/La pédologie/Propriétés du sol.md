@@ -261,55 +261,55 @@ Faible prise en compte des organismes du sol dans les revues de taxonomie ou sys
 
 - **Géophiles actifs temporaires**
 
-  - développement à partir d'oeuf dans le sol, adulte aérien
-  - larves et nymphes
-  - action mécanique
+    - développement à partir d'oeuf dans le sol, adulte aérien
+    - larves et nymphes
+    - action mécanique
 
 - **Géophiles inactifs temporaires**
 
-  - hibernation, métamorphose
-  - pas d'action mécanique
-  - source de nourriture pour prédateurs, décomposeurs du sol
+    - hibernation, métamorphose
+    - pas d'action mécanique
+    - source de nourriture pour prédateurs, décomposeurs du sol
 
 - **Géophiles périodiques**
 
-  - cycle de vie entier dans le sol
-  - capable de changer d'endroit quand l'habitat est défavorable : compétition, densité
+    - cycle de vie entier dans le sol
+    - capable de changer d'endroit quand l'habitat est défavorable : compétition, densité
 
 - **Géobiontes** 
 
-  - présent en permanence dans le sol
-  - pouvoir de dispersion assez faible
+    - présent en permanence dans le sol
+    - pouvoir de dispersion assez faible
 
 **Classification par taille** 
 
 - **microfaune** : 
 
-  - organisme aquatique de taille < 0,2 mm
-  - vie aquatique
-  - capacité de déplacement très faible
-  - capacité de résistance très forte
+    - organisme aquatique de taille < 0,2 mm
+    - vie aquatique
+    - capacité de déplacement très faible
+    - capacité de résistance très forte
 
 - **mésofaune** : 
   
-  - organisme aérien 0,2 < taille < 2 mm
-  - vie dans les accumulations de MO
-  - capacité de déplacement faible
-  - capacité de résistance forte
+    - organisme aérien 0,2 < taille < 2 mm
+    - vie dans les accumulations de MO
+    - capacité de déplacement faible
+    - capacité de résistance forte
 
 - **macrofaune** : 
   
-  - organisme 2mm < taille < 10 cm
-  - vie dans la litière ou dans les galeries endogées
-  - capacité de déplacement forte
-  - capacité de résistance faible
+    - organisme 2mm < taille < 10 cm
+    - vie dans la litière ou dans les galeries endogées
+    - capacité de déplacement forte
+    - capacité de résistance faible
 
 - **mégafaune** : 
   
-  - organisme de taille > 10 cm
-  - vie dans les galeries endogées
-  - capacité de déplacement très forte
-  - capacité de résistance forte
+    - organisme de taille > 10 cm
+    - vie dans les galeries endogées
+    - capacité de déplacement très forte
+    - capacité de résistance forte
 
 Cette classification est simple et informatif même si certains organismes appartiennent à plusieurs classes de taille. Reflète également les exigences matérielles d'extraction.
 
@@ -317,29 +317,29 @@ Cette classification est simple et informatif même si certains organismes appar
 
 - **espèces endogées** : 
   
-  - taille variable
-  - vie dans le sol
-  - ressources trophiques : MOS
-  - réseaux de galeries horizontales
-  - production d'agrégats organo-minéraux
-  - impacts sur la dynamique des MOS
+    - taille variable
+    - vie dans le sol
+    - ressources trophiques : MOS
+    - réseaux de galeries horizontales
+    - production d'agrégats organo-minéraux
+    - impacts sur la dynamique des MOS
 
 - **espèces épigées** : 
   
-  -  taille réduite
-  -  vie dans la litière
-  -  ressources trophiques : litière, déjections de mammifères
-  -  pas de galeries
-  -  impacts liés à la fragmentation de la litière fraîche
+    -  taille réduite
+    -  vie dans la litière
+    -  ressources trophiques : litière, déjections de mammifères
+    -  pas de galeries
+    -  impacts liés à la fragmentation de la litière fraîche
 
 - **espèces anéciques** :
    
-  - grande taille
-  - vie dans le sol
-  - ressources trophiques : litière + MOS
-  - réseau de galeries verticales
-  - production d'agrégats
-  - impact sur l'hydrologie du sol sur la dynamique des MOS
+    - grande taille
+    - vie dans le sol
+    - ressources trophiques : litière + MOS
+    - réseau de galeries verticales
+    - production d'agrégats
+    - impact sur l'hydrologie du sol sur la dynamique des MOS
 
 Classification trophique est réseaux d'interactions : classement selon les préférences trophiques (herbivores, prédateurs, saprophages, parasites, polyphages, mycophages, rhizophages, nécrophages, xylophages..)
 
@@ -347,24 +347,24 @@ Classification trophique est réseaux d'interactions : classement selon les pré
 
 - **micro prédateurs** : 
   
-  - interactions avec le microflore : prédation
-  - bio structures : aucunes
-  - fonctions : espèces clef de voûte, régulent les activités microbienne par leur prédation, stimulent la minéralisation de la MO
-  - principalement des micro invertébrés (nématodes et protozoaires)
+    - interactions avec le microflore : prédation
+    - bio structures : aucunes
+    - fonctions : espèces clef de voûte, régulent les activités microbienne par leur prédation, stimulent la minéralisation de la MO
+    - principalement des micro invertébrés (nématodes et protozoaires)
 
 - **les transformateurs de litière** :
   
-  - interactions avec microflore : rhumen externe (digestion externe)
-  - bio structures : holorganiques (pelotes fécales)
-  - fonctions :fragmentation de la MO fraîche, stimulation de l'activité microbienne
-  - principalement des méso - macro invertébrés (collemboles, oribates, vers épigés, diplopodes etc.)
+    - interactions avec microflore : rhumen externe (digestion externe)
+    - bio structures : holorganiques (pelotes fécales)
+    - fonctions :fragmentation de la MO fraîche, stimulation de l'activité microbienne
+    - principalement des méso - macro invertébrés (collemboles, oribates, vers épigés, diplopodes etc.)
   
 - **les ingénieurs du sol**:
   
-  - interaction avec le microflore : symbiose digestive (digestion interne)
-  - bio structures principalement organo-minérales
-  - fonctions : production d'agrégats, contrôle de la dynamique de la MO
-  - principalement des macro invertébrés (vers de terre, termites, fourmis) et des vertébrés 
+    - interaction avec le microflore : symbiose digestive (digestion interne)
+    - bio structures principalement organo-minérales
+    - fonctions : production d'agrégats, contrôle de la dynamique de la MO
+    - principalement des macro invertébrés (vers de terre, termites, fourmis) et des vertébrés 
 
 La racine absorbent les nutriments et l'eau dans le sol est va l'acidifié. Mais elle va aussi rejeter des sucres qui vont nourrir les organismes du sol, cette exsudation de composé organique permet aux bactéries d'être très présentes dans ces zones. Il existe différents points chauds d'activité dans le sol en fonction de l'apport d'énergie.
 
@@ -446,8 +446,8 @@ Valeurs des organismes du sol :
 
 - **valeur intrinsèque** (valeurs éthiques ou religieuses)
 - **valeur instrumentales** (usages effectifs ou potentiels)
-  - **valeurs économiques directes** : (usages effectifs directement utilisées (ex. comme nourriture, etc..))
-  - **valeurs économiques indirectes** : espèces qui procurent des bénéfices sans être directement prélevées (ex. services écosystémiques, potentiel touristique, etc..)
+    - **valeurs économiques directes** : (usages effectifs directement utilisées (ex. comme nourriture, etc..))
+    - **valeurs économiques indirectes** : espèces qui procurent des bénéfices sans être directement prélevées (ex. services écosystémiques, potentiel touristique, etc..)
 
 ![services écosystémiques](Images/servicesécosystémiques.PNG)
 
