@@ -41,7 +41,7 @@ Il existe 5 catégories de structures :
 - présence d'agrégats arrondis
       - **structure grenue** : agrégats plus ou moins sphériques
       - **structure grumeleuse** : agrégats irréguliers plus ou moins agglomérés
-      - **structure micro grumeleuse ou floconneuse** : agrégats grumuleux < 1mm
+      - **structure micro grumeleuse ou floconneuse** : agrégats grumeleux < 1mm
 
 - présence d'agrégats à arêtes anguleuses 
     - orientation horizontale des agrégats : **structure lamellaire**
@@ -158,10 +158,10 @@ Trois valeurs caractéristiques :
 
 3. **Taux de saturation en bases** (V) est le rapport V = S/T x 100
 
-- sols calcaires, riches en calcaire actif : V = 80-90% 
-- sols formés sur une roche mère sableuse, gréneuse ou granitique pauvres en bases filtrantes : V = <20%.
+      - sols calcaires, riches en calcaire actif : V = 80-90% 
+      - sols formés sur une roche mère sableuse, gréneuse ou granitique pauvres en bases filtrantes : V = <20%.
 
-Plus les argiles ont des feuillets, plus elles ont la capacité d'échange cationiques. Lorsque qu'on a un sol très acide, celui - ci est désaturé en base contrairement aux sols plus basique où on aura plus de carbonate qui vont fixés l'eau est le Co<sub>2</sub> qui seront saturés en base.
+Plus les argiles ont des feuillets, plus elles ont la capacité d'échange cationiques. Lorsque qu'on a un sol très acide, celui - ci est dé-saturé en base contrairement aux sols plus basique où on aura plus de carbonate qui vont fixés l'eau est le Co<sub>2</sub> qui seront saturés en base.
 
 ### 2. Le pH du sol
 
@@ -379,15 +379,15 @@ Les activités de la faune interviennent à des échelles spatio-temporelles fin
 
 ### 2. Rôles et importance dans les sols
 
-1. Rôle dans la structuration des sols
+- **Rôle dans la structuration des sols**
 
 Agrégatosphère : interactions micro organismes et formations des agrégats du sol. Les vers de terre, via leur galeries vont permettre d'aérer le sol.
 
-2. Régulation des propriétés hydriques du sol
+- **Régulation des propriétés hydriques du sol**
 
 L'impact de la faune du sol sur l'infiltration et le stockage de l'eau dans le sol est mal connue. Agit en modifiant la rugosité et la porosité du sol. Effets très variables en fonction des espèces et des groupes fonctionnels.
 
-3. Décomposition des MOS et recyclages des éléments minéraux 
+- **Décomposition des MOS et recyclages des éléments minéraux**
 
 Les sols assurent 60-90% de la décomposition de la MO de la production primaire des écosystèmes terrestres. Le organismes décomposeurs ont 3 types d'actions sur la MO : 
 
@@ -406,16 +406,16 @@ Les résultats des actions des organismes décomposeurs peuvent être étudiés 
 
 Les ingénieurs écologiques du sol modulent également la dynamique des MOS en : 
 
-- produisant des biostructures organo-minérales
+- produisant des bio structures organo-minérales
 - modifiant le rapport minéralisation vs. humification
 - en protégeant physiquement la MO
 - en l'exposant à l'activité des micro organismes
 
-4. Stockage du C et régulation climatique
+- **Stockage du C et régulation climatique**
    
 Stockage ou séquestration du carbone : processus au travers duquel le CO<sub>2</sub> atmosphérique est transféré dans le pool de carbone résilient. Sujet d'actualité car il pourrait contrebalancer les émission de CO<sub>2</sub> liées à l'utilisation des énergies fossiles. Le CO<sub>2</sub> est fixé par la photosynthèse et intègre le sol par l'intermédiaire de la décomposition des tissus végétaux morts. Les structures produites par les invertébrés du sol (agrégats, boulettes fécales) protègent la MO et augmente le temps de résidence du carbone. L'action des micro organismes participent à la création d'humus : les molécules humiques ont un temps de résidence important dans le sol (plusieurs milliers d'années pour certaines). Les sols sont siège de nombreux processus impliqués dans le dynamique des MOS (biodégradation, incorporation...). Les sols constituent un réservoir de carbone considérable.
 
-5. Productivé primaire
+- **Productivé primaire**
 
 Suivant les organismes concernés :
 
@@ -443,7 +443,7 @@ Valeurs des organismes du sol :
 
 - **valeur intrinsèque** (valeurs éthiques ou religieuses)
 - **valeur instrumentales** (usages effectifs ou potentiels)
-    - **valeurs économiques directes** : (usages effectifs directement utilisées (ex. comme nourriture, etc..))
+    - **valeurs économiques directes** (usages effectifs directement utilisées (ex. comme nourriture, etc..))
     - **valeurs économiques indirectes** : espèces qui procurent des bénéfices sans être directement prélevées (ex. services écosystémiques, potentiel touristique, etc..)
 
 ![services écosystémiques](Images/servicesécosystémiques.PNG)
