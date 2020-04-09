@@ -3,12 +3,12 @@
 Étudier les communautés microbiennes dans leur environnement naturel :
 
 - **diversité** des micro organismes présents dans les écosystèmes
-  -   quels sont les micro organismes présents dans un écosystème donné ? **diversité spécifique**
-  -   quelle est leur abondance relative ?
-  -   que font-ils ou sont-ils capables de faire ? **diversité fonctionnelle des communautés**
+-   quels sont les micro organismes présents dans un écosystème donné ? **diversité spécifique**
+-   quelle est leur abondance relative ?
+-   que font-ils ou sont-ils capables de faire ? **diversité fonctionnelle des communautés**
 
 - **interactions** existantes avec les autres micro organismes
-  - comment et avec qui interagissent-ils ?
+    - comment et avec qui interagissent-ils ?
 
 ## Partie I : La problématique de l'échantillonnage/archivage
 
