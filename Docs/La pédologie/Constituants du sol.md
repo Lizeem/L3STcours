@@ -38,7 +38,7 @@ La **minéralisation** est donc le stade ultime de la biodégradation des matiè
 
 L'**humification** est l'ensemble des processus de transformation des matière organiques fraîches en humus sous l'influence des micro organismes du sol.
 
-La minéralisation en montagne est plus faible, cela est lié à l'acidité du sol ainsi que la température qui peuvent ralentir les processus. Peut de restitution de MO dans les sols dans les zones d'agriculture donc on a plutôt un appauvrissement.
+La minéralisation en montagne est plus faible, cela est lié à l'acidité du sol ainsi que la température qui peuvent ralentir les processus. Peu de restitution de MO dans les sols dans les zones d'agriculture donc on a plutôt un appauvrissement.
 
 ## IV. Fraction minérale
 

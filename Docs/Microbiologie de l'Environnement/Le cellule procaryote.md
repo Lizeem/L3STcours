@@ -16,7 +16,7 @@ Toute cellule procaryote est délimitée par une membrane. Cette membrane fait 7
 
 La bactérie se divise par [fission binaire](http://www.perrin33.com/microbiologie/lereste/divisiondesbacteries.html)
 
-Les bactéries obtiennent leur énergie par la lumière, elles sont **phototrophes**. [bactéries phototrophes](https://www.ebiologie.fr/cours/s/55/nutrition-bacterienne)
+Les bactéries obtiennent leur énergie par la lumière, ce sont des [bactéries phototrophes](https://www.ebiologie.fr/cours/s/55/nutrition-bacterienne)
 
 Elles peuvent être aussi des [bactéries chimiotrophes](https://www.aquaportail.com/definition-1896-chimiotrophe.html)
 

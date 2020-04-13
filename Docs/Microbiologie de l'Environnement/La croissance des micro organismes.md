@@ -101,6 +101,8 @@ Trois types de macromolécules sont sensibles à ces oxydations :
 - les protéines et les acides aminés (oxydation des groupements thiols)
 - les acides nucléiques (création des nombreuses liaisons sur les chaînes de l'ADN) -> létal plutôt que mutagène
 
+![Type de bactéries](Images/typedebacteries.PNG)
+
 Tableau
 
 | type | SOD | catalyse % peroxyde |

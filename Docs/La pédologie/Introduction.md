@@ -6,7 +6,7 @@ Un sol est un **volume** qui s'étend depuis la surface de la Terre jusqu'à une
 
 On peut étudier le sol à l'échelle du paysage mais aussi de façon plus locale avec l'étude de profil de sol (horizon) ou encore l'étude des mycéliums, des agrégats ou des pores présents dans ce sol.
 
-L'**horizon** est une couche grossièrement parallèle à la surface du sol et dont l'existence est reconnue par l'observateur. Les horizons sont différents les uns des autres par leur constituants, leur organisation et leur comportement. Différents horizons d'un même sol donne un profil de sol.
+L'**horizon** est une couche grossièrement parallèle à la surface du sol et dont l'existence est reconnue par l'observateur. Les horizons sont différents les uns des autres par leur constituants, leur organisation et leur comportement. Différents horizons d'un même sol donnent un profil de sol.
 
 Un **profil de sol** est une superposition des horizons pédologiques dans un sol, observable à la faveur d'une coupe verticale, il correspond à l'**ensemble des horizons** d'un sol.
 
@@ -31,7 +31,7 @@ Le sol se transforme par des **processus pédogénétiques** avec des transforma
 
 Pour décrire un profil de sol il faut :
 
-1. situer le contexte dans le pédo-paysage
+1. situer le contexte dans le pédopaysage
 2. décrire le profil et horizons (forme d'humus, épaisseur)
 3. description fines des horizons (couleur, consistance, texture, taille)
 4. prélèvements d'échantillons et analyses complémentaires en laboratoire

@@ -33,7 +33,7 @@ Il existe 5 catégories de structures :
 
 - absence d'agrégats -> **structure lithiques ou lithologiques** héritées de la roche mère
 
-- absence d'agrégats, structures observées dans les matériaux minéraux ou organo-minéraux :
+- absence d'agrégats, structures observées dans les matériaux minéraux ou organo minéraux :
 
       - **structure massive, continue ou compacte** : matériau cohérent = les éléments sont noyés/fondus dans une masse d'argile dispersée formant un bloc homogène
       - **structure particulaire** : matériau formé de particules libres et individualisés, les éléments sont juxtaposés sans liaison colloïdales (sans cohésion, ex. sables, graviers)
