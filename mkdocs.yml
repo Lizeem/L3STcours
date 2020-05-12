@@ -20,3 +20,5 @@ markdown_extensions:
   - admonition
   - footnotes
   - pymdownx.arithmatex
+  - toc:
+      permalink: true
