@@ -447,7 +447,7 @@ E<sub>T</sub> (J/m²) = E<sub>c</sub> + E<sub>p</sub> = ρg(H²/8)
 Energie du flux :
 
 $$
-\frac{ρgH²Cg}{8} = Fx
+\frac{\rhogH\exp{2}Cg}{8}
 $$
 
 Tenseur de radiation :
