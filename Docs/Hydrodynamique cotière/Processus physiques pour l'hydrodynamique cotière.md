@@ -447,6 +447,10 @@ E<sub>T</sub> (J/m²) = E<sub>c</sub> + E<sub>p</sub> = ρg(H²/8)
 Energie du flux :
 
 $$
+\frac{n!}{k!(n-k)!} = \binom{n}{k}
+$$
+
+$$
 \frac{\rhogH\exp{2}Cg}{8}
 $$
 
